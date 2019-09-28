@@ -9,3 +9,7 @@
 
 
 # z 1997 roku wyniki są na wikipedii
+
+
+
+# pododbno jest spoko jeszcze biblioteka beautifulsoup4
