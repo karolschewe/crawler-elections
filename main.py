@@ -13,3 +13,25 @@
 
 
 # pododbno jest spoko jeszcze biblioteka beautifulsoup4
+
+#author: Karol Schewe
+
+
+from bs4 import BeautifulSoup
+import requests
+import lxml.html as lh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
