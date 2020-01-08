@@ -1,47 +1,27 @@
-import requests
-import lxml.html as lh
 import pandas as pd
+import xlrd
 
 
-# url='http://pokemondb.net/pokedex/all'
-# #Create a handle, page, to handle the contents of the website
-# page = requests.get(url)
-# #Store the contents of the website under doc
-# doc = lh.fromstring(page.content)
-# #Parse data that are stored between <tr>..</tr> of HTML
-# tr_elements = doc.xpath('//tr')
-#
-# #Check the length of the first 12 rows
-# [len(T) for T in tr_elements[:12]]
-#
-# tr_elements = doc.xpath('//tr')
-# #Create empty list
-# col=[]
-# i=0
-# #For each row, store each first element (header) and an empty list
-# for t in tr_elements[0]:
-#     i+=1
-#     name=t.text_content()
-#     print (i,name)
-#     col.append((name,[]))
+teryt_code_list = pd.read_excel('terytki.xls',header=0,converters={'TERYT':str})
+
+teryt = teryt_code_list['TERYT'][0]
+teryt_to_url = teryt[0:2] + '0000'
+powiat = teryt_code_list['Powiat'][0]
 
 
 
-import pandas as pd
-
-url = r'https://wybory2011.pkw.gov.pl/wyn/300000/pl/306401.html#tabs-1'
+url = r'https://wybory2011.pkw.gov.pl/wyn/' + teryt_to_url + r'/pl/' + teryt + r'.html'
 tables = pd.read_html(url) # Returns list of all tables on page
 n_tables = len(tables)
 gmina_name = tables[0][0][0]
 year = 2011
 elections_name = "sejm"
-teryt = 306401
-powiat = "Poznan"
-dict_list = []
+sejm_list = []
+# pierwsza tabelka -  wybory do sejmu
 for lista in range(2,n_tables-2):
     political_party = tables[lista].iloc[0,0]
     n_of_votes = tables[lista].iloc[-1,2]
-    votes_percentage = tables[lista].iloc[-1,3]
+    votes_percentage = tables[lista].iloc[-1,3][:-1]
     print(political_party)
     print(votes_percentage)
     print(n_of_votes)
@@ -56,7 +36,34 @@ for lista in range(2,n_tables-2):
         'percentage': votes_percentage
     }
     print(df_row)
-    dict_list.append(df_row)
-final_df = pd.DataFrame.from_dict(dict_list)
-print(final_df)
-print(gmina_name)
+    sejm_list.append(df_row)
+
+
+
+# druga tabelka - frekwencja
+turnout_list = []
+turnout_row = {
+    'year': year,
+    'elections': elections_name,
+    'teryt_code': teryt,
+    'powiat': powiat,
+    'gmina': gmina_name,
+    'population': tables[0][1][2],
+    'eligible_to_vote': tables[0][1][5],
+    'turnout_%': tables[1].iloc[-1,6][:-1],
+    'turnout_ppl': tables[1].iloc[-1,7]
+}
+turnout_list.append(turnout_row)
+
+# trzecia tabelka - senat
+senat_list = []
+for index, candidate in tables[-1][2:].iterrows():
+    candidate_ = candidate[1].split()[0]
+senat_row = {
+'year': year,
+    'elections': elections_name,
+    'teryt_code': teryt,
+    'powiat': powiat,
+    'gmina': gmina_name
+}
+# print(tables[-1].to_string())
