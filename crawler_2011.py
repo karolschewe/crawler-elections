@@ -4,66 +4,79 @@ import xlrd
 
 teryt_code_list = pd.read_excel('terytki.xls',header=0,converters={'TERYT':str})
 
-teryt = teryt_code_list['TERYT'][0]
-teryt_to_url = teryt[0:2] + '0000'
-powiat = teryt_code_list['Powiat'][0]
 
-
-
-url = r'https://wybory2011.pkw.gov.pl/wyn/' + teryt_to_url + r'/pl/' + teryt + r'.html'
-tables = pd.read_html(url) # Returns list of all tables on page
-n_tables = len(tables)
-gmina_name = tables[0][0][0]
 year = 2011
-elections_name = "sejm"
 sejm_list = []
-# pierwsza tabelka -  wybory do sejmu
-for lista in range(2,n_tables-2):
-    political_party = tables[lista].iloc[0,0]
-    n_of_votes = tables[lista].iloc[-1,2]
-    votes_percentage = tables[lista].iloc[-1,3][:-1]
-    print(political_party)
-    print(votes_percentage)
-    print(n_of_votes)
-    df_row = {
+turnout_list = []
+senat_list = []
+for index, code in teryt_code_list.iloc[0:10].iterrows():
+    teryt = code['TERYT']
+    teryt_to_url = teryt[0:2] + '0000'
+    powiat = code['Powiat']
+
+    url = r'https://wybory2011.pkw.gov.pl/wyn/' + teryt_to_url + r'/pl/' + teryt + r'.html'
+    tables = pd.read_html(url)  # Returns list of all tables on page
+    n_tables = len(tables)
+    gmina_name = tables[0][0][0]
+
+    # pierwsza tabelka -  wybory do sejmu
+    for lista in range(2, n_tables - 2):
+        political_party = tables[lista].iloc[0, 0]
+        n_of_votes = tables[lista].iloc[-1, 2]
+        votes_percentage = tables[lista].iloc[-1, 3][:-1]
+        df_row = {
+            'year': year,
+            'elections': "sejm",
+            'teryt_code': teryt,
+            'powiat': powiat,
+            'gmina': gmina_name,
+            'political_party': political_party,
+            'n_votes': n_of_votes,
+            'percentage': votes_percentage
+        }
+        sejm_list.append(df_row)
+
+    # druga tabelka - frekwencja
+
+    turnout_row = {
         'year': year,
-        'elections': elections_name,
         'teryt_code': teryt,
         'powiat': powiat,
         'gmina': gmina_name,
-        'political_party': political_party,
-        'n_votes': n_of_votes,
-        'percentage': votes_percentage
+        'population': tables[0][1][2],
+        'eligible_to_vote': tables[0][1][5],
+        'turnout_%': tables[1].iloc[-1, 6][:-1],
+        'turnout_ppl': tables[1].iloc[-1, 7]
     }
-    print(df_row)
-    sejm_list.append(df_row)
+    turnout_list.append(turnout_row)
+
+    # trzecia tabelka - senat
+
+    for index, candidate in tables[-1][2:].iterrows():
+        candidate_names_list = candidate[1].split()
+        candidate_surname = candidate_names_list[0]
+        candidate_names = ' '.join(candidate_names_list[1:])
+        votes = candidate[2]
+        percentage = candidate[3][:-1]
+        senat_row = {
+            'year': year,
+            'elections': "senat",
+            'teryt_code': teryt,
+            'powiat': powiat,
+            'gmina': gmina_name,
+            'surname': candidate_surname,
+            'names': candidate_names,
+            'n_votes': votes,
+            'percentage': percentage
+        }
+        senat_list.append(senat_row)
 
 
+sejm_df = pd.DataFrame.from_dict(sejm_list)
+turnout_df = pd.DataFrame.from_dict(turnout_list)
+senat_df = pd.DataFrame.from_dict(senat_list)
 
-# druga tabelka - frekwencja
-turnout_list = []
-turnout_row = {
-    'year': year,
-    'elections': elections_name,
-    'teryt_code': teryt,
-    'powiat': powiat,
-    'gmina': gmina_name,
-    'population': tables[0][1][2],
-    'eligible_to_vote': tables[0][1][5],
-    'turnout_%': tables[1].iloc[-1,6][:-1],
-    'turnout_ppl': tables[1].iloc[-1,7]
-}
-turnout_list.append(turnout_row)
-
-# trzecia tabelka - senat
-senat_list = []
-for index, candidate in tables[-1][2:].iterrows():
-    candidate_ = candidate[1].split()[0]
-senat_row = {
-'year': year,
-    'elections': elections_name,
-    'teryt_code': teryt,
-    'powiat': powiat,
-    'gmina': gmina_name
-}
-# print(tables[-1].to_string())
+sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False)
+turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False)
+senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False)
+print(pd.DataFrame.from_dict(senat_list).to_string())
