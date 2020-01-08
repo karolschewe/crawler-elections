@@ -9,7 +9,8 @@ year = 2011
 sejm_list = []
 turnout_list = []
 senat_list = []
-for index, code in teryt_code_list.iloc[0:10].iterrows():
+
+for ind, code in teryt_code_list.iterrows():
     teryt = code['TERYT']
     teryt_to_url = teryt[0:2] + '0000'
     powiat = code['Powiat']
@@ -72,6 +73,7 @@ for index, code in teryt_code_list.iloc[0:10].iterrows():
         senat_list.append(senat_row)
 
 
+
 sejm_df = pd.DataFrame.from_dict(sejm_list)
 turnout_df = pd.DataFrame.from_dict(turnout_list)
 senat_df = pd.DataFrame.from_dict(senat_list)
@@ -79,4 +81,5 @@ senat_df = pd.DataFrame.from_dict(senat_list)
 sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False)
 turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False)
 senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False)
+
 print(pd.DataFrame.from_dict(senat_list).to_string())
