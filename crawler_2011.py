@@ -1,5 +1,5 @@
 import pandas as pd
-import xlrd
+
 
 
 teryt_code_list = pd.read_excel('terytki.xls',header=0,converters={'TERYT':str})
