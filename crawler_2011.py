@@ -1,5 +1,16 @@
 import pandas as pd
+'''
+Do uruchomienia tego programu potrzebny jest plik z lista kodów TERYT gmin, o których zamierzamy zebrać informacje.
+Program korzysta z bibliotek:
+- pandas
+- urllib3
+- html5lib
+Repozytorium zawiera plik requirements.txt za pomocą którego w prosty sposób można zainstalować wszystkie wymagane pakiety.
+Aby to uczynić należy wykonać komendę pip install: –r requirements.txt
+Do programu nie wymagany jest dodatkowy input.
+Program zapisuje wyniki wyborów do sejmu, senatu oraz frekwencję na poziomie gminy do trzech odrębnych plików csv.
 
+'''
 
 
 teryt_code_list = pd.read_excel('terytki.xls',header=0,converters={'TERYT':str})
@@ -82,4 +93,3 @@ sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False)
 turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False)
 senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False)
 
-print(pd.DataFrame.from_dict(senat_list).to_string())
