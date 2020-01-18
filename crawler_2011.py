@@ -89,7 +89,9 @@ sejm_df = pd.DataFrame.from_dict(sejm_list)
 turnout_df = pd.DataFrame.from_dict(turnout_list)
 senat_df = pd.DataFrame.from_dict(senat_list)
 
-sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False)
-turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False)
-senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False)
+print(sejm_df.to_string())
+
+sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False, encoding='utf-8-sig')
+turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False, encoding='utf-8-sig')
+senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False, encoding='utf-8-sig')
 
