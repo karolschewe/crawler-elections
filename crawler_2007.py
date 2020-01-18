@@ -19,17 +19,35 @@ sejm_list = []
 turnout_list = []
 
 # WYBORY DO SENATU W TEJ ORDYNACJI WYBORCZEJ POZWALAŁY NA ODDANIE GŁOSU NA DOWOLNĄ LICZBĘ KANDYDATÓW
-# -- PROSZĘ SIE NIE DZIWIĆ ŻE NIE SUMUJE SIĘ DO 100%
-senat_list = []
-teryt = teryt_code_list['TERYT'][1020]
+# -- nie przyda mi sie to wiec na razie
+sejm_list = []
+teryt = teryt_code_list['TERYT'][0]
+powiat = teryt_code_list['Powiat'][0]
+gmina_name = teryt_code_list['Gmina'][0]
 url = "https://wybory2007.pkw.gov.pl/SJM/PL/WYN/W/" + teryt + ".htm"
+print(url)
 
-test = pd.read_html(url)
+url_data = pd.read_html(url)
 
 # for table in test:
 #     print(table.to_string())
 
 # w tabelce z indeksem 5 sa wyniki glosowania na listy -- rozna liczba list -- trzeba bedzie iterowac od zerowego wiersza az uzyskamy symbol sumy
 # w tabelce z indeksem cztery - frekwencja
-print(test[5].to_string())
+print(url_data[5].to_string())
+for index, row in url_data[5].iterrows():
+    if row[0] != 'Σ':
+        df_row = {
+            'year': year,
+            'elections': "sejm",
+            'teryt_code': teryt,
+            'powiat': powiat,
+            'gmina': gmina_name,
+            'political_party': row[3],
+            'n_votes': row[4],
+            'percentage': row[5]
+        }
+        sejm_list.append(df_row)
 
+print(sejm_list)
+print(pd.DataFrame.from_dict(sejm_list).to_string())
