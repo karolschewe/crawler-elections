@@ -78,7 +78,6 @@ plt.show()
 # ogolny udzial glosow wyborach na dana partie
 how_many_votes_for_party = sejm_df.groupby(['political_party'], sort=False).sum()
 all_votes_2011 = sum(how_many_votes_for_party['n_votes'])
-print(all_votes_2011)
 how_many_votes_for_party['percentage']=how_many_votes_for_party['n_votes']/all_votes_2011
 how_many_votes_for_party = how_many_votes_for_party.sort_values(by=['percentage'])
 how_many_votes_for_party = how_many_votes_for_party[1:]

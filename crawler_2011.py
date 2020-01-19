@@ -1,4 +1,5 @@
 import pandas as pd
+from time import sleep
 '''
 Do uruchomienia tego programu potrzebny jest plik z lista kodów TERYT gmin, o których zamierzamy zebrać informacje.
 Program korzysta z bibliotek:
@@ -22,68 +23,73 @@ turnout_list = []
 senat_list = []
 
 for ind, code in teryt_code_list.iterrows():
-    teryt = code['TERYT']
-    teryt_to_url = teryt[0:2] + '0000'
-    powiat = code['Powiat']
+    for attempt in range(3):
+        try:
 
-    url = r'https://wybory2011.pkw.gov.pl/wyn/' + teryt_to_url + r'/pl/' + teryt + r'.html'
-    tables = pd.read_html(url)  # Returns list of all tables on page
-    n_tables = len(tables)
-    gmina_name = tables[0][0][0]
+            teryt = code['TERYT']
+            teryt_to_url = teryt[0:2] + '0000'
+            powiat = code['Powiat']
 
-    # pierwsza tabelka -  wybory do sejmu
-    for lista in range(2, n_tables - 2):
-        political_party = tables[lista].iloc[0, 0]
-        n_of_votes = tables[lista].iloc[-1, 2]
-        votes_percentage = tables[lista].iloc[-1, 3][:-1]
-        df_row = {
-            'year': year,
-            'elections': "sejm",
-            'teryt_code': teryt,
-            'powiat': powiat,
-            'gmina': gmina_name,
-            'political_party': political_party,
-            'n_votes': n_of_votes,
-            'percentage': votes_percentage
-        }
-        sejm_list.append(df_row)
+            url = r'https://wybory2011.pkw.gov.pl/wyn/' + teryt_to_url + r'/pl/' + teryt + r'.html'
+            tables = pd.read_html(url)  # Returns list of all tables on page
+            n_tables = len(tables)
+            gmina_name = tables[0][0][0]
 
-    # druga tabelka - frekwencja
+            # pierwsza tabelka -  wybory do sejmu
+            for lista in range(2, n_tables - 2):
+                political_party = tables[lista].iloc[0, 0]
+                n_of_votes = tables[lista].iloc[-1, 2]
+                votes_percentage = tables[lista].iloc[-1, 3][:-1]
+                df_row = {
+                    'year': year,
+                    'elections': "sejm",
+                    'teryt_code': teryt,
+                    'powiat': powiat,
+                    'gmina': gmina_name,
+                    'political_party': political_party,
+                    'n_votes': n_of_votes,
+                    'percentage': votes_percentage
+                }
+                sejm_list.append(df_row)
 
-    turnout_row = {
-        'year': year,
-        'teryt_code': teryt,
-        'powiat': powiat,
-        'gmina': gmina_name,
-        'population': tables[0][1][2],
-        'eligible_to_vote': tables[0][1][5],
-        'turnout_%': tables[1].iloc[-1, 6][:-1],
-        'turnout_ppl': tables[1].iloc[-1, 7]
-    }
-    turnout_list.append(turnout_row)
+            # druga tabelka - frekwencja
 
-    # trzecia tabelka - senat
+            turnout_row = {
+                'year': year,
+                'teryt_code': teryt,
+                'powiat': powiat,
+                'gmina': gmina_name,
+                'population': tables[0][1][2],
+                'eligible_to_vote': tables[0][1][5],
+                'turnout_%': tables[1].iloc[-1, 6][:-1],
+                'turnout_ppl': tables[1].iloc[-1, 7]
+            }
+            turnout_list.append(turnout_row)
 
-    for index, candidate in tables[-1][2:].iterrows():
-        candidate_names_list = candidate[1].split()
-        candidate_surname = candidate_names_list[0]
-        candidate_names = ' '.join(candidate_names_list[1:])
-        votes = candidate[2]
-        percentage = candidate[3][:-1]
-        senat_row = {
-            'year': year,
-            'elections': "senat",
-            'teryt_code': teryt,
-            'powiat': powiat,
-            'gmina': gmina_name,
-            'surname': candidate_surname,
-            'names': candidate_names,
-            'n_votes': votes,
-            'percentage': percentage
-        }
-        senat_list.append(senat_row)
+            # trzecia tabelka - senat
 
-
+            for index, candidate in tables[-1][2:].iterrows():
+                candidate_names_list = candidate[1].split()
+                candidate_surname = candidate_names_list[0]
+                candidate_names = ' '.join(candidate_names_list[1:])
+                votes = candidate[2]
+                percentage = candidate[3][:-1]
+                senat_row = {
+                    'year': year,
+                    'elections': "senat",
+                    'teryt_code': teryt,
+                    'powiat': powiat,
+                    'gmina': gmina_name,
+                    'surname': candidate_surname,
+                    'names': candidate_names,
+                    'n_votes': votes,
+                    'percentage': percentage
+                }
+                senat_list.append(senat_row)
+            break
+        except:
+            sleep(5)
+            continue
 
 sejm_df = pd.DataFrame.from_dict(sejm_list)
 turnout_df = pd.DataFrame.from_dict(turnout_list)
