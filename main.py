@@ -1,26 +1,13 @@
-#3 adres strony jest zbudowany w sposob"
-#https://wybory2001.pkw.gov.pl/
-#**0000/ <- gwiazdki to kod teryt wojewodztwa
-#SSSS**/ gdzie gwiazdka to okreg wyborczy
-#******/ kod teryt powiatu
-# /sjg2_p.html --- dla procentow na partie
-# /sjg1_p.html dla frekwencji i procenta waznych glosow
-
-
-
-# z 1997 roku wyniki są na wikipedii
-
-
-
-# pododbno jest spoko jeszcze biblioteka beautifulsoup4
-
 #author: Karol Schewe
 
 
-from bs4 import BeautifulSoup
-import requests
-import lxml.html as lh
+from crawler_2011 import crawl_2011
 
+sejm_df, turnout_df, senat_df = crawl_2011()
+print(sejm_df.to_string())
+sejm_df.to_csv("wybory_do_sejmu_2011_po_gminach_wyniki.csv", index=False, encoding='utf-8-sig')
+turnout_df.to_csv("frekwencja_wybory_2011_po_gminach.csv", index=False, encoding='utf-8-sig')
+senat_df.to_csv("wybory_do_senatu_2011_po_gminach_wyniki.csv", index=False, encoding='utf-8-sig')
 
 
 
