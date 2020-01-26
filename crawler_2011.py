@@ -1,31 +1,26 @@
 import pandas as pd
 from time import sleep
 import requests
-'''
-Do uruchomienia tego programu potrzebny jest plik z lista kodów TERYT gmin, o których zamierzamy zebrać informacje.
-Program korzysta z bibliotek:
-- pandas
-- requests
-- urllib3
-- html5lib
-Repozytorium zawiera plik requirements.txt za pomocą którego w prosty sposób można zainstalować wszystkie wymagane pakiety.
-Aby to uczynić należy wykonać komendę pip install: –r requirements.txt
-Do programu nie wymagany jest dodatkowy input.
-Program zapisuje wyniki wyborów do sejmu, senatu oraz frekwencję na poziomie gminy do trzech odrębnych plików csv.
 
-'''
+
+def crawl_2011(teryt_code_list: pd.DataFrame):
+    '''
+
+    :param teryt_code_list: dataframe containing teryt code list (look example teryt file in repository)
+    :return: tuple of dataframes containing:
+    sejm_df - sejm 2011 elections outcome
+    turnout_df - 2011 elections turnout
+    senat_df - 2011 senat elections outcome
+    '''
 
 
 
-
-def crawl_2011(teryt_filename: str = 'terytki.xls'):
-    teryt_code_list = pd.read_excel(teryt_filename, header=0, converters={'TERYT': str})
     year = 2011
     sejm_list = []
     turnout_list = []
     senat_list = []
 
-    for ind, code in teryt_code_list[0:10].iterrows():
+    for ind, code in teryt_code_list.iterrows():
         teryt = code['TERYT']
         teryt_to_url = teryt[0:2] + '0000'
         powiat = code['Powiat']
@@ -102,7 +97,7 @@ def crawl_2011(teryt_filename: str = 'terytki.xls'):
     sejm_df = pd.DataFrame.from_dict(sejm_list)
     turnout_df = pd.DataFrame.from_dict(turnout_list)
     senat_df = pd.DataFrame.from_dict(senat_list)
-    return  sejm_df, turnout_df, senat_df
+    return sejm_df, turnout_df, senat_df
 
 
 
