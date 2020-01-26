@@ -4,7 +4,7 @@ import requests
 
 
 
-teryt_code_list = pd.read_excel('terytki.xls',header=0,converters={'TERYT':str})
+
 
 
 def crawl_2007(teryt_code_list: pd.DataFrame):
@@ -22,7 +22,7 @@ def crawl_2007(teryt_code_list: pd.DataFrame):
     # WYBORY DO SENATU W TEJ ORDYNACJI WYBORCZEJ POZWALAŁY NA ODDANIE GŁOSU NA DOWOLNĄ LICZBĘ KANDYDATÓW
     # -- nie przyda mi sie to wiec na razie
     sejm_list = []
-    for ind, code in teryt_code_list[0:10].iterrows():
+    for ind, code in teryt_code_list.iterrows():
         teryt = code['TERYT']
         powiat = code['Powiat']
         gmina_name = code['Gmina']
