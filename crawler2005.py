@@ -15,7 +15,7 @@ def crawl_2005(teryt_code_list: pd.DataFrame):
         sejm_df - sejm 2007 elections outcome
         turnout_df - 2007 elections turnout
     '''
-    year = 2007
+    year = 2005
 
     turnout_list = []
 
