@@ -1,0 +1,2495 @@
+﻿year,teryt_code,powiat,gmina,population,eligible_to_vote,turnout_%,turnout_ppl
+2007,020101,bolesławiecki,"Bolesławiec, m.",41391,34041,39.09,13305
+2007,020102,bolesławiecki,"Bolesławiec, gm.",12363,9391,31.63,2970
+2007,020103,bolesławiecki,"Gromadka, gm.",5740,4341,34.09,1479
+2007,020104,bolesławiecki,"Nowogrodziec, gm.",15014,11312,29.62,3349
+2007,020105,bolesławiecki,"Osiecznica, gm.",6895,5077,29.74,1510
+2007,020106,bolesławiecki,"Warta Bolesławiecka, gm.",7700,5992,32.41,1939
+2007,020201,dzierżoniowski,"Bielawa, m.",32716,26760,35.18,9408
+2007,020202,dzierżoniowski,"Dzierżoniów, m.",35958,29917,38.17,11417
+2007,020203,dzierżoniowski,"Pieszyce, m.",9718,7866,34.55,2715
+2007,020204,dzierżoniowski,"Piława Górna, m.",6870,5349,32.59,1743
+2007,020205,dzierżoniowski,"Dzierżoniów, gm.",9591,7748,38.93,3016
+2007,020206,dzierżoniowski,"Łagiewniki, gm.",7516,5942,34.67,2060
+2007,020207,dzierżoniowski,"Niemcza, gm.",6228,4983,34.86,1737
+2007,020301,głogowski,"Głogów, m.",71528,57694,39.80,22953
+2007,020302,głogowski,"Głogów, gm.",5636,4134,34.76,1436
+2007,020303,głogowski,"Jerzmanowa, gm.",3097,2343,34.91,818
+2007,020304,głogowski,"Kotla, gm.",4137,3123,32.24,1007
+2007,020305,głogowski,"Pęcław, gm.",2366,1765,33.77,596
+2007,020306,głogowski,"Żukowice, gm.",3545,2712,28.65,777
+2007,020401,górowski,"Góra, gm.",21441,16365,32.91,5381
+2007,020402,górowski,"Jemielno, gm.",3256,2454,27.18,667
+2007,020403,górowski,"Niechlów, gm.",5275,3911,32.19,1259
+2007,020404,górowski,"Wąsosz, gm.",7652,5848,28.45,1663
+2007,020501,jaworski,"Jawor, m.",25309,20248,38.66,7822
+2007,020502,jaworski,"Bolków, gm.",11291,9033,34.11,3081
+2007,020503,jaworski,"Męcinka, gm.",4883,3774,27.72,1046
+2007,020504,jaworski,"Mściwojów, gm.",4164,3269,38.94,1273
+2007,020505,jaworski,"Paszowice, gm.",3916,3101,30.60,949
+2007,020506,jaworski,"Wądroże Wielkie, gm.",4152,3214,28.10,903
+2007,020601,jeleniogórski,"Karpacz, m.",5119,4496,35.65,1602
+2007,020602,jeleniogórski,"Kowary, m.",12130,9980,33.29,3323
+2007,020603,jeleniogórski,"Piechowice, m.",6734,5448,36.38,1981
+2007,020604,jeleniogórski,"Szklarska Poręba, m.",7248,6183,37.43,2313
+2007,020605,jeleniogórski,"Janowice Wielkie, gm.",4228,3429,32.81,1125
+2007,020606,jeleniogórski,"Jeżów Sudecki, gm.",6103,4835,35.55,1719
+2007,020607,jeleniogórski,"Mysłakowice, gm.",10034,7995,36.36,2903
+2007,020608,jeleniogórski,"Podgórzyn, gm.",7848,6442,32.97,2123
+2007,020609,jeleniogórski,"Stara Kamienica, gm.",5190,4076,30.96,1262
+2007,020701,kamiennogórski,"Kamienna Góra, m.",22391,18007,34.09,6138
+2007,020702,kamiennogórski,"Kamienna Góra, gm.",8713,6618,34.22,2264
+2007,020703,kamiennogórski,"Lubawka, gm.",12037,9563,31.48,3010
+2007,020704,kamiennogórski,"Marciszów, gm.",4849,3778,32.56,1230
+2007,020801,kłodzki,"Duszniki-Zdrój, m.",5289,4448,38.26,1702
+2007,020802,kłodzki,"Kłodzko, m.",29308,25054,40.38,10115
+2007,020803,kłodzki,"Kudowa-Zdrój, m.",10607,8683,37.37,3244
+2007,020804,kłodzki,"Nowa Ruda, m.",25304,20759,32.82,6813
+2007,020805,kłodzki,"Polanica-Zdrój, m.",6878,5835,39.45,2302
+2007,020806,kłodzki,"Bystrzyca Kłodzka, gm.",20599,16732,36.03,6026
+2007,020807,kłodzki,"Kłodzko, gm.",17341,13688,41.76,5715
+2007,020808,kłodzki,"Lądek-Zdrój, gm.",9331,7587,35.14,2664
+2007,020809,kłodzki,"Lewin Kłodzki, gm.",2032,1622,31.01,501
+2007,020810,kłodzki,"Międzylesie, gm.",7906,6254,33.80,2114
+2007,020811,kłodzki,"Nowa Ruda, gm.",12801,10170,30.64,3115
+2007,020812,kłodzki,"Radków, gm.",9700,7577,33.48,2537
+2007,020813,kłodzki,"Stronie Śląskie, gm.",7798,6138,33.79,2073
+2007,020814,kłodzki,"Szczytna, gm.",7574,6031,33.92,2046
+2007,020901,legnicki,"Chojnów, m.",14560,11689,33.46,3909
+2007,020902,legnicki,"Chojnów, gm.",9380,7249,32.21,2335
+2007,020903,legnicki,"Krotoszyce, gm.",3016,2321,35.85,832
+2007,020904,legnicki,"Kunice, gm.",5041,3944,39.53,1558
+2007,020905,legnicki,"Legnickie Pole, gm.",4931,3860,31.14,1202
+2007,020906,legnicki,"Miłkowice, gm.",6184,4890,34.83,1703
+2007,020907,legnicki,"Prochowice, gm.",7428,5831,40.01,2333
+2007,020908,legnicki,"Ruja, gm.",2747,2134,32.33,690
+2007,021001,lubański,"Lubań, m.",23279,19021,37.57,7146
+2007,021002,lubański,"Świeradów-Zdrój, m.",4713,3885,36.50,1418
+2007,021003,lubański,"Leśna, gm.",11029,8530,32.33,2758
+2007,021004,lubański,"Lubań, gm.",6494,4985,31.88,1588
+2007,021005,lubański,"Olszyna, gm.",6926,5471,34.71,1899
+2007,021006,lubański,"Platerówka, gm.",1732,1310,39.69,520
+2007,021007,lubański,"Siekierczyn, gm.",4561,4085,38.70,1581
+2007,021101,lubiński,"Lubin, m.",78813,63724,40.11,25544
+2007,021102,lubiński,"Lubin, gm.",10675,8293,34.13,2830
+2007,021103,lubiński,"Rudna, gm.",7130,5477,38.87,2129
+2007,021104,lubiński,"Ścinawa, gm.",10731,8397,33.81,2823
+2007,021201,lwówecki,"Gryfów Śląski, gm.",10634,8392,33.97,2850
+2007,021202,lwówecki,"Lubomierz, gm.",6277,4916,32.77,1610
+2007,021203,lwówecki,"Lwówek Śląski, gm.",18433,14445,31.96,4614
+2007,021204,lwówecki,"Mirsk, gm.",9343,7380,30.20,2229
+2007,021205,lwówecki,"Wleń, gm.",4657,3772,33.38,1259
+2007,021301,milicki,"Cieszków, gm.",4860,3656,35.53,1298
+2007,021302,milicki,"Krośnice, gm.",8052,6249,31.65,1977
+2007,021303,milicki,"Milicz, gm.",24450,19057,37.81,7201
+2007,021401,oleśnicki,"Oleśnica, m.",36968,29895,38.91,11628
+2007,021402,oleśnicki,"Bierutów, gm.",10590,8105,29.07,2355
+2007,021403,oleśnicki,"Dobroszyce, gm.",5966,4585,30.10,1380
+2007,021404,oleśnicki,"Dziadowa Kłoda, gm.",4584,3486,28.28,986
+2007,021405,oleśnicki,"Międzybórz, gm.",5061,3795,28.06,1065
+2007,021406,oleśnicki,"Oleśnica, gm.",11385,8564,27.42,2348
+2007,021407,oleśnicki,"Syców, gm.",16432,12722,37.12,4723
+2007,021408,oleśnicki,"Twardogóra, gm.",12996,10000,29.27,2927
+2007,021501,oławski,"Oława, m.",31416,25457,40.89,10405
+2007,021502,oławski,"Domaniów, gm.",5315,4053,34.30,1389
+2007,021503,oławski,"Jelcz-Laskowice, gm.",21543,16968,35.89,6085
+2007,021504,oławski,"Oława, gm.",13547,10275,35.35,3631
+2007,021601,polkowicki,"Chocianów, gm.",12996,9916,41.20,4083
+2007,021602,polkowicki,"Gaworzyce, gm.",3847,2906,45.01,1308
+2007,021603,polkowicki,"Grębocice, gm.",5316,4039,30.90,1248
+2007,021604,polkowicki,"Polkowice, gm.",26500,20007,35.62,7125
+2007,021605,polkowicki,"Przemków, gm.",9129,7041,28.79,2027
+2007,021606,polkowicki,"Radwanice, gm.",4379,3363,30.36,1021
+2007,021701,strzeliński,"Borów, gm.",5392,4185,40.29,1685
+2007,021702,strzeliński,"Kondratowice, gm.",4762,3744,36.00,1347
+2007,021703,strzeliński,"Przeworno, gm.",5344,4174,33.68,1406
+2007,021704,strzeliński,"Strzelin, gm.",22075,18375,36.12,6635
+2007,021705,strzeliński,"Wiązów, gm.",7600,5906,30.38,1794
+2007,021801,średzki,"Kostomłoty, gm.",7026,5481,29.65,1625
+2007,021802,średzki,"Malczyce, gm.",6073,4699,28.96,1361
+2007,021803,średzki,"Miękinia, gm.",11429,8894,31.53,2803
+2007,021804,średzki,"Środa Śląska, gm.",19076,15198,31.32,4760
+2007,021805,średzki,"Udanin, gm.",5644,4429,26.96,1193
+2007,021901,świdnicki,"Świdnica, m.",61347,50237,40.16,20165
+2007,021902,świdnicki,"Świebodzice, m.",23515,19128,34.07,6517
+2007,021903,świdnicki,"Dobromierz, gm.",5504,4350,31.31,1362
+2007,021904,świdnicki,"Jaworzyna Śląska, gm.",10435,8151,35.12,2863
+2007,021905,świdnicki,"Marcinowice, gm.",6669,4999,32.59,1629
+2007,021906,świdnicki,"Strzegom, gm.",27869,22064,33.88,7475
+2007,021907,świdnicki,"Świdnica, gm.",15460,12222,32.47,3969
+2007,021908,świdnicki,"Żarów, gm.",12534,9910,36.08,3575
+2007,022001,trzebnicki,"Oborniki Śląskie, gm.",17553,14002,37.50,5244
+2007,022002,trzebnicki,"Prusice, gm.",9380,7157,26.34,1885
+2007,022003,trzebnicki,"Trzebnica, gm.",21816,17218,35.79,6158
+2007,022004,trzebnicki,"Wisznia Mała, gm.",7801,6149,37.40,2300
+2007,022005,trzebnicki,"Zawonia, gm.",5448,4162,26.62,1108
+2007,022006,trzebnicki,"Żmigród, gm.",15151,11682,32.01,3735
+2007,022101,wałbrzyski,"Boguszów-Gorce, m.",17500,13977,30.31,4237
+2007,022102,wałbrzyski,"Jedlina-Zdrój, m.",5110,4218,34.23,1444
+2007,022103,wałbrzyski,"Szczawno-Zdrój, m.",5800,4994,43.71,2183
+2007,022104,wałbrzyski,"Czarny Bór, gm.",4872,3697,38.44,1421
+2007,022105,wałbrzyski,"Głuszyca, gm.",9610,7686,30.93,2376
+2007,022106,wałbrzyski,"Mieroszów, gm.",7462,6143,30.46,1871
+2007,022107,wałbrzyski,"Stare Bogaczowice, gm.",4121,3289,34.57,1137
+2007,022108,wałbrzyski,"Walim, gm.",5898,4701,31.10,1462
+2007,022201,wołowski,"Brzeg Dolny, gm.",16426,13232,36.96,4889
+2007,022202,wołowski,"Wińsko, gm.",8878,6887,29.33,2020
+2007,022203,wołowski,"Wołów, gm.",22686,19450,36.07,7016
+2007,022301,wrocławski,"Czernica, gm.",8313,6390,43.35,2767
+2007,022302,wrocławski,"Długołęka, gm.",19407,14976,37.49,5609
+2007,022303,wrocławski,"Jordanów Śląski, gm.",3025,2377,37.99,903
+2007,022304,wrocławski,"Kąty Wrocławskie, gm.",17507,13888,36.37,5046
+2007,022305,wrocławski,"Kobierzyce, gm.",12708,10057,36.60,3681
+2007,022306,wrocławski,"Mietków, gm.",3869,3029,37.57,1138
+2007,022307,wrocławski,"Sobótka, gm.",12295,9724,33.95,3300
+2007,022308,wrocławski,"Siechnice, gm.",12828,10363,43.38,4495
+2007,022309,wrocławski,"Żórawina, gm.",7906,6270,30.67,1923
+2007,022401,ząbkowicki,"Bardo, gm.",5735,4514,36.58,1650
+2007,022402,ząbkowicki,"Ciepłowody, gm.",3273,2538,28.53,724
+2007,022403,ząbkowicki,"Kamieniec Ząbkowicki, gm.",8817,6888,35.02,2412
+2007,022404,ząbkowicki,"Stoszowice, gm.",5730,4477,35.92,1607
+2007,022405,ząbkowicki,"Ząbkowice Śląskie, gm.",23626,19000,38.72,7350
+2007,022406,ząbkowicki,"Ziębice, gm.",18557,14908,32.30,4815
+2007,022407,ząbkowicki,"Złoty Stok, gm.",5046,3965,37.48,1486
+2007,022501,zgorzelecki,"Zawidów, m.",4560,3550,38.56,1369
+2007,022502,zgorzelecki,"Zgorzelec, m.",33828,28020,39.27,10997
+2007,022503,zgorzelecki,"Bogatynia, gm.",25771,20184,36.60,7387
+2007,022504,zgorzelecki,"Pieńsk, gm.",9620,7428,29.75,2210
+2007,022505,zgorzelecki,"Sulików, gm.",6117,4701,32.80,1539
+2007,022506,zgorzelecki,"Węgliniec, gm.",9420,7217,33.34,2405
+2007,022507,zgorzelecki,"Zgorzelec, gm.",7854,6093,31.82,1939
+2007,022601,złotoryjski,"Wojcieszów, m.",3955,3201,28.33,907
+2007,022602,złotoryjski,"Złotoryja, m.",16761,13771,36.72,5057
+2007,022603,złotoryjski,"Pielgrzymka, gm.",4861,3680,31.41,1156
+2007,022604,złotoryjski,"Świerzawa, gm.",8058,6296,31.43,1978
+2007,022605,złotoryjski,"Zagrodno, gm.",5836,4505,37.34,1682
+2007,022606,złotoryjski,"Złotoryja, gm.",7131,5494,31.98,1757
+2007,026101,Jelenia Góra,"Jelenia Góra, m.",85602,71416,41.67,29711
+2007,026201,Legnica,"Legnica, m.",103639,83413,40.15,33473
+2007,026401,Wrocław,"Wrocław, m.",599037,508364,47.74,242436
+2007,022109,Wałbrzych,"Wałbrzych, m.",127024,105092,35.17,36930
+2007,040101,aleksandrowski,"Aleksandrów Kujawski, m.",12599,10184,33.75,3435
+2007,040102,aleksandrowski,"Ciechocinek, m.",10952,9762,48.65,4741
+2007,040103,aleksandrowski,"Nieszawa, m.",2045,1626,49.63,807
+2007,040104,aleksandrowski,"Aleksandrów Kujawski, gm.",10852,8075,27.28,2202
+2007,040105,aleksandrowski,"Bądkowo, gm.",4791,3709,38.23,1417
+2007,040106,aleksandrowski,"Koneck, gm.",3527,2663,35.30,939
+2007,040107,aleksandrowski,"Raciążek, gm.",3006,2317,34.87,808
+2007,040108,aleksandrowski,"Waganiec, gm.",4612,3455,32.30,1115
+2007,040109,aleksandrowski,"Zakrzewo, gm.",3918,2990,35.28,1054
+2007,040201,brodnicki,"Brodnica, m.",27460,21580,39.37,8494
+2007,040202,brodnicki,"Bobrowo, gm.",6532,4899,33.46,1638
+2007,040203,brodnicki,"Brodnica, gm.",6576,4792,32.64,1563
+2007,040204,brodnicki,"Brzozie, gm.",3778,2787,36.63,1021
+2007,040205,brodnicki,"Górzno, gm.",4007,3016,39.79,1200
+2007,040206,brodnicki,"Bartniczka, gm.",4735,3512,37.87,1329
+2007,040207,brodnicki,"Jabłonowo Pomorskie, gm.",9562,7086,34.96,2477
+2007,040208,brodnicki,"Osiek, gm.",4258,3178,31.50,1001
+2007,040209,brodnicki,"Świedziebnia, gm.",5359,3878,39.87,1546
+2007,040210,brodnicki,"Zbiczno, gm.",4618,3572,36.98,1321
+2007,040301,bydgoski,"Białe Błota, gm.",12843,9765,38.13,3723
+2007,040302,bydgoski,"Dąbrowa Chełmińska, gm.",7067,5272,29.93,1575
+2007,040303,bydgoski,"Dobrcz, gm.",9193,6941,33.19,2302
+2007,040304,bydgoski,"Koronowo, gm.",23254,18166,31.09,5648
+2007,040305,bydgoski,"Nowa Wieś Wielka, gm.",7799,5939,29.84,1770
+2007,040306,bydgoski,"Osielsko, gm.",7988,6094,43.67,2658
+2007,040307,bydgoski,"Sicienko, gm.",8754,6805,34.30,2334
+2007,040308,bydgoski,"Solec Kujawski, gm.",15918,12333,35.46,4371
+2007,040401,chełmiński,"Chełmno, m.",20911,16639,34.65,5765
+2007,040402,chełmiński,"Chełmno, gm.",5286,3879,25.86,1003
+2007,040403,chełmiński,"Kijewo Królewskie, gm.",4431,3320,33.13,1100
+2007,040404,chełmiński,"Lisewo, gm.",5346,4014,30.42,1221
+2007,040405,chełmiński,"Papowo Biskupie, gm.",4488,3304,30.39,1004
+2007,040406,chełmiński,"Stolno, gm.",5261,3851,26.93,1037
+2007,040407,chełmiński,"Unisław, gm.",6721,5223,30.14,1573
+2007,040501,golubsko-dobrzyński,"Golub-Dobrzyń, m.",12992,9944,36.66,3643
+2007,040502,golubsko-dobrzyński,"Ciechocin, gm.",4053,2932,33.15,972
+2007,040503,golubsko-dobrzyński,"Golub-Dobrzyń, gm.",8368,6252,29.22,1827
+2007,040504,golubsko-dobrzyński,"Kowalewo Pomorskie, gm.",11490,8681,34.04,2954
+2007,040505,golubsko-dobrzyński,"Radomin, gm.",4234,3146,32.01,1007
+2007,040506,golubsko-dobrzyński,"Zbójno, gm.",4541,3366,31.76,1069
+2007,040601,grudziądzki,"Grudziądz, gm.",10495,7913,29.52,2336
+2007,040602,grudziądzki,"Gruta, gm.",6760,5080,29.72,1510
+2007,040603,grudziądzki,"Łasin, gm.",8682,6544,32.63,2134
+2007,040604,grudziądzki,"Radzyń Chełmiński, gm.",5072,3719,32.21,1198
+2007,040605,grudziądzki,"Rogóźno, gm.",4159,3106,28.46,884
+2007,040606,grudziądzki,"Świecie nad Osą, gm.",4664,3412,28.84,985
+2007,040701,inowrocławski,"Inowrocław, m.",77497,63468,36.85,23368
+2007,040702,inowrocławski,"Dąbrowa Biskupia, gm.",5338,4068,24.80,1009
+2007,040703,inowrocławski,"Gniewkowo, gm.",14996,11599,29.13,3379
+2007,040704,inowrocławski,"Inowrocław, gm.",11206,8567,28.70,2458
+2007,040705,inowrocławski,"Janikowo, gm.",13883,10679,31.08,3319
+2007,040706,inowrocławski,"Kruszwica, gm.",20554,16004,31.86,5099
+2007,040707,inowrocławski,"Pakość, gm.",10175,7848,31.69,2487
+2007,040708,inowrocławski,"Rojewo, gm.",4677,3503,32.40,1135
+2007,040709,inowrocławski,"Złotniki Kujawskie, gm.",9072,6910,32.01,2211
+2007,040801,lipnowski,"Lipno, m.",15091,11752,34.22,4022
+2007,040802,lipnowski,"Bobrowniki, gm.",3181,2291,30.21,692
+2007,040803,lipnowski,"Chrostkowo, gm.",3357,2436,28.41,692
+2007,040804,lipnowski,"Dobrzyń nad Wisłą, gm.",8277,6244,30.86,1927
+2007,040805,lipnowski,"Kikół, gm.",7517,5512,30.50,1681
+2007,040806,lipnowski,"Lipno, gm.",11639,8539,25.62,2188
+2007,040807,lipnowski,"Skępe, gm.",8020,5889,32.21,1897
+2007,040808,lipnowski,"Tłuchowo, gm.",4805,3563,30.82,1098
+2007,040809,lipnowski,"Wielgie, gm.",6934,5067,29.76,1508
+2007,040901,mogileński,"Dąbrowa, gm.",4810,3605,30.74,1107
+2007,040902,mogileński,"Jeziora Wielkie, gm.",5148,3891,28.73,1116
+2007,040903,mogileński,"Mogilno, gm.",25212,19453,34.75,6757
+2007,040904,mogileński,"Strzelno, gm.",12358,9603,33.23,3191
+2007,041001,nakielski,"Kcynia, gm.",14125,10551,32.58,3436
+2007,041002,nakielski,"Mrocza, gm.",9249,6828,32.95,2250
+2007,041003,nakielski,"Nakło nad Notecią, gm.",32397,26379,35.58,9384
+2007,041004,nakielski,"Sadki, gm.",7275,5392,36.41,1961
+2007,041005,nakielski,"Szubin, gm.",22693,17270,33.92,5854
+2007,041101,radziejowski,"Radziejów, m.",6157,5041,35.69,1799
+2007,041102,radziejowski,"Bytoń, gm.",3919,3042,33.96,1033
+2007,041103,radziejowski,"Dobre, gm.",5721,4445,32.42,1441
+2007,041104,radziejowski,"Osięciny, gm.",8428,6559,30.40,1994
+2007,041105,radziejowski,"Piotrków Kujawski, gm.",10025,7649,30.16,2306
+2007,041106,radziejowski,"Radziejów, gm.",4525,3490,31.58,1102
+2007,041107,radziejowski,"Topólka, gm.",5510,4118,34.75,1431
+2007,041201,rypiński,"Rypin, m.",16849,13147,33.62,4418
+2007,041202,rypiński,"Brzuze, gm.",5570,4223,31.33,1323
+2007,041203,rypiński,"Rogowo, gm.",5062,3814,24.65,940
+2007,041204,rypiński,"Rypin, gm.",7685,5709,23.73,1355
+2007,041205,rypiński,"Skrwilno, gm.",6539,4895,29.83,1460
+2007,041206,rypiński,"Wąpielsk, gm.",4419,3295,25.04,825
+2007,041301,sępoleński,"Kamień Krajeński, gm.",7116,5280,31.08,1641
+2007,041302,sępoleński,"Sępólno Krajeńskie, gm.",16226,12387,33.37,4129
+2007,041303,sępoleński,"Sośno, gm.",5319,3955,33.55,1327
+2007,041304,sępoleński,"Więcbork, gm.",13386,10193,34.93,3559
+2007,041401,świecki,"Bukowiec, gm.",5127,3892,32.68,1272
+2007,041402,świecki,"Dragacz, gm.",7035,5633,30.41,1713
+2007,041403,świecki,"Drzycim, gm.",5131,3832,32.46,1244
+2007,041404,świecki,"Jeżewo, gm.",7798,5896,32.80,1932
+2007,041405,świecki,"Lniano, gm.",4165,3108,34.20,1063
+2007,041406,świecki,"Nowe, gm.",11039,8599,29.63,2547
+2007,041407,świecki,"Osie, gm.",5332,4020,32.39,1300
+2007,041408,świecki,"Pruszcz, gm.",9485,7159,34.31,2456
+2007,041409,świecki,"Świecie, gm.",33549,26898,33.84,9101
+2007,041410,świecki,"Świekatowo, gm.",3559,2629,34.61,909
+2007,041411,świecki,"Warlubie, gm.",6634,4997,29.34,1464
+2007,041501,toruński,"Chełmża, m.",15294,11855,32.21,3817
+2007,041502,toruński,"Chełmża, gm.",9590,7238,28.24,2044
+2007,041503,toruński,"Czernikowo, gm.",8546,6305,24.79,1563
+2007,041504,toruński,"Lubicz, gm.",15729,11864,33.90,4018
+2007,041505,toruński,"Łubianka, gm.",5727,4201,36.16,1519
+2007,041506,toruński,"Łysomice, gm.",8250,6191,28.49,1764
+2007,041507,toruński,"Obrowo, gm.",9352,7018,32.79,2301
+2007,041508,toruński,"Wielka Nieszawka, gm.",3833,2983,35.40,1055
+2007,041509,toruński,"Zławieś Wielka, gm.",11037,8236,31.68,2607
+2007,041601,tucholski,"Cekcyn, gm.",6546,4955,35.88,1778
+2007,041602,tucholski,"Gostycyn, gm.",5407,4041,39.84,1607
+2007,041603,tucholski,"Kęsowo, gm.",4532,3346,34.13,1141
+2007,041604,tucholski,"Lubiewo, gm.",5764,4345,42.83,1861
+2007,041605,tucholski,"Śliwice, gm.",5556,4160,38.85,1616
+2007,041606,tucholski,"Tuchola, gm.",20014,15412,43.05,6631
+2007,041701,wąbrzeski,"Wąbrzeźno, m.",14149,11212,34.71,3892
+2007,041702,wąbrzeski,"Dębowa Łąka, gm.",3345,2439,32.14,783
+2007,041703,wąbrzeski,"Książki, gm.",4490,3383,36.45,1233
+2007,041704,wąbrzeski,"Płużnica, gm.",5188,3899,33.65,1309
+2007,041705,wąbrzeski,"Wąbrzeźno, gm.",8790,6537,27.87,1822
+2007,041801,włocławski,"Kowal, m.",3530,2746,43.01,1181
+2007,041802,włocławski,"Baruchowo, gm.",3602,2776,28.10,779
+2007,041803,włocławski,"Boniewo, gm.",3709,2847,30.42,866
+2007,041804,włocławski,"Brześć Kujawski, gm.",11386,8873,29.48,2614
+2007,041805,włocławski,"Choceń, gm.",8323,6420,26.67,1712
+2007,041806,włocławski,"Chodecz, gm.",6625,5136,27.73,1424
+2007,041807,włocławski,"Fabianki, gm.",8530,6461,27.44,1762
+2007,041808,włocławski,"Izbica Kujawska, gm.",8215,6238,30.07,1876
+2007,041809,włocławski,"Kowal, gm.",4205,3221,30.86,994
+2007,041810,włocławski,"Lubanie, gm.",4741,3641,32.44,1181
+2007,041811,włocławski,"Lubień Kujawski, gm.",7916,6110,33.16,2026
+2007,041812,włocławski,"Lubraniec, gm.",10505,8106,39.91,3235
+2007,041813,włocławski,"Włocławek, gm.",6620,5085,29.95,1522
+2007,041901,żniński,"Barcin, gm.",15209,11770,31.51,3707
+2007,041902,żniński,"Gąsawa, gm.",5278,4081,36.93,1507
+2007,041903,żniński,"Janowiec Wielkopolski, gm.",9603,7496,32.68,2448
+2007,041904,żniński,"Łabiszyn, gm.",9420,7083,31.44,2227
+2007,041905,żniński,"Rogowo, gm.",7005,5329,38.53,2052
+2007,041906,żniński,"Żnin, gm.",24824,19190,38.66,7417
+2007,046101,Bydgoszcz,"Bydgoszcz, m.",360679,297074,44.29,131540
+2007,046201,Grudziądz,"Grudziądz, m.",98900,80206,35.34,28319
+2007,046301,Toruń,"Toruń, m.",198576,162616,43.60,70856
+2007,046401,Włocławek,"Włocławek, m.",119600,97048,38.39,37245
+2007,060101,bialski,"Międzyrzec Podlaski, m.",17908,13661,44.47,6070
+2007,060102,bialski,"Terespol, m.",6117,4630,40.32,1866
+2007,060103,bialski,"Biała Podlaska, gm.",12384,9047,38.24,3460
+2007,060104,bialski,"Drelów, gm.",5818,4329,41.49,1794
+2007,060105,bialski,"Janów Podlaski, gm.",5737,4417,37.20,1642
+2007,060106,bialski,"Kodeń, gm.",4343,3371,39.99,1348
+2007,060107,bialski,"Konstantynów, gm.",4293,3164,47.60,1504
+2007,060108,bialski,"Leśna Podlaska, gm.",4588,3410,42.11,1436
+2007,060109,bialski,"Łomazy, gm.",5668,4293,40.39,1733
+2007,060110,bialski,"Międzyrzec Podlaski, gm.",10610,7705,43.35,3334
+2007,060111,bialski,"Piszczac, gm.",7792,5814,33.54,1950
+2007,060112,bialski,"Rokitno, gm.",3396,2639,38.42,1011
+2007,060113,bialski,"Rossosz, gm.",2568,1923,39.42,757
+2007,060114,bialski,"Sławatycze, gm.",2748,2172,43.05,935
+2007,060115,bialski,"Sosnówka, gm.",2980,2360,37.50,885
+2007,060116,bialski,"Terespol, gm.",7307,5581,36.61,2041
+2007,060117,bialski,"Tuczna, gm.",3797,2946,33.81,992
+2007,060118,bialski,"Wisznice, gm.",5525,4268,39.41,1678
+2007,060119,bialski,"Zalesie, gm.",4665,3473,37.32,1296
+2007,060201,biłgorajski,"Biłgoraj, m.",27124,21513,42.56,9152
+2007,060202,biłgorajski,"Aleksandrów, gm.",3266,2398,43.74,1049
+2007,060203,biłgorajski,"Biłgoraj, gm.",12698,9552,38.84,3710
+2007,060204,biłgorajski,"Biszcza, gm.",4177,3122,44.14,1378
+2007,060205,biłgorajski,"Frampol, gm.",6730,5205,37.00,1926
+2007,060206,biłgorajski,"Goraj, gm.",4648,3586,38.43,1378
+2007,060207,biłgorajski,"Józefów, gm.",7673,5863,35.60,2086
+2007,060208,biłgorajski,"Księżpol, gm.",7028,5124,37.43,1916
+2007,060209,biłgorajski,"Łukowa, gm.",4706,3464,44.43,1538
+2007,060210,biłgorajski,"Obsza, gm.",4600,3443,43.65,1503
+2007,060211,biłgorajski,"Potok Górny, gm.",5885,4410,38.75,1707
+2007,060212,biłgorajski,"Tarnogród, gm.",7209,5537,43.40,2403
+2007,060213,biłgorajski,"Tereszpol, gm.",4156,3118,33.07,1030
+2007,060214,biłgorajski,"Turobin, gm.",7396,5983,40.85,2444
+2007,060301,chełmski,"Rejowiec Fabryczny, m.",4775,3661,29.23,1070
+2007,060302,chełmski,"Białopole, gm.",3452,2695,31.32,844
+2007,060303,chełmski,"Chełm, gm.",12632,9839,31.64,3113
+2007,060304,chełmski,"Dorohusk, gm.",7296,5681,29.11,1654
+2007,060305,chełmski,"Dubienka, gm.",2845,2259,30.15,680
+2007,060306,chełmski,"Kamień, gm.",4107,3107,31.48,978
+2007,060307,chełmski,"Leśniowice, gm.",4159,3191,37.83,1207
+2007,060308,chełmski,"Rejowiec Fabryczny, gm.",4714,3611,29.30,1058
+2007,060309,chełmski,"Ruda-Huta, gm.",4920,3821,26.01,993
+2007,060310,chełmski,"Sawin, gm.",6031,4636,31.19,1446
+2007,060311,chełmski,"Siedliszcze, gm.",7527,5637,25.24,1420
+2007,060312,chełmski,"Wierzbica, gm.",5695,4243,36.72,1558
+2007,060313,chełmski,"Wojsławice, gm.",4445,3470,33.46,1161
+2007,060314,chełmski,"Żmudź, gm.",3595,2659,31.33,833
+2007,060401,hrubieszowski,"Hrubieszów, m.",19548,16097,38.76,6236
+2007,060402,hrubieszowski,"Dołhobyczów, gm.",6924,5362,33.91,1817
+2007,060403,hrubieszowski,"Horodło, gm.",6149,4797,31.81,1526
+2007,060404,hrubieszowski,"Hrubieszów, gm.",11418,8701,34.13,2970
+2007,060405,hrubieszowski,"Mircze, gm.",8187,6539,34.85,2279
+2007,060406,hrubieszowski,"Trzeszczany, gm.",5101,3997,33.78,1350
+2007,060407,hrubieszowski,"Uchanie, gm.",5439,4233,35.60,1507
+2007,060408,hrubieszowski,"Werbkowice, gm.",10880,8353,36.48,3047
+2007,060501,janowski,"Batorz, gm.",3724,2854,45.13,1288
+2007,060502,janowski,"Chrzanów, gm.",3350,2582,54.96,1418
+2007,060503,janowski,"Dzwola, gm.",6916,5342,44.33,2367
+2007,060504,janowski,"Godziszów, gm.",6511,4921,67.04,3294
+2007,060505,janowski,"Janów Lubelski, gm.",16720,13001,46.86,6092
+2007,060506,janowski,"Modliborzyce, gm.",7570,5859,43.32,2535
+2007,060507,janowski,"Potok Wielki, gm.",5235,3817,36.42,1388
+2007,060601,krasnostawski,"Krasnystaw, m.",20232,16685,37.48,6252
+2007,060602,krasnostawski,"Fajsławice, gm.",5142,4077,40.15,1637
+2007,060603,krasnostawski,"Gorzków, gm.",4225,3402,34.42,1170
+2007,060604,krasnostawski,"Izbica, gm.",9205,7316,33.16,2426
+2007,060605,krasnostawski,"Krasnystaw, gm.",9417,7376,35.02,2583
+2007,060606,krasnostawski,"Kraśniczyn, gm.",4448,3663,35.84,1313
+2007,060607,krasnostawski,"Łopiennik Górny, gm.",4427,3508,34.72,1216
+2007,060609,krasnostawski,"Rudnik, gm.",3678,2969,36.01,1069
+2007,060610,krasnostawski,"Siennica Różana, gm.",4508,3464,44.08,1527
+2007,060611,krasnostawski,"Żółkiewka, gm.",6343,5126,35.39,1814
+2007,060701,kraśnicki,"Kraśnik, m.",37626,30474,46.94,14302
+2007,060702,kraśnicki,"Annopol, gm.",9519,7343,42.03,3085
+2007,060703,kraśnicki,"Dzierzkowice, gm.",5475,4233,43.18,1828
+2007,060704,kraśnicki,"Gościeradów, gm.",7559,5741,32.05,1839
+2007,060705,kraśnicki,"Kraśnik, gm.",7129,5453,41.76,2275
+2007,060706,kraśnicki,"Szastarka, gm.",6340,4918,41.60,2042
+2007,060707,kraśnicki,"Trzydnik Duży, gm.",7044,5494,38.99,2142
+2007,060708,kraśnicki,"Urzędów, gm.",8952,6958,45.23,3147
+2007,060709,kraśnicki,"Wilkołaz, gm.",5611,4357,45.86,1996
+2007,060710,kraśnicki,"Zakrzówek, gm.",7216,5670,40.86,2317
+2007,060801,lubartowski,"Lubartów, m.",23374,18705,43.87,8204
+2007,060802,lubartowski,"Abramów, gm.",4552,3479,41.59,1446
+2007,060803,lubartowski,"Firlej, gm.",6279,4824,31.22,1505
+2007,060804,lubartowski,"Jeziorzany, gm.",3214,2508,33.69,845
+2007,060805,lubartowski,"Kamionka, gm.",6451,5024,38.02,1910
+2007,060806,lubartowski,"Kock, gm.",7114,5434,35.55,1931
+2007,060807,lubartowski,"Lubartów, gm.",10109,7680,35.35,2714
+2007,060808,lubartowski,"Michów, gm.",6747,5223,40.51,2116
+2007,060809,lubartowski,"Niedźwiada, gm.",6562,4976,38.32,1907
+2007,060810,lubartowski,"Ostrów Lubelski, gm.",5686,4419,40.55,1790
+2007,060811,lubartowski,"Ostrówek, gm.",4330,3350,37.52,1257
+2007,060812,lubartowski,"Serniki, gm.",4982,3754,40.81,1531
+2007,060813,lubartowski,"Uścimów, gm.",3518,2742,37.67,1033
+2007,060901,lubelski,"Bełżyce, gm.",13918,10644,39.13,4162
+2007,060902,lubelski,"Borzechów, gm.",3996,3012,40.97,1232
+2007,060903,lubelski,"Bychawa, gm.",12590,9666,36.88,3565
+2007,060904,lubelski,"Garbów, gm.",8931,6837,41.90,2863
+2007,060905,lubelski,"Głusk, gm.",7004,5391,39.57,2132
+2007,060906,lubelski,"Jabłonna, gm.",7554,5938,29.56,1755
+2007,060907,lubelski,"Jastków, gm.",11721,8902,41.02,3651
+2007,060908,lubelski,"Konopnica, gm.",10650,8343,42.68,3557
+2007,060909,lubelski,"Krzczonów, gm.",5106,4143,35.41,1466
+2007,060910,lubelski,"Niedrzwica Duża, gm.",10898,8271,43.11,3560
+2007,060911,lubelski,"Niemce, gm.",15744,11958,45.55,5446
+2007,060912,lubelski,"Strzyżewice, gm.",7378,5801,38.61,2235
+2007,060913,lubelski,"Wojciechów, gm.",5935,4675,33.24,1554
+2007,060914,lubelski,"Wólka, gm.",8229,6301,40.47,2549
+2007,060915,lubelski,"Wysokie, gm.",5239,4223,42.10,1778
+2007,060916,lubelski,"Zakrzew, gm.",3377,2706,42.28,1144
+2007,061001,łęczyński,"Cyców, gm.",7729,5702,32.71,1865
+2007,061002,łęczyński,"Ludwin, gm.",5026,3750,31.73,1190
+2007,061003,łęczyński,"Łęczna, gm.",25457,19087,38.73,7388
+2007,061004,łęczyński,"Milejów, gm.",9280,7289,27.81,2027
+2007,061005,łęczyński,"Puchaczów, gm.",4884,3768,34.85,1313
+2007,061006,łęczyński,"Spiczyn, gm.",5294,4078,33.37,1361
+2007,061101,łukowski,"Łuków, m.",31708,24516,42.73,10467
+2007,061102,łukowski,"Stoczek Łukowski, m.",2798,2134,44.94,959
+2007,061103,łukowski,"Adamów, gm.",6227,4677,39.04,1825
+2007,061104,łukowski,"Krzywda, gm.",10867,7860,33.38,2624
+2007,061105,łukowski,"Łuków, gm.",16881,12088,40.14,4849
+2007,061106,łukowski,"Serokomla, gm.",4478,3384,32.92,1113
+2007,061107,łukowski,"Stanin, gm.",10321,7462,50.35,3754
+2007,061108,łukowski,"Stoczek Łukowski, gm.",8976,6710,36.14,2425
+2007,061109,łukowski,"Trzebieszów, gm.",7868,5700,45.91,2617
+2007,061110,łukowski,"Wojcieszków, gm.",7321,5516,38.22,2107
+2007,061111,łukowski,"Wola Mysłowska, gm.",5557,4148,37.54,1556
+2007,061201,opolski,"Chodel, gm.",6866,5158,43.16,2226
+2007,061202,opolski,"Józefów nad Wisłą, gm.",7369,5784,36.05,2084
+2007,061203,opolski,"Karczmiska, gm.",6210,4841,34.83,1685
+2007,061204,opolski,"Łaziska, gm.",5500,4300,37.70,1621
+2007,061205,opolski,"Opole Lubelskie, gm.",18667,14422,35.97,5185
+2007,061206,opolski,"Poniatowa, gm.",15879,12629,38.47,4858
+2007,061207,opolski,"Wilków, gm.",5071,3973,39.92,1585
+2007,061301,parczewski,"Dębowa Kłoda, gm.",4278,3291,34.91,1149
+2007,061302,parczewski,"Jabłoń, gm.",4377,3330,46.07,1533
+2007,061303,parczewski,"Milanów, gm.",4307,3301,36.20,1194
+2007,061304,parczewski,"Parczew, gm.",15658,12206,41.13,5019
+2007,061305,parczewski,"Podedwórze, gm.",2024,1594,43.79,698
+2007,061306,parczewski,"Siemień, gm.",5104,3995,38.82,1550
+2007,061307,parczewski,"Sosnowica, gm.",2833,2211,33.83,747
+2007,061401,puławski,"Puławy, m.",51609,41714,46.22,19268
+2007,061402,puławski,"Baranów, gm.",4340,3366,36.81,1239
+2007,061403,puławski,"Janowiec, gm.",3670,2861,34.15,977
+2007,061404,puławski,"Kazimierz Dolny, gm.",7273,5847,34.63,2025
+2007,061405,puławski,"Końskowola, gm.",9185,7196,39.37,2832
+2007,061406,puławski,"Kurów, gm.",8090,6330,38.59,2442
+2007,061407,puławski,"Markuszów, gm.",3086,2397,42.43,1015
+2007,061408,puławski,"Nałęczów, gm.",9638,7901,42.24,3336
+2007,061409,puławski,"Puławy, gm.",11311,8823,35.48,3129
+2007,061410,puławski,"Wąwolnica, gm.",4894,3839,41.91,1609
+2007,061411,puławski,"Żyrzyn, gm.",6708,5156,40.54,2090
+2007,061501,radzyński,"Radzyń Podlaski, m.",16831,13264,48.31,6402
+2007,061502,radzyński,"Borki, gm.",6464,4875,38.99,1901
+2007,061503,radzyński,"Czemierniki, gm.",4844,3732,54.07,2017
+2007,061504,radzyński,"Kąkolewnica, gm.",8876,6564,40.89,2684
+2007,061505,radzyński,"Komarówka Podlaska, gm.",5118,3970,42.04,1668
+2007,061506,radzyński,"Radzyń Podlaski, gm.",8300,6178,41.47,2561
+2007,061507,radzyński,"Ulan-Majorat, gm.",6453,4670,49.12,2289
+2007,061508,radzyński,"Wohyń, gm.",7523,5940,38.01,2254
+2007,061601,rycki,"Dęblin, m.",18818,14867,39.79,5913
+2007,061602,rycki,"Kłoczew, gm.",7895,5850,41.21,2410
+2007,061603,rycki,"Nowodwór, gm.",4484,3291,41.96,1381
+2007,061604,rycki,"Ryki, gm.",21666,16785,41.76,7005
+2007,061605,rycki,"Stężyca, gm.",5707,4472,41.77,1867
+2007,061606,rycki,"Ułęż, gm.",3675,2902,43.90,1273
+2007,061701,świdnicki,"Świdnik, m.",40636,33209,43.46,14424
+2007,061702,świdnicki,"Mełgiew, gm.",7964,6186,36.39,2251
+2007,061703,świdnicki,"Piaski, gm.",10850,8513,32.53,2769
+2007,061704,świdnicki,"Rybczewice, gm.",4080,3281,38.01,1247
+2007,061705,świdnicki,"Trawniki, gm.",9422,7264,28.55,2074
+2007,061801,tomaszowski,"Tomaszów Lubelski, m.",21311,17032,42.27,7197
+2007,061802,tomaszowski,"Bełżec, gm.",3113,2398,33.65,807
+2007,061803,tomaszowski,"Jarczów, gm.",3992,3110,44.50,1384
+2007,061804,tomaszowski,"Krynice, gm.",3814,3014,42.34,1276
+2007,061805,tomaszowski,"Lubycza Królewska, gm.",7483,5635,27.58,1554
+2007,061806,tomaszowski,"Łaszczów, gm.",6953,5470,41.10,2248
+2007,061807,tomaszowski,"Rachanie, gm.",5990,4724,44.37,2096
+2007,061808,tomaszowski,"Susiec, gm.",8228,6381,35.95,2294
+2007,061809,tomaszowski,"Tarnawatka, gm.",4320,3228,35.44,1143
+2007,061810,tomaszowski,"Telatyn, gm.",4902,3752,41.26,1548
+2007,061811,tomaszowski,"Tomaszów Lubelski, gm.",11109,8420,36.95,3111
+2007,061812,tomaszowski,"Tyszowce, gm.",6710,5211,33.77,1759
+2007,061813,tomaszowski,"Ulhówek, gm.",5639,4330,35.22,1525
+2007,061901,włodawski,"Włodawa, m.",14485,12059,38.92,4690
+2007,061902,włodawski,"Hanna, gm.",3502,2730,42.75,1167
+2007,061903,włodawski,"Hańsk, gm.",4182,3120,32.92,1027
+2007,061904,włodawski,"Stary Brus, gm.",2397,1804,36.92,666
+2007,061905,włodawski,"Urszulin, gm.",4398,3319,40.46,1343
+2007,061906,włodawski,"Włodawa, gm.",6060,4689,36.64,1718
+2007,061907,włodawski,"Wola Uhruska, gm.",4400,3419,36.00,1231
+2007,061908,włodawski,"Wyryki, gm.",3030,2353,35.27,829
+2007,062001,zamojski,"Adamów, gm.",5216,4039,35.08,1417
+2007,062002,zamojski,"Grabowiec, gm.",4847,3827,33.81,1293
+2007,062003,zamojski,"Komarów-Osada, gm.",5770,4500,46.67,2100
+2007,062004,zamojski,"Krasnobród, gm.",7467,5623,41.69,2342
+2007,062005,zamojski,"Łabunie, gm.",6376,4772,45.39,2165
+2007,062006,zamojski,"Miączyn, gm.",6618,5000,37.92,1893
+2007,062007,zamojski,"Nielisz, gm.",6363,4950,34.61,1713
+2007,062008,zamojski,"Radecznica, gm.",6584,5516,38.92,2147
+2007,062009,zamojski,"Sitno, gm.",7077,5370,43.17,2318
+2007,062010,zamojski,"Skierbieszów, gm.",5869,4611,39.95,1838
+2007,062011,zamojski,"Stary Zamość, gm.",5634,4318,38.72,1672
+2007,062012,zamojski,"Sułów, gm.",5301,4224,30.00,1267
+2007,062013,zamojski,"Szczebrzeszyn, gm.",12462,9706,33.62,3263
+2007,062014,zamojski,"Zamość, gm.",20574,15568,38.32,5962
+2007,062015,zamojski,"Zwierzyniec, gm.",7335,5805,32.04,1860
+2007,066101,Biała Podlaska,"Biała Podlaska, m.",57619,45280,43.48,19663
+2007,066201,Chełm,"Chełm, m.",68590,56165,37.90,21282
+2007,066301,Lublin,"Lublin, m.",338805,279963,48.48,135631
+2007,066401,Zamość,"Zamość, m.",67486,53731,41.79,22443
+2007,080101,gorzowski,"Kostrzyn nad Odrą, m.",17769,13868,34.06,4722
+2007,080102,gorzowski,"Bogdaniec, gm.",6577,5025,32.32,1621
+2007,080103,gorzowski,"Deszczno, gm.",7388,5625,33.07,1860
+2007,080104,gorzowski,"Kłodawa, gm.",5791,4517,38.79,1752
+2007,080105,gorzowski,"Lubiszyn, gm.",6853,5229,28.97,1515
+2007,080106,gorzowski,"Santok, gm.",7406,5613,31.55,1771
+2007,080107,gorzowski,"Witnica, gm.",13168,9822,33.32,3273
+2007,080201,krośnieński,"Gubin, m.",17492,13660,33.46,4570
+2007,080202,krośnieński,"Bobrowice, gm.",3231,2532,30.69,775
+2007,080203,krośnieński,"Bytnica, gm.",2726,2091,28.50,596
+2007,080204,krośnieński,"Dąbie, gm.",5163,3894,28.27,1101
+2007,080205,krośnieński,"Gubin, gm.",7565,5656,29.24,1654
+2007,080206,krośnieński,"Krosno Odrzańskie, gm.",18869,14939,35.72,5334
+2007,080207,krośnieński,"Maszewo, gm.",3047,2297,22.77,523
+2007,080301,międzyrzecki,"Bledzew, gm.",4808,3729,28.05,1045
+2007,080302,międzyrzecki,"Międzyrzecz, gm.",24916,20389,34.75,7085
+2007,080303,międzyrzecki,"Przytoczna, gm.",5907,4630,32.66,1512
+2007,080304,międzyrzecki,"Pszczew, gm.",4231,3310,32.45,1074
+2007,080305,międzyrzecki,"Skwierzyna, gm.",12748,10245,33.78,3461
+2007,080306,międzyrzecki,"Trzciel, gm.",6583,5099,34.87,1777
+2007,080401,nowosolski,"Nowa Sól, m.",41065,33290,38.25,12729
+2007,080402,nowosolski,"Bytom Odrzański, gm.",5413,4122,32.19,1327
+2007,080403,nowosolski,"Kolsko, gm.",3310,2518,30.10,758
+2007,080404,nowosolski,"Kożuchów, gm.",16324,12600,32.15,4050
+2007,080405,nowosolski,"Nowa Sól, gm.",6526,5020,33.45,1678
+2007,080406,nowosolski,"Nowe Miasteczko, gm.",5646,4301,33.13,1424
+2007,080407,nowosolski,"Otyń, gm.",6050,4548,31.42,1429
+2007,080408,nowosolski,"Siedlisko, gm.",3516,2594,30.03,779
+2007,080501,słubicki,"Cybinka, gm.",6955,5289,29.04,1536
+2007,080502,słubicki,"Górzyca, gm.",4181,3143,29.37,921
+2007,080503,słubicki,"Ośno Lubuskie, gm.",6449,4887,31.49,1539
+2007,080504,słubicki,"Rzepin, gm.",10086,7641,31.06,2373
+2007,080505,słubicki,"Słubice, gm.",19077,15266,35.04,5348
+2007,080601,strzelecko-drezdenecki,"Dobiegniew, gm.",7257,5604,27.32,1529
+2007,080602,strzelecko-drezdenecki,"Drezdenko, gm.",17745,13888,34.30,4762
+2007,080603,strzelecko-drezdenecki,"Stare Kurowo, gm.",4311,3268,33.32,1089
+2007,080604,strzelecko-drezdenecki,"Strzelce Krajeńskie, gm.",17762,13875,30.28,4199
+2007,080605,strzelecko-drezdenecki,"Zwierzyn, gm.",4507,3357,33.66,1130
+2007,080701,sulęciński,"Krzeszyce, gm.",4522,3309,44.15,1461
+2007,080702,sulęciński,"Lubniewice, gm.",3128,2475,34.63,857
+2007,080703,sulęciński,"Słońsk, gm.",4879,3975,35.75,1421
+2007,080704,sulęciński,"Sulęcin, gm.",16343,12742,32.93,4196
+2007,080705,sulęciński,"Torzym, gm.",7100,5517,24.47,1350
+2007,080801,świebodziński,"Lubrza, gm.",3364,2521,27.65,696
+2007,080802,świebodziński,"Łagów, gm.",5384,4193,32.41,1358
+2007,080803,świebodziński,"Skąpe, gm.",5091,4058,28.04,1138
+2007,080804,świebodziński,"Szczaniec, gm.",4033,3035,32.55,988
+2007,080805,świebodziński,"Świebodzin, gm.",30020,23569,33.32,7846
+2007,080806,świebodziński,"Zbąszynek, gm.",8487,6520,33.70,2197
+2007,080901,zielonogórski,"Babimost, gm.",6342,4878,36.94,1802
+2007,080902,zielonogórski,"Bojadła, gm.",3362,2582,30.52,788
+2007,080903,zielonogórski,"Czerwieńsk, gm.",9421,7319,30.54,2234
+2007,080904,zielonogórski,"Kargowa, gm.",5787,4424,28.77,1273
+2007,080905,zielonogórski,"Nowogród Bobrzański, gm.",9423,7679,31.28,2402
+2007,080906,zielonogórski,"Sulechów, gm.",26328,20501,35.25,7227
+2007,080907,zielonogórski,"Świdnica, gm.",5439,4212,32.91,1386
+2007,080908,zielonogórski,"Trzebiechów, gm.",3321,2523,30.72,775
+2007,080909,zielonogórski,"Zabór, gm.",3315,2573,30.00,771
+2007,080910,zielonogórski,"Zielona Góra, gm.",15567,11907,38.80,4616
+2007,081001,żagański,"Gozdnica, m.",3627,2822,30.33,856
+2007,081002,żagański,"Żagań, m.",27290,21813,34.58,7536
+2007,081003,żagański,"Brzeźnica, gm.",3933,2900,34.86,1011
+2007,081004,żagański,"Iłowa, gm.",7329,5744,29.23,1679
+2007,081005,żagański,"Małomice, gm.",5623,4445,29.92,1330
+2007,081006,żagański,"Niegosławice, gm.",4757,3639,32.89,1197
+2007,081007,żagański,"Szprotawa, gm.",22315,17407,30.44,5297
+2007,081008,żagański,"Wymiarki, gm.",2561,1997,25.99,519
+2007,081009,żagański,"Żagań, gm.",7049,5296,27.70,1467
+2007,081101,żarski,"Łęknica, m.",2661,2003,26.31,527
+2007,081102,żarski,"Żary, m.",39736,31862,36.05,11481
+2007,081103,żarski,"Brody, gm.",3638,2754,27.92,769
+2007,081104,żarski,"Jasień, gm.",7542,5780,27.35,1580
+2007,081105,żarski,"Lipinki Łużyckie, gm.",3287,2521,27.93,703
+2007,081106,żarski,"Lubsko, gm.",20026,15802,30.26,4779
+2007,081107,żarski,"Przewóz, gm.",3354,2494,27.43,684
+2007,081108,żarski,"Trzebiel, gm.",5990,4573,27.88,1274
+2007,081109,żarski,"Tuplice, gm.",3322,2589,27.11,701
+2007,081110,żarski,"Żary, gm.",11602,8822,28.59,2519
+2007,081201,wschowski,"Sława, gm.",12090,9228,31.76,2930
+2007,081202,wschowski,"Szlichtyngowa, gm.",5167,3794,32.08,1217
+2007,081203,wschowski,"Wschowa, gm.",21914,16783,36.06,6051
+2007,086101,Gorzów Wielkopolski,"Gorzów Wielkopolski, m.",122621,99721,41.31,41165
+2007,086201,Zielona Góra,"Zielona Góra, m.",113399,93768,45.27,42425
+2007,100101,bełchatowski,"Bełchatów, m.",64278,49532,40.57,20078
+2007,100102,bełchatowski,"Bełchatów, gm.",8899,6990,37.75,2638
+2007,100103,bełchatowski,"Drużbice, gm.",4930,3942,34.53,1361
+2007,100104,bełchatowski,"Kleszczów, gm.",4077,3133,36.26,1136
+2007,100105,bełchatowski,"Kluki, gm.",3883,3017,29.27,882
+2007,100106,bełchatowski,"Rusiec, gm.",5252,4242,54.41,2302
+2007,100107,bełchatowski,"Szczerców, gm.",7747,5918,38.21,2260
+2007,100108,bełchatowski,"Zelów, gm.",15484,12156,37.82,4595
+2007,100201,kutnowski,"Kutno, m.",48500,39983,39.88,15932
+2007,100202,kutnowski,"Bedlno, gm.",6350,5097,40.22,2049
+2007,100203,kutnowski,"Dąbrowice, gm.",2193,1715,39.01,669
+2007,100204,kutnowski,"Krośniewice, gm.",9380,7435,30.61,2274
+2007,100205,kutnowski,"Krzyżanów, gm.",4668,3619,35.23,1274
+2007,100206,kutnowski,"Kutno, gm.",8417,6566,33.43,2194
+2007,100207,kutnowski,"Łanięta, gm.",2756,2069,30.40,629
+2007,100208,kutnowski,"Nowe Ostrowy, gm.",4045,3173,30.32,962
+2007,100209,kutnowski,"Oporów, gm.",2907,2254,35.14,792
+2007,100210,kutnowski,"Strzelce, gm.",4306,3354,36.26,1213
+2007,100211,kutnowski,"Żychlin, gm.",13747,11149,34.27,3818
+2007,100301,łaski,"Buczek, gm.",4934,3869,33.14,1280
+2007,100302,łaski,"Łask, gm.",28444,22981,37.43,8600
+2007,100303,łaski,"Sędziejowice, gm.",6495,5055,34.78,1757
+2007,100304,łaski,"Widawa, gm.",8088,6407,35.16,2252
+2007,100305,łaski,"Wodzierady, gm.",3061,2449,30.99,759
+2007,100401,łęczycki,"Łęczyca, m.",15737,13306,37.89,5040
+2007,100402,łęczycki,"Daszyna, gm.",4409,3523,33.52,1179
+2007,100403,łęczycki,"Góra Świętej Małgorzaty, gm.",4724,3685,35.44,1305
+2007,100404,łęczycki,"Grabów, gm.",6693,5266,37.52,1976
+2007,100405,łęczycki,"Łęczyca, gm.",8733,7089,34.87,2470
+2007,100406,łęczycki,"Piątek, gm.",6531,5226,32.30,1687
+2007,100407,łęczycki,"Świnice Warckie, gm.",4263,3308,36.82,1217
+2007,100408,łęczycki,"Witonia, gm.",3678,2901,35.57,1030
+2007,100501,łowicki,"Łowicz, m.",31220,25597,40.34,10317
+2007,100502,łowicki,"Bielawy, gm.",6105,4880,40.70,1986
+2007,100503,łowicki,"Chąśno, gm.",3277,2497,41.21,1026
+2007,100504,łowicki,"Domaniewice, gm.",4705,3742,35.28,1320
+2007,100505,łowicki,"Kiernozia, gm.",3779,3032,38.85,1175
+2007,100506,łowicki,"Kocierzew Południowy, gm.",4656,3588,45.46,1628
+2007,100507,łowicki,"Łowicz, gm.",7522,5751,38.22,2198
+2007,100508,łowicki,"Łyszkowice, gm.",7000,5373,29.61,1590
+2007,100509,łowicki,"Nieborów, gm.",9484,7477,36.77,2746
+2007,100510,łowicki,"Zduny, gm.",6248,5009,41.45,2073
+2007,100602,łódzki wschodni,"Andrespol, gm.",11290,9006,41.69,3754
+2007,100603,łódzki wschodni,"Brójce, gm.",5306,4094,37.05,1515
+2007,100607,łódzki wschodni,"Koluszki, gm.",22998,18561,40.60,7533
+2007,100608,łódzki wschodni,"Nowosolna, gm.",3273,2627,44.31,1164
+2007,100610,łódzki wschodni,"Rzgów, gm.",8649,6891,46.06,3173
+2007,100611,łódzki wschodni,"Tuszyn, gm.",11659,9572,37.72,3611
+2007,100701,opoczyński,"Białaczów, gm.",6193,4777,35.42,1692
+2007,100702,opoczyński,"Drzewica, gm.",11461,8806,41.79,3680
+2007,100703,opoczyński,"Mniszków, gm.",4843,3753,38.80,1456
+2007,100704,opoczyński,"Opoczno, gm.",36270,27822,42.39,11790
+2007,100705,opoczyński,"Paradyż, gm.",4646,3464,45.61,1578
+2007,100706,opoczyński,"Poświętne, gm.",3562,2827,42.13,1190
+2007,100707,opoczyński,"Sławno, gm.",7850,5791,42.38,2453
+2007,100708,opoczyński,"Żarnów, gm.",6484,5047,36.75,1852
+2007,100801,pabianicki,"Konstantynów Łódzki, m.",17321,14226,38.18,5428
+2007,100802,pabianicki,"Pabianice, m.",70955,59393,39.79,23610
+2007,100803,pabianicki,"Dłutów, gm.",4043,3270,35.32,1154
+2007,100804,pabianicki,"Dobroń, gm.",6564,5191,40.13,2083
+2007,100805,pabianicki,"Ksawerów, gm.",7061,5783,40.90,2365
+2007,100806,pabianicki,"Lutomiersk, gm.",6812,5495,34.98,1918
+2007,100807,pabianicki,"Pabianice, gm.",5455,4333,44.10,1910
+2007,100901,pajęczański,"Działoszyn, gm.",13302,10187,36.57,3721
+2007,100902,pajęczański,"Kiełczygłów, gm.",4462,3524,36.44,1284
+2007,100903,pajęczański,"Nowa Brzeźnica, gm.",5063,3986,29.15,1161
+2007,100904,pajęczański,"Pajęczno, gm.",12044,9512,35.13,3337
+2007,100905,pajęczański,"Rząśnia, gm.",4961,3674,33.91,1246
+2007,100906,pajęczański,"Siemkowice, gm.",5235,3971,34.02,1350
+2007,100907,pajęczański,"Strzelce Wielkie, gm.",4985,3924,32.90,1291
+2007,100908,pajęczański,"Sulmierzyce, gm.",4768,3783,36.21,1370
+2007,101001,piotrkowski,"Aleksandrów, gm.",4722,3826,35.00,1339
+2007,101002,piotrkowski,"Czarnocin, gm.",4046,3169,39.07,1238
+2007,101003,piotrkowski,"Gorzkowice, gm.",8810,6749,34.81,2349
+2007,101004,piotrkowski,"Grabica, gm.",6137,4724,37.55,1771
+2007,101005,piotrkowski,"Łęki Szlacheckie, gm.",3874,2995,32.39,970
+2007,101006,piotrkowski,"Moszczenica, gm.",12886,9838,40.80,4010
+2007,101007,piotrkowski,"Ręczno, gm.",3910,3031,41.27,1250
+2007,101008,piotrkowski,"Rozprza, gm.",12137,9300,33.61,3123
+2007,101009,piotrkowski,"Sulejów, gm.",15461,11915,42.06,5009
+2007,101010,piotrkowski,"Wola Krzysztoporska, gm.",11559,8874,40.84,3618
+2007,101011,piotrkowski,"Wolbórz, gm.",7779,6209,46.82,2906
+2007,101101,poddębicki,"Dalików, gm.",3779,2978,39.69,1181
+2007,101102,poddębicki,"Pęczniew, gm.",3759,3012,42.93,1293
+2007,101103,poddębicki,"Poddębice, gm.",16097,12874,33.14,4265
+2007,101104,poddębicki,"Uniejów, gm.",7649,6208,40.88,2537
+2007,101105,poddębicki,"Wartkowice, gm.",6607,5077,30.53,1550
+2007,101106,poddębicki,"Zadzim, gm.",5547,4418,42.12,1859
+2007,101201,radomszczański,"Radomsko, m.",50004,40062,38.12,15267
+2007,101202,radomszczański,"Dobryszyce, gm.",4158,3116,34.53,1076
+2007,101203,radomszczański,"Gidle, gm.",6766,5403,29.87,1614
+2007,101204,radomszczański,"Gomunice, gm.",6072,4687,37.36,1749
+2007,101205,radomszczański,"Kamieńsk, gm.",6104,4700,36.47,1714
+2007,101206,radomszczański,"Kobiele Wielkie, gm.",4543,3523,39.26,1383
+2007,101207,radomszczański,"Kodrąb, gm.",4889,3814,29.86,1139
+2007,101208,radomszczański,"Lgota Wielka, gm.",4556,3453,34.78,1200
+2007,101209,radomszczański,"Ładzice, gm.",4974,3830,31.64,1212
+2007,101210,radomszczański,"Masłowice, gm.",4566,3576,33.92,1213
+2007,101211,radomszczański,"Przedbórz, gm.",8150,6229,34.45,2146
+2007,101212,radomszczański,"Radomsko, gm.",5744,4403,32.70,1440
+2007,101213,radomszczański,"Wielgomłyny, gm.",5178,3995,32.57,1298
+2007,101214,radomszczański,"Żytno, gm.",5920,4755,30.45,1446
+2007,101301,rawski,"Rawa Mazowiecka, m.",18249,14621,37.44,5472
+2007,101302,rawski,"Biała Rawska, gm.",12065,9259,36.39,3366
+2007,101303,rawski,"Cielądz, gm.",4178,3245,30.76,998
+2007,101304,rawski,"Rawa Mazowiecka, gm.",8522,6549,31.44,2057
+2007,101305,rawski,"Regnów, gm.",1909,1440,34.44,496
+2007,101306,rawski,"Sadkowice, gm.",6022,4685,31.53,1476
+2007,101401,sieradzki,"Sieradz, m.",45257,37183,42.81,15909
+2007,101402,sieradzki,"Błaszki, gm.",15563,11837,34.51,4084
+2007,101403,sieradzki,"Brąszewice, gm.",4574,3326,41.01,1363
+2007,101404,sieradzki,"Brzeźnio, gm.",6433,4922,40.57,1996
+2007,101405,sieradzki,"Burzenin, gm.",5794,4508,36.05,1624
+2007,101406,sieradzki,"Goszczanów, gm.",5902,4487,33.88,1518
+2007,101407,sieradzki,"Klonowa, gm.",3146,2384,42.32,1008
+2007,101408,sieradzki,"Sieradz, gm.",9850,7483,37.65,2815
+2007,101409,sieradzki,"Warta, gm.",13370,10709,38.49,4119
+2007,101410,sieradzki,"Wróblew, gm.",6323,4940,37.65,1856
+2007,101411,sieradzki,"Złoczew, gm.",7559,5756,35.60,2045
+2007,101501,skierniewicki,"Bolimów, gm.",4094,3241,34.43,1116
+2007,101502,skierniewicki,"Głuchów, gm.",6261,4801,55.28,2652
+2007,101503,skierniewicki,"Godzianów, gm.",2798,2113,44.34,937
+2007,101504,skierniewicki,"Kowiesy, gm.",3104,2468,33.83,834
+2007,101505,skierniewicki,"Lipce Reymontowskie, gm.",3371,2642,35.01,923
+2007,101506,skierniewicki,"Maków, gm.",6043,4669,37.25,1738
+2007,101507,skierniewicki,"Nowy Kawęczyn, gm.",3345,2627,35.29,927
+2007,101508,skierniewicki,"Skierniewice, gm.",6725,5261,32.47,1708
+2007,101509,skierniewicki,"Słupia, gm.",2736,2093,38.89,814
+2007,101601,tomaszowski,"Tomaszów Mazowiecki, m.",67800,54760,39.79,21775
+2007,101602,tomaszowski,"Będków, gm.",3591,2782,43.35,1204
+2007,101603,tomaszowski,"Budziszewice, gm.",2359,1829,46.91,858
+2007,101604,tomaszowski,"Czerniewice, gm.",5351,4135,34.78,1435
+2007,101605,tomaszowski,"Inowłódz, gm.",3939,3227,44.90,1449
+2007,101606,tomaszowski,"Lubochnia, gm.",7674,5805,38.04,2206
+2007,101607,tomaszowski,"Rokiciny, gm.",5881,4759,41.63,1978
+2007,101608,tomaszowski,"Rzeczyca, gm.",5248,4014,35.45,1423
+2007,101609,tomaszowski,"Tomaszów Mazowiecki, gm.",9852,7674,37.79,2899
+2007,101610,tomaszowski,"Ujazd, gm.",8034,6409,39.82,2552
+2007,101611,tomaszowski,"Żelechlinek, gm.",3527,2753,42.32,1164
+2007,101701,wieluński,"Biała, gm.",5611,4306,36.14,1555
+2007,101702,wieluński,"Czarnożyły, gm.",4629,3539,38.97,1377
+2007,101703,wieluński,"Konopnica, gm.",4072,3279,40.68,1334
+2007,101704,wieluński,"Mokrsko, gm.",5481,4254,42.85,1822
+2007,101705,wieluński,"Osjaków, gm.",4765,3692,43.55,1605
+2007,101706,wieluński,"Ostrówek, gm.",4653,3649,36.91,1347
+2007,101707,wieluński,"Pątnów, gm.",6581,4941,50.13,2477
+2007,101708,wieluński,"Skomlin, gm.",3544,2744,41.73,1145
+2007,101709,wieluński,"Wieluń, gm.",33898,27071,39.93,10807
+2007,101710,wieluński,"Wierzchlas, gm.",6717,5153,33.67,1735
+2007,101801,wieruszowski,"Bolesławiec, gm.",4202,3255,37.39,1216
+2007,101802,wieruszowski,"Czastary, gm.",4060,3127,41.57,1299
+2007,101803,wieruszowski,"Galewice, gm.",6309,4804,34.78,1671
+2007,101804,wieruszowski,"Lututów, gm.",4837,3783,40.39,1527
+2007,101805,wieruszowski,"Łubnice, gm.",4182,3182,37.93,1207
+2007,101806,wieruszowski,"Sokolniki, gm.",4960,3870,37.34,1445
+2007,101807,wieruszowski,"Wieruszów, gm.",14622,11375,42.05,4777
+2007,101901,zduńskowolski,"Zduńska Wola, m.",45185,36108,40.32,14553
+2007,101902,zduńskowolski,"Szadek, gm.",7550,5843,32.35,1890
+2007,101903,zduńskowolski,"Zapolice, gm.",4729,3663,30.58,1120
+2007,101904,zduńskowolski,"Zduńska Wola, gm.",11092,8421,37.07,3120
+2007,102001,zgierski,"Głowno, m.",15322,12433,35.00,4350
+2007,102002,zgierski,"Ozorków, m.",21018,16915,33.85,5725
+2007,102003,zgierski,"Zgierz, m.",57774,47856,41.12,19656
+2007,102004,zgierski,"Aleksandrów Łódzki, gm.",26099,21149,36.76,7761
+2007,102005,zgierski,"Głowno, gm.",5050,3900,37.13,1447
+2007,102006,zgierski,"Ozorków, gm.",6483,5096,42.94,2185
+2007,102007,zgierski,"Parzęczew, gm.",5324,4121,34.70,1430
+2007,102008,zgierski,"Stryków, gm.",11830,9668,34.00,3287
+2007,102009,zgierski,"Zgierz, gm.",10579,8573,39.86,3413
+2007,102101,brzeziński,"Brzeziny, m.",12300,10021,38.84,3891
+2007,102102,brzeziński,"Brzeziny, gm.",5219,4082,36.06,1472
+2007,102103,brzeziński,"Dmosin, gm.",4654,3849,38.92,1498
+2007,102104,brzeziński,"Jeżów, gm.",3679,2872,47.35,1360
+2007,102105,brzeziński,"Rogów, gm.",4705,3725,40.56,1511
+2007,106101,Łódź,"Łódź, m.",738448,626095,44.00,275228
+2007,106201,Piotrków Trybunalski,"Piotrków Trybunalski, m.",78945,64357,44.15,28400
+2007,106301,Skierniewice,"Skierniewice, m.",48417,38800,41.01,15905
+2007,120101,bocheński,"Bochnia, m.",29810,23347,47.48,11082
+2007,120102,bocheński,"Bochnia, gm.",18271,13809,40.00,5522
+2007,120103,bocheński,"Drwinia, gm.",6264,4809,40.61,1953
+2007,120104,bocheński,"Lipnica Murowana, gm.",5561,4012,40.58,1628
+2007,120105,bocheński,"Łapanów, gm.",7336,5353,43.04,2300
+2007,120106,bocheński,"Nowy Wiśnicz, gm.",12697,9641,46.90,4519
+2007,120107,bocheński,"Rzezawa, gm.",10508,7728,44.94,3473
+2007,120108,bocheński,"Trzciana, gm.",5134,3711,45.76,1697
+2007,120109,bocheński,"Żegocina, gm.",4975,3658,52.27,1911
+2007,120201,brzeski,"Borzęcin, gm.",8407,6288,43.19,2713
+2007,120202,brzeski,"Brzesko, gm.",36001,27469,45.12,12386
+2007,120203,brzeski,"Czchów, gm.",9167,6785,43.14,2927
+2007,120204,brzeski,"Dębno, gm.",13928,10308,45.85,4723
+2007,120205,brzeski,"Gnojnik, gm.",7312,5341,42.24,2255
+2007,120206,brzeski,"Iwkowa, gm.",6109,4374,42.16,1844
+2007,120207,brzeski,"Szczurowa, gm.",9936,7707,37.46,2887
+2007,120301,chrzanowski,"Alwernia, gm.",12523,9951,37.43,3722
+2007,120302,chrzanowski,"Babice, gm.",8740,6863,39.91,2739
+2007,120303,chrzanowski,"Chrzanów, gm.",49768,40858,40.43,16507
+2007,120304,chrzanowski,"Libiąż, gm.",23185,18295,40.20,7354
+2007,120305,chrzanowski,"Trzebinia, gm.",34215,28076,39.62,11111
+2007,120401,dąbrowski,"Bolesław, gm.",2947,2313,37.61,866
+2007,120402,dąbrowski,"Dąbrowa Tarnowska, gm.",20614,15907,38.00,6043
+2007,120403,dąbrowski,"Gręboszów, gm.",3697,2885,43.26,1247
+2007,120404,dąbrowski,"Mędrzechów, gm.",3661,2781,40.06,1114
+2007,120405,dąbrowski,"Olesno, gm.",7792,5881,40.78,2398
+2007,120406,dąbrowski,"Radgoszcz, gm.",7388,5373,39.59,2125
+2007,120407,dąbrowski,"Szczucin, gm.",13797,10347,41.77,4320
+2007,120501,gorlicki,"Gorlice, m.",30016,24301,44.15,10726
+2007,120502,gorlicki,"Biecz, gm.",17463,13253,38.13,5050
+2007,120503,gorlicki,"Bobowa, gm.",9401,6654,45.94,3055
+2007,120504,gorlicki,"Gorlice, gm.",16588,12398,44.33,5493
+2007,120505,gorlicki,"Lipinki, gm.",6927,5258,42.83,2252
+2007,120506,gorlicki,"Łużna, gm.",8345,6157,44.45,2736
+2007,120507,gorlicki,"Moszczenica, gm.",4883,3614,40.32,1456
+2007,120508,gorlicki,"Ropa, gm.",5098,3635,45.20,1642
+2007,120509,gorlicki,"Sękowa, gm.",4889,3660,37.81,1382
+2007,120510,gorlicki,"Uście Gorlickie, gm.",6515,4740,34.18,1620
+2007,120601,krakowski,"Czernichów, gm.",12736,9857,33.23,3274
+2007,120602,krakowski,"Igołomia-Wawrzeńczyce, gm.",7628,5891,28.31,1667
+2007,120603,krakowski,"Iwanowice, gm.",7984,6171,36.33,2236
+2007,120604,krakowski,"Jerzmanowice-Przeginia, gm.",10295,7981,34.88,2783
+2007,120605,krakowski,"Kocmyrzów-Luborzyca, gm.",12757,9784,32.42,3172
+2007,120606,krakowski,"Krzeszowice, gm.",31336,25182,41.83,10529
+2007,120607,krakowski,"Liszki, gm.",15068,11721,40.72,4772
+2007,120608,krakowski,"Michałowice, gm.",7485,5791,38.65,2237
+2007,120609,krakowski,"Mogilany, gm.",10654,8086,45.65,3691
+2007,120610,krakowski,"Skała, gm.",9500,7441,39.81,2956
+2007,120611,krakowski,"Skawina, gm.",41352,32073,44.63,14310
+2007,120612,krakowski,"Słomniki, gm.",13621,10642,35.74,3801
+2007,120613,krakowski,"Sułoszowa, gm.",5912,4529,39.55,1791
+2007,120614,krakowski,"Świątniki Górne, gm.",8679,6654,42.97,2856
+2007,120615,krakowski,"Wielka Wieś, gm.",8906,6971,42.83,2986
+2007,120616,krakowski,"Zabierzów, gm.",21725,17603,48.01,8446
+2007,120617,krakowski,"Zielonki, gm.",14506,11302,46.43,5245
+2007,120701,limanowski,"Limanowa, m.",15042,11671,49.55,5782
+2007,120702,limanowski,"Mszana Dolna, m.",7540,5577,47.77,2661
+2007,120703,limanowski,"Dobra, gm.",9629,7106,39.63,2815
+2007,120704,limanowski,"Jodłownik, gm.",8254,6056,40.85,2474
+2007,120705,limanowski,"Kamienica, gm.",7415,5251,40.47,2125
+2007,120706,limanowski,"Laskowa, gm.",7590,5338,52.85,2821
+2007,120707,limanowski,"Limanowa, gm.",23242,16471,47.65,7846
+2007,120708,limanowski,"Łukowica, gm.",9365,6553,43.45,2847
+2007,120709,limanowski,"Mszana Dolna, gm.",16451,11689,47.75,5578
+2007,120710,limanowski,"Niedźwiedź, gm.",6785,4749,33.31,1582
+2007,120711,limanowski,"Słopnice, gm.",6029,4028,49.13,1979
+2007,120712,limanowski,"Tymbark, gm.",6219,4423,54.33,2401
+2007,120801,miechowski,"Charsznica, gm.",7975,6348,37.44,2376
+2007,120802,miechowski,"Gołcza, gm.",6392,5050,37.03,1870
+2007,120803,miechowski,"Kozłów, gm.",5137,4040,30.35,1226
+2007,120804,miechowski,"Książ Wielki, gm.",5591,4495,34.99,1573
+2007,120805,miechowski,"Miechów, gm.",20190,16295,35.34,5746
+2007,120806,miechowski,"Racławice, gm.",2581,2045,29.78,609
+2007,120807,miechowski,"Słaboszów, gm.",4005,3221,34.52,1112
+2007,120901,myślenicki,"Dobczyce, gm.",13752,10316,43.98,4537
+2007,120902,myślenicki,"Lubień, gm.",9149,6638,44.15,2931
+2007,120903,myślenicki,"Myślenice, gm.",40386,30544,44.81,13676
+2007,120904,myślenicki,"Pcim, gm.",10343,7574,41.60,3151
+2007,120905,myślenicki,"Raciechowice, gm.",6123,4554,37.40,1702
+2007,120906,myślenicki,"Siepraw, gm.",7607,5750,39.46,2269
+2007,120907,myślenicki,"Sułkowice, gm.",13795,10237,36.59,3745
+2007,120908,myślenicki,"Tokarnia, gm.",8165,5852,44.34,2594
+2007,120909,myślenicki,"Wiśniowa, gm.",6745,5007,44.32,2217
+2007,121001,nowosądecki,"Grybów, m.",6426,4897,52.71,2577
+2007,121002,nowosądecki,"Chełmiec, gm.",24441,17302,49.12,8495
+2007,121003,nowosądecki,"Gródek nad Dunajcem, gm.",9040,6347,41.34,2622
+2007,121004,nowosądecki,"Grybów, gm.",22888,16087,52.68,8471
+2007,121005,nowosądecki,"Kamionka Wielka, gm.",9133,6365,49.49,3148
+2007,121006,nowosądecki,"Korzenna, gm.",13650,9595,48.71,4674
+2007,121007,nowosądecki,"Krynica-Zdrój, gm.",17808,14083,45.97,6472
+2007,121008,nowosądecki,"Łabowa, gm.",5257,3555,40.73,1448
+2007,121009,nowosądecki,"Łącko, gm.",15123,10833,43.08,4666
+2007,121010,nowosądecki,"Łososina Dolna, gm.",10019,7183,49.76,3572
+2007,121011,nowosądecki,"Muszyna, gm.",11372,8519,44.35,3776
+2007,121012,nowosądecki,"Nawojowa, gm.",7599,5313,47.04,2498
+2007,121013,nowosądecki,"Piwniczna-Zdrój, gm.",10578,7858,43.03,3380
+2007,121014,nowosądecki,"Podegrodzie, gm.",11667,8188,46.91,3841
+2007,121015,nowosądecki,"Rytro, gm.",3763,2779,44.94,1249
+2007,121016,nowosądecki,"Stary Sącz, gm.",22487,16319,52.41,8542
+2007,121101,nowotarski,"Nowy Targ, m.",33639,26073,45.86,11946
+2007,121102,nowotarski,"Szczawnica, gm.",7463,5862,40.16,2353
+2007,121103,nowotarski,"Czarny Dunajec, gm.",21090,15715,33.52,5266
+2007,121104,nowotarski,"Czorsztyn, gm.",7146,5257,36.94,1941
+2007,121105,nowotarski,"Jabłonka, gm.",17322,12322,37.40,4603
+2007,121106,nowotarski,"Krościenko nad Dunajcem, gm.",6489,4984,41.25,2056
+2007,121107,nowotarski,"Lipnica Wielka, gm.",5642,3924,45.49,1785
+2007,121108,nowotarski,"Łapsze Niżne, gm.",8763,6501,33.86,2201
+2007,121109,nowotarski,"Nowy Targ, gm.",22213,16093,39.27,6319
+2007,121110,nowotarski,"Ochotnica Dolna, gm.",8105,5754,39.64,2280
+2007,121111,nowotarski,"Raba Wyżna, gm.",13584,10042,45.03,4521
+2007,121112,nowotarski,"Rabka-Zdrój, gm.",17538,13596,47.71,6485
+2007,121113,nowotarski,"Spytkowice, gm.",4106,2924,39.02,1140
+2007,121114,nowotarski,"Szaflary, gm.",9968,7218,36.56,2639
+2007,121201,olkuski,"Bukowno, m.",10782,8707,31.64,2754
+2007,121203,olkuski,"Bolesław, gm.",7819,6352,29.35,1864
+2007,121204,olkuski,"Klucze, gm.",15024,12200,42.11,5135
+2007,121205,olkuski,"Olkusz, gm.",51314,41443,41.99,17399
+2007,121206,olkuski,"Trzyciąż, gm.",7205,5605,30.31,1699
+2007,121207,olkuski,"Wolbrom, gm.",23661,18532,38.25,7081
+2007,121301,oświęcimski,"Oświęcim, m.",41683,33934,45.31,15369
+2007,121302,oświęcimski,"Brzeszcze, gm.",21981,17577,45.01,7909
+2007,121303,oświęcimski,"Chełmek, gm.",12990,10230,42.22,4319
+2007,121304,oświęcimski,"Kęty, gm.",33817,26396,44.18,11660
+2007,121305,oświęcimski,"Osiek, gm.",7868,5994,39.62,2375
+2007,121306,oświęcimski,"Oświęcim, gm.",16578,12929,46.74,6036
+2007,121307,oświęcimski,"Polanka Wielka, gm.",4173,3134,50.77,1591
+2007,121308,oświęcimski,"Przeciszów, gm.",6785,5272,41.24,2171
+2007,121309,oświęcimski,"Zator, gm.",9023,6978,43.52,3036
+2007,121401,proszowicki,"Koniusza, gm.",8545,6542,29.78,1948
+2007,121402,proszowicki,"Koszyce, gm.",5939,4688,27.75,1300
+2007,121403,proszowicki,"Nowe Brzesko, gm.",5705,4484,36.44,1632
+2007,121404,proszowicki,"Pałecznica, gm.",3689,2849,31.31,892
+2007,121405,proszowicki,"Proszowice, gm.",16732,13202,35.10,4634
+2007,121406,proszowicki,"Radziemice, gm.",3517,2708,34.16,925
+2007,121501,suski,"Jordanów, m.",5101,4014,47.09,1888
+2007,121502,suski,"Sucha Beskidzka, m.",9664,7743,42.77,3311
+2007,121503,suski,"Budzów, gm.",8374,6072,34.82,2114
+2007,121504,suski,"Bystra-Sidzina, gm.",6467,4615,39.98,1843
+2007,121505,suski,"Jordanów, gm.",10628,7768,39.96,3103
+2007,121506,suski,"Maków Podhalański, gm.",16121,12374,44.01,5446
+2007,121507,suski,"Stryszawa, gm.",11741,9083,41.75,3790
+2007,121508,suski,"Zawoja, gm.",9002,6809,39.11,2663
+2007,121509,suski,"Zembrzyce, gm.",5596,4221,40.96,1729
+2007,121601,tarnowski,"Ciężkowice, gm.",11297,8311,38.14,3169
+2007,121602,tarnowski,"Gromnik, gm.",8598,6227,39.92,2485
+2007,121603,tarnowski,"Lisia Góra, gm.",13495,9918,45.47,4505
+2007,121604,tarnowski,"Pleśna, gm.",11629,8505,43.87,3731
+2007,121605,tarnowski,"Radłów, gm.",9772,7379,38.37,2830
+2007,121606,tarnowski,"Ryglice, gm.",11533,8396,42.53,3567
+2007,121607,tarnowski,"Rzepiennik Strzyżewski, gm.",7020,5133,41.46,2124
+2007,121608,tarnowski,"Skrzyszów, gm.",12994,9509,40.75,3869
+2007,121609,tarnowski,"Tarnów, gm.",22598,16874,47.76,8056
+2007,121610,tarnowski,"Tuchów, gm.",18274,13320,47.28,6296
+2007,121611,tarnowski,"Wierzchosławice, gm.",10622,8084,43.15,3487
+2007,121612,tarnowski,"Wietrzychowice, gm.",4257,3261,41.46,1352
+2007,121613,tarnowski,"Wojnicz, gm.",13114,9715,42.37,4109
+2007,121614,tarnowski,"Zakliczyn, gm.",12253,9052,36.99,3347
+2007,121615,tarnowski,"Żabno, gm.",19022,14375,41.87,6018
+2007,121616,tarnowski,"Szerzyny, gm.",8332,6307,40.10,2529
+2007,121701,tatrzański,"Zakopane, m.",28392,24206,47.91,11593
+2007,121702,tatrzański,"Biały Dunajec, gm.",7010,5201,40.49,2105
+2007,121703,tatrzański,"Bukowina Tatrzańska, gm.",12326,9224,43.42,3999
+2007,121704,tatrzański,"Kościelisko, gm.",8077,6116,36.72,2243
+2007,121705,tatrzański,"Poronin, gm.",10618,7887,37.67,2966
+2007,121801,wadowicki,"Andrychów, gm.",43934,34195,44.95,15368
+2007,121802,wadowicki,"Brzeźnica, gm.",10103,7658,34.07,2607
+2007,121803,wadowicki,"Kalwaria Zebrzydowska, gm.",19203,14631,43.07,6297
+2007,121804,wadowicki,"Lanckorona, gm.",5997,4399,33.26,1462
+2007,121805,wadowicki,"Mucharz, gm.",3847,2935,39.66,1164
+2007,121806,wadowicki,"Spytkowice, gm.",9380,7051,36.19,2550
+2007,121807,wadowicki,"Stryszów, gm.",6875,5159,37.00,1909
+2007,121808,wadowicki,"Tomice, gm.",7235,5395,38.98,2103
+2007,121809,wadowicki,"Wadowice, gm.",37433,29477,43.25,12748
+2007,121810,wadowicki,"Wieprz, gm.",11563,8538,41.80,3563
+2007,121901,wielicki,"Biskupice, gm.",8588,6323,41.99,2653
+2007,121902,wielicki,"Gdów, gm.",15992,11869,36.93,4383
+2007,121903,wielicki,"Kłaj, gm.",9648,7495,44.96,3370
+2007,121904,wielicki,"Niepołomice, gm.",21423,16644,41.96,6978
+2007,121905,wielicki,"Wieliczka, gm.",46732,36882,42.97,15844
+2007,126101,Kraków,"Kraków, m.",706443,588513,51.62,303618
+2007,126201,Nowy Sącz,"Nowy Sącz, m.",84273,65807,51.21,33675
+2007,126301,Tarnów,"Tarnów, m.",116803,95190,46.37,44113
+2007,140101,białobrzeski,"Białobrzegi, gm.",10433,8205,40.11,3290
+2007,140102,białobrzeski,"Promna, gm.",5857,4551,43.81,1994
+2007,140103,białobrzeski,"Radzanów, gm.",4031,2923,40.40,1181
+2007,140104,białobrzeski,"Stara Błotnica, gm.",5259,3774,39.59,1492
+2007,140105,białobrzeski,"Stromiec, gm.",5840,4271,36.31,1551
+2007,140106,białobrzeski,"Wyśmierzyce, gm.",2936,2237,39.25,878
+2007,140201,ciechanowski,"Ciechanów, m.",47064,37217,40.81,15177
+2007,140202,ciechanowski,"Ciechanów, gm.",6129,4634,29.95,1387
+2007,140203,ciechanowski,"Glinojeck, gm.",8378,6355,28.73,1826
+2007,140204,ciechanowski,"Gołymin-Ośrodek, gm.",4268,3201,34.05,1090
+2007,140205,ciechanowski,"Grudusk, gm.",4134,3157,36.68,1153
+2007,140206,ciechanowski,"Ojrzeń, gm.",4539,3420,33.13,1133
+2007,140207,ciechanowski,"Opinogóra Górna, gm.",6128,4609,34.45,1588
+2007,140208,ciechanowski,"Regimin, gm.",5053,3873,27.34,1059
+2007,140209,ciechanowski,"Sońsk, gm.",8172,6251,35.87,2242
+2007,140301,garwoliński,"Garwolin, m.",16559,12874,46.85,6026
+2007,140302,garwoliński,"Łaskarzew, m.",4983,3800,46.32,1760
+2007,140303,garwoliński,"Borowie, gm.",5269,3903,38.74,1509
+2007,140304,garwoliński,"Garwolin, gm.",12082,8911,37.81,3369
+2007,140305,garwoliński,"Górzno, gm.",6373,4650,42.92,1996
+2007,140306,garwoliński,"Łaskarzew, gm.",5491,3995,40.20,1606
+2007,140307,garwoliński,"Maciejowice, gm.",7776,5815,38.66,2248
+2007,140308,garwoliński,"Miastków Kościelny, gm.",5262,4011,41.79,1675
+2007,140309,garwoliński,"Parysów, gm.",4154,3034,40.57,1231
+2007,140310,garwoliński,"Pilawa, gm.",10526,7942,37.57,2984
+2007,140311,garwoliński,"Sobolew, gm.",8504,6341,40.36,2559
+2007,140312,garwoliński,"Trojanów, gm.",7969,6043,45.26,2735
+2007,140313,garwoliński,"Wilga, gm.",5226,4104,39.06,1603
+2007,140314,garwoliński,"Żelechów, gm.",8903,6562,40.44,2654
+2007,140401,gostyniński,"Gostynin, m.",19473,15743,38.14,5996
+2007,140402,gostyniński,"Gostynin, gm.",12270,9418,32.23,3035
+2007,140403,gostyniński,"Pacyna, gm.",4102,3279,45.11,1476
+2007,140404,gostyniński,"Sanniki, gm.",6728,5188,38.63,2002
+2007,140405,gostyniński,"Szczawin Kośc., gm.",5469,4168,37.88,1579
+2007,140501,grodziski,"Milanówek, m.",15113,12544,47.50,5960
+2007,140502,grodziski,"Podkowa Leśna, m.",3712,3113,63.12,1965
+2007,140503,grodziski,"Baranów, gm.",4788,3759,31.28,1174
+2007,140504,grodziski,"Grodzisk Mazowiecki, gm.",36611,29785,42.86,12761
+2007,140505,grodziski,"Jaktorów, gm.",9560,7479,36.86,2752
+2007,140506,grodziski,"Żabia Wola, gm.",5987,4721,32.98,1557
+2007,140601,grójecki,"Belsk Duży, gm.",6723,5265,41.77,2198
+2007,140602,grójecki,"Błędów, gm.",8210,6441,41.47,2669
+2007,140603,grójecki,"Chynów, gm.",9294,7214,33.13,2390
+2007,140604,grójecki,"Goszczyn, gm.",2890,2274,48.46,1102
+2007,140605,grójecki,"Grójec, gm.",23152,18786,36.50,6847
+2007,140606,grójecki,"Jasieniec, gm.",5411,4234,36.44,1543
+2007,140607,grójecki,"Mogielnica, gm.",9821,7509,41.38,3103
+2007,140608,grójecki,"Nowe Miasto nad Pilicą, gm.",8819,7235,45.14,3262
+2007,140609,grójecki,"Pniewy, gm.",4446,3569,37.69,1345
+2007,140611,grójecki,"Warka, gm.",19227,14866,38.93,5784
+2007,140701,kozienicki,"Garbatka-Letnisko, gm.",5454,4611,37.00,1705
+2007,140702,kozienicki,"Głowaczów, gm.",7821,6000,41.05,2459
+2007,140703,kozienicki,"Gniewoszów, gm.",4437,3460,38.21,1322
+2007,140704,kozienicki,"Grabów nad Pilicą, gm.",3739,3017,31.95,963
+2007,140705,kozienicki,"Kozienice, gm.",32318,25571,40.06,10238
+2007,140706,kozienicki,"Magnuszew, gm.",6751,5112,41.29,2109
+2007,140707,kozienicki,"Sieciechów, gm.",4251,3268,38.19,1247
+2007,140801,legionowski,"Legionowo, m.",49780,40415,44.68,18052
+2007,140802,legionowski,"Jabłonna, gm.",11043,8989,46.90,4216
+2007,140803,legionowski,"Nieporęt, gm.",11415,9521,47.25,4499
+2007,140804,legionowski,"Serock, gm.",10655,8599,35.85,3081
+2007,140805,legionowski,"Wieliszew, gm.",7972,6362,36.97,2352
+2007,140901,lipski,"Chotcza, gm.",2814,2245,32.96,740
+2007,140902,lipski,"Ciepielów, gm.",6244,4695,46.88,2201
+2007,140903,lipski,"Lipsko, gm.",12339,9889,35.78,3538
+2007,140904,lipski,"Rzeczniów, gm.",4966,3907,43.82,1711
+2007,140905,lipski,"Sienno, gm.",6605,5245,40.74,2135
+2007,140906,lipski,"Solec nad Wisłą, gm.",5848,4715,35.82,1688
+2007,141001,łosicki,"Huszlew, gm.",3254,2507,47.79,1197
+2007,141002,łosicki,"Łosice, gm.",11746,9032,44.20,3992
+2007,141003,łosicki,"Olszanka, gm.",3397,2580,44.50,1147
+2007,141004,łosicki,"Platerów, gm.",5442,4220,39.60,1670
+2007,141005,łosicki,"Sarnaki, gm.",5470,4340,41.94,1820
+2007,141006,łosicki,"Stara Kornica, gm.",5299,3937,44.86,1766
+2007,141101,makowski,"Maków Mazowiecki, m.",10352,8180,41.39,3384
+2007,141102,makowski,"Czerwonka, gm.",2737,2049,37.04,759
+2007,141103,makowski,"Karniewo, gm.",5542,4149,40.85,1695
+2007,141104,makowski,"Krasnosielc, gm.",6981,5242,35.58,1864
+2007,141105,makowski,"Młynarze, gm.",1854,1367,47.04,643
+2007,141106,makowski,"Płoniawy-Bramura, gm.",6151,4716,36.98,1743
+2007,141107,makowski,"Różan, gm.",4660,3651,38.04,1388
+2007,141108,makowski,"Rzewnie, gm.",2910,2204,43.92,968
+2007,141109,makowski,"Sypniewo, gm.",3750,2871,43.36,1245
+2007,141110,makowski,"Szelków, gm.",3894,3021,47.53,1436
+2007,141201,miński,"Mińsk Mazowiecki, m.",37004,29354,46.01,13504
+2007,141204,miński,"Cegłów, gm.",6397,5106,37.31,1903
+2007,141205,miński,"Dębe Wielkie, gm.",8216,6330,36.45,2306
+2007,141206,miński,"Dobre, gm.",6073,4670,36.30,1695
+2007,141207,miński,"Halinów, gm.",11563,8978,42.62,3822
+2007,141208,miński,"Jakubów, gm.",4995,3823,37.48,1433
+2007,141209,miński,"Kałuszyn, gm.",6159,4751,40.39,1917
+2007,141210,miński,"Latowicz, gm.",5689,4379,31.49,1379
+2007,141211,miński,"Mińsk Mazowiecki, gm.",12530,9628,38.62,3717
+2007,141212,miński,"Mrozy, gm.",8698,7026,36.18,2542
+2007,141213,miński,"Siennica, gm.",6997,5376,31.83,1711
+2007,141214,miński,"Stanisławów, gm.",6328,4821,38.35,1846
+2007,141215,miński,"Sulejówek, m.",17936,14540,51.56,7484
+2007,141301,mławski,"Mława, m.",30836,24120,36.30,8753
+2007,141302,mławski,"Dzierzgowo, gm.",3695,2764,35.49,981
+2007,141303,mławski,"Lipowiec Kościelny, gm.",5156,3832,29.36,1125
+2007,141304,mławski,"Radzanów, gm.",3799,2823,34.71,980
+2007,141305,mławski,"Strzegowo, gm.",8270,6320,33.16,2090
+2007,141306,mławski,"Stupsk, gm.",5264,3965,32.81,1301
+2007,141307,mławski,"Szreńsk, gm.",4748,3494,35.78,1248
+2007,141308,mławski,"Szydłowo, gm.",4784,3636,33.83,1230
+2007,141309,mławski,"Wieczfnia Kościelna, gm.",4290,3195,31.77,1014
+2007,141310,mławski,"Wiśniewo, gm.",5380,4037,30.39,1227
+2007,141401,nowodworski,"Nowy Dwór Mazowiecki, m.",27678,21965,39.97,8779
+2007,141402,nowodworski,"Czosnów, gm.",8219,7020,39.99,2806
+2007,141403,nowodworski,"Leoncin, gm.",4950,4013,32.74,1314
+2007,141404,nowodworski,"Nasielsk, gm.",19394,14861,30.37,4514
+2007,141405,nowodworski,"Pomiechówek, gm.",8593,6909,37.57,2595
+2007,141406,nowodworski,"Zakroczym, gm.",6310,4920,34.09,1676
+2007,141501,ostrołęcki,"Baranowo, gm.",7197,5374,33.03,1775
+2007,141502,ostrołęcki,"Czarnia, gm.",2928,2074,30.47,632
+2007,141503,ostrołęcki,"Czerwin, gm.",5487,4224,37.97,1604
+2007,141504,ostrołęcki,"Goworowo, gm.",9186,6999,27.95,1956
+2007,141505,ostrołęcki,"Kadzidło, gm.",11340,8217,36.98,3039
+2007,141506,ostrołęcki,"Lelis, gm.",8476,5994,39.74,2382
+2007,141507,ostrołęcki,"Łyse, gm.",8509,6115,30.71,1878
+2007,141508,ostrołęcki,"Myszyniec, gm.",10927,8005,34.15,2734
+2007,141509,ostrołęcki,"Olszewo-Borki, gm.",9285,6818,36.61,2494
+2007,141510,ostrołęcki,"Rzekuń, gm.",8765,6650,37.05,2464
+2007,141511,ostrołęcki,"Troszyn, gm.",5156,3953,39.41,1558
+2007,141601,ostrowski,"Ostrów Mazowiecka, m.",23244,17968,37.10,6666
+2007,141602,ostrowski,"Andrzejewo, gm.",4748,3568,58.38,2082
+2007,141603,ostrowski,"Boguty-Pianki, gm.",3050,2320,49.01,1137
+2007,141604,ostrowski,"Brok, gm.",2916,2290,46.90,1074
+2007,141605,ostrowski,"Małkinia Górna, gm.",12546,9760,39.01,3807
+2007,141606,ostrowski,"Nur, gm.",3440,2726,44.17,1203
+2007,141607,ostrowski,"Ostrów Mazowiecka, gm.",12960,9766,35.05,3423
+2007,141608,ostrowski,"Stary Lubotyń, gm.",4106,3084,37.91,1169
+2007,141609,ostrowski,"Szulborze Wielkie, gm.",1987,1533,37.57,576
+2007,141610,ostrowski,"Wąsewo, gm.",4783,3662,42.87,1570
+2007,141611,ostrowski,"Zaręby Kościelne, gm.",4060,3130,41.28,1292
+2007,141701,otwocki,"Józefów, m.",16329,13194,55.49,7315
+2007,141702,otwocki,"Otwock, m.",41711,34021,49.40,16798
+2007,141703,otwocki,"Celestynów, gm.",10921,8291,45.65,3782
+2007,141704,otwocki,"Karczew, gm.",15731,12672,45.24,5729
+2007,141705,otwocki,"Kołbiel, gm.",8021,6237,36.56,2279
+2007,141706,otwocki,"Osieck, gm.",3490,2756,37.48,1032
+2007,141707,otwocki,"Sobienie-Jeziory, gm.",6306,4896,38.89,1904
+2007,141708,otwocki,"Wiązowna, gm.",8687,7008,43.74,3064
+2007,141801,piaseczyński,"Góra Kalwaria, gm.",23810,18883,34.93,6594
+2007,141802,piaseczyński,"Konstancin-Jeziorna, gm.",22744,18776,48.48,9092
+2007,141803,piaseczyński,"Lesznowola, gm.",14242,11328,51.37,5810
+2007,141804,piaseczyński,"Piaseczno, gm.",54177,43249,50.79,21957
+2007,141805,piaseczyński,"Prażmów, gm.",7926,6155,33.83,2083
+2007,141806,piaseczyński,"Tarczyn, gm.",10190,8165,39.66,3234
+2007,141901,płocki,"Bielsk, gm.",8980,6732,31.19,2099
+2007,141902,płocki,"Bodzanów, gm.",8474,6556,31.25,2049
+2007,141903,płocki,"Brudzeń Duży, gm.",7809,5918,37.73,2233
+2007,141904,płocki,"Bulkowo, gm.",6191,4629,34.72,1607
+2007,141905,płocki,"Drobin, gm.",8876,6615,28.15,1860
+2007,141906,płocki,"Gąbin, gm.",10828,8533,38.37,3274
+2007,141907,płocki,"Łąck, gm.",4985,3838,32.86,1261
+2007,141908,płocki,"Mała Wieś, gm.",6506,5007,30.20,1510
+2007,141909,płocki,"Nowy Duninów, gm.",3889,2995,34.62,1037
+2007,141910,płocki,"Radzanowo, gm.",7214,5433,31.53,1713
+2007,141911,płocki,"Słubice, gm.",4788,3607,39.15,1410
+2007,141912,płocki,"Słupno, gm.",5160,3991,36.56,1459
+2007,141913,płocki,"Stara Biała, gm.",9700,7269,33.65,2443
+2007,141914,płocki,"Staroźreby, gm.",7809,5780,34.33,1984
+2007,141915,płocki,"Wyszogród, gm.",6196,4824,33.93,1637
+2007,142001,płoński,"Płońsk, m.",22465,18090,37.79,6835
+2007,142002,płoński,"Raciąż, m.",4795,3689,40.91,1508
+2007,142003,płoński,"Baboszewo, gm.",8218,6224,31.64,1969
+2007,142004,płoński,"Czerwińsk nad Wisłą, gm.",8240,6333,27.13,1718
+2007,142005,płoński,"Dzierzążnia, gm.",4029,3066,33.59,1030
+2007,142006,płoński,"Joniec, gm.",2555,2072,37.50,776
+2007,142007,płoński,"Naruszewo, gm.",6918,5372,23.53,1264
+2007,142008,płoński,"Nowe Miasto, gm.",4807,3788,36.43,1380
+2007,142009,płoński,"Płońsk, gm.",7216,5430,23.98,1301
+2007,142010,płoński,"Raciąż, gm.",9218,7038,32.42,2282
+2007,142011,płoński,"Sochocin, gm.",6009,4676,31.74,1484
+2007,142012,płoński,"Załuski, gm.",5703,4339,27.63,1199
+2007,142101,pruszkowski,"Piastów, m.",22818,18835,50.70,9536
+2007,142102,pruszkowski,"Pruszków, m.",53858,44236,47.25,20879
+2007,142103,pruszkowski,"Brwinów, gm.",20270,16431,48.91,8025
+2007,142104,pruszkowski,"Michałowice, gm.",14374,11480,56.10,6434
+2007,142105,pruszkowski,"Nadarzyn, gm.",8991,7219,44.78,3232
+2007,142106,pruszkowski,"Raszyn, gm.",19313,15180,49.49,7510
+2007,142201,przasnyski,"Przasnysz, m.",17500,13889,38.52,5349
+2007,142202,przasnyski,"Chorzele, gm.",10839,8054,31.46,2533
+2007,142203,przasnyski,"Czernice Borowe, gm.",4129,3133,34.47,1080
+2007,142204,przasnyski,"Jednorożec, gm.",7691,5538,33.22,1840
+2007,142205,przasnyski,"Krasne, gm.",4133,3163,36.04,1140
+2007,142206,przasnyski,"Krzynowłoga Mała, gm.",3820,2841,40.76,1158
+2007,142207,przasnyski,"Przasnysz, gm.",7610,5607,34.26,1921
+2007,142301,przysuski,"Borkowice, gm.",4794,3734,38.97,1455
+2007,142302,przysuski,"Gielniów, gm.",5118,4010,36.53,1464
+2007,142303,przysuski,"Klwów, gm.",3801,2916,47.53,1385
+2007,142304,przysuski,"Odrzywół, gm.",4632,3395,48.75,1654
+2007,142305,przysuski,"Potworów, gm.",4500,3324,38.63,1283
+2007,142306,przysuski,"Przysucha, gm.",13277,10437,41.63,4345
+2007,142307,przysuski,"Rusinów, gm.",4726,3514,47.04,1653
+2007,142308,przysuski,"Wieniawa, gm.",5761,4322,41.53,1795
+2007,142401,pułtuski,"Gzy, gm.",4102,3174,40.86,1297
+2007,142402,pułtuski,"Obryte, gm.",5070,3817,40.50,1546
+2007,142403,pułtuski,"Pokrzywnica, gm.",4753,3589,35.55,1276
+2007,142404,pułtuski,"Pułtusk, gm.",23608,18487,45.71,8440
+2007,142405,pułtuski,"Świercze, gm.",4872,3698,28.75,1063
+2007,142406,pułtuski,"Winnica, gm.",4183,3158,58.36,1843
+2007,142407,pułtuski,"Zatory, gm.",4947,3633,41.65,1513
+2007,142501,radomski,"Pionki, m.",21125,16913,38.76,6554
+2007,142502,radomski,"Gózd, gm.",7907,5682,36.10,2047
+2007,142503,radomski,"Iłża, gm.",16195,12786,33.53,4282
+2007,142504,radomski,"Jastrzębia, gm.",6542,4814,37.41,1800
+2007,142505,radomski,"Jedlińsk, gm.",13274,9671,36.80,3559
+2007,142506,radomski,"Jedlnia-Letnisko, gm.",11345,8650,41.19,3558
+2007,142507,radomski,"Kowala, gm.",10481,7615,36.30,2758
+2007,142508,radomski,"Pionki, gm.",10103,7631,29.26,2233
+2007,142509,radomski,"Przytyk, gm.",7172,5218,37.77,1971
+2007,142510,radomski,"Skaryszew, gm.",13314,9811,39.04,3827
+2007,142511,radomski,"Wierzbica, gm.",10431,7928,30.78,2440
+2007,142512,radomski,"Wolanów, gm.",8236,5979,41.16,2460
+2007,142513,radomski,"Zakrzew, gm.",11004,8038,39.40,3165
+2007,142601,siedlecki,"Domanice, gm.",2774,2027,50.22,1018
+2007,142602,siedlecki,"Korczew, gm.",3168,2508,42.11,1056
+2007,142603,siedlecki,"Kotuń, gm.",8573,6456,35.75,2308
+2007,142604,siedlecki,"Mokobody, gm.",5353,3965,44.39,1756
+2007,142605,siedlecki,"Mordy, gm.",6511,5019,39.59,1987
+2007,142606,siedlecki,"Paprotnia, gm.",2904,2191,55.91,1224
+2007,142607,siedlecki,"Przesmyki, gm.",3834,2981,48.54,1440
+2007,142608,siedlecki,"Siedlce, gm.",15513,11769,40.37,4748
+2007,142609,siedlecki,"Skórzec, gm.",7261,5392,40.06,2160
+2007,142610,siedlecki,"Suchożebry, gm.",4722,3662,42.35,1549
+2007,142611,siedlecki,"Wiśniew, gm.",6029,4311,50.03,2156
+2007,142612,siedlecki,"Wodynie, gm.",4977,3764,38.07,1433
+2007,142613,siedlecki,"Zbuczyn, gm.",10341,7579,49.91,3783
+2007,142701,sierpecki,"Sierpc, m.",19453,15470,37.08,5734
+2007,142702,sierpecki,"Gozdowo, gm.",6283,4575,28.17,1288
+2007,142703,sierpecki,"Mochowo, gm.",6414,4706,31.43,1478
+2007,142704,sierpecki,"Rościszewo, gm.",4477,3275,33.22,1087
+2007,142705,sierpecki,"Sierpc, gm.",7133,5360,29.03,1556
+2007,142706,sierpecki,"Szczutowo, gm.",4615,3440,30.06,1034
+2007,142707,sierpecki,"Zawidz, gm.",7377,5437,40.15,2183
+2007,142801,sochaczewski,"Sochaczew, m.",38523,30766,37.23,11453
+2007,142802,sochaczewski,"Brochów, gm.",4205,3282,28.98,951
+2007,142803,sochaczewski,"Iłów, gm.",6368,4879,39.58,1930
+2007,142804,sochaczewski,"Młodzieszyn, gm.",5698,4327,25.49,1103
+2007,142805,sochaczewski,"Nowa Sucha, gm.",6045,4621,31.47,1453
+2007,142806,sochaczewski,"Rybno, gm.",3543,2768,35.12,972
+2007,142807,sochaczewski,"Sochaczew, gm.",8745,6683,33.14,2215
+2007,142808,sochaczewski,"Teresin, gm.",10840,8453,36.54,3088
+2007,142901,sokołowski,"Sokołów Podlaski, m.",18901,14923,45.84,6834
+2007,142902,sokołowski,"Bielany, gm.",4051,3088,50.78,1565
+2007,142903,sokołowski,"Ceranów, gm.",2744,2126,41.82,888
+2007,142904,sokołowski,"Jabłonna Lacka, gm.",5306,4171,47.40,1976
+2007,142905,sokołowski,"Kosów Lacki, gm.",7267,5631,41.34,2328
+2007,142906,sokołowski,"Repki, gm.",6210,4820,51.27,2470
+2007,142907,sokołowski,"Sabnie, gm.",4270,3327,51.40,1710
+2007,142908,sokołowski,"Sokołów Podlaski, gm.",6459,4965,43.79,2174
+2007,142909,sokołowski,"Sterdyń, gm.",4968,3984,46.96,1871
+2007,143001,szydłowiecki,"Chlewiska, gm.",6505,5118,38.32,1961
+2007,143002,szydłowiecki,"Jastrząb, gm.",5153,3874,35.18,1362
+2007,143003,szydłowiecki,"Mirów, gm.",3923,2878,31.69,909
+2007,143004,szydłowiecki,"Orońsko, gm.",5852,4386,44.69,1959
+2007,143005,szydłowiecki,"Szydłowiec, gm.",20151,15631,38.14,5959
+2007,143201,warszawski zachodni,"Błonie, gm.",19637,15800,38.77,6123
+2007,143202,warszawski zachodni,"Izabelin, gm.",8757,7117,52.63,3746
+2007,143203,warszawski zachodni,"Kampinos, gm.",3978,3062,35.56,1089
+2007,143204,warszawski zachodni,"Leszno, gm.",8405,6780,35.41,2393
+2007,143205,warszawski zachodni,"Łomianki, gm.",19463,15577,54.82,8536
+2007,143206,warszawski zachodni,"Ożarów Mazowiecki, gm.",19147,15682,42.50,6654
+2007,143207,warszawski zachodni,"Stare Babice, gm.",13500,10792,45.19,4872
+2007,143301,węgrowski,"Węgrów, m.",12987,10134,46.73,4734
+2007,143302,węgrowski,"Grębków, gm.",4828,3739,34.90,1305
+2007,143303,węgrowski,"Korytnica, gm.",7134,5405,41.70,2253
+2007,143304,węgrowski,"Liw, gm.",7923,6034,40.62,2450
+2007,143305,węgrowski,"Łochów, gm.",17915,13800,38.39,5292
+2007,143306,węgrowski,"Miedzna, gm.",4493,3551,50.13,1779
+2007,143307,węgrowski,"Sadowne, gm.",6559,5021,37.84,1900
+2007,143308,węgrowski,"Stoczek, gm.",5576,4294,41.73,1792
+2007,143309,węgrowski,"Wierzbno, gm.",3260,2571,42.20,1083
+2007,143401,wołomiński,"Kobyłka, m.",16998,13167,50.91,6703
+2007,143402,wołomiński,"Marki, m.",21004,16233,42.75,6939
+2007,143403,wołomiński,"Ząbki, m.",21158,16864,47.98,8090
+2007,143404,wołomiński,"Zielonka, m.",16480,12905,54.89,7083
+2007,143405,wołomiński,"Dąbrówka, gm.",6765,5056,38.77,1960
+2007,143406,wołomiński,"Jadów, gm.",7885,6120,31.42,1923
+2007,143407,wołomiński,"Klembów, gm.",8578,6516,36.37,2369
+2007,143408,wołomiński,"Poświętne, gm.",5864,4415,33.23,1467
+2007,143409,wołomiński,"Radzymin, gm.",18559,14327,43.03,6158
+2007,143410,wołomiński,"Strachówka, gm.",3179,2488,29.94,745
+2007,143411,wołomiński,"Tłuszcz, gm.",18449,13991,34.99,4893
+2007,143412,wołomiński,"Wołomin, gm.",48521,38444,46.41,17835
+2007,143501,wyszkowski,"Brańszczyk, gm.",8365,6494,36.16,2345
+2007,143502,wyszkowski,"Długosiodło, gm.",8102,6009,32.40,1947
+2007,143503,wyszkowski,"Rząśnik, gm.",6989,5056,39.54,1999
+2007,143504,wyszkowski,"Somianka, gm.",5643,4403,43.74,1926
+2007,143505,wyszkowski,"Wyszków, gm.",37955,28897,40.98,11838
+2007,143506,wyszkowski,"Zabrodzie, gm.",5546,4257,36.46,1552
+2007,143601,zwoleński,"Kazanów, gm.",4873,3659,42.39,1550
+2007,143602,zwoleński,"Policzna, gm.",6177,4704,34.18,1606
+2007,143603,zwoleński,"Przyłęk, gm.",6698,5121,32.79,1678
+2007,143604,zwoleński,"Tczów, gm.",5006,3716,40.12,1491
+2007,143605,zwoleński,"Zwoleń, gm.",15798,12277,44.96,5518
+2007,143701,żuromiński,"Bieżuń, gm.",5615,4270,34.99,1494
+2007,143702,żuromiński,"Kuczbork-Osada, gm.",5264,4039,32.68,1320
+2007,143703,żuromiński,"Lubowidz, gm.",7724,5835,33.76,1965
+2007,143704,żuromiński,"Lutocin, gm.",4916,3707,31.37,1163
+2007,143705,żuromiński,"Siemiątkowo, gm.",3903,2936,26.50,778
+2007,143706,żuromiński,"Żuromin, gm.",14971,11446,33.52,3837
+2007,143801,żyrardowski,"Żyrardów, m.",40794,33056,38.62,12763
+2007,143802,żyrardowski,"Mszczonów, gm.",11274,8811,34.43,3033
+2007,143803,żyrardowski,"Puszcza Mariańska, gm.",8033,6414,32.90,2109
+2007,143804,żyrardowski,"Radziejowice, gm.",4379,3508,42.16,1479
+2007,143805,żyrardowski,"Wiskitki, gm.",9337,7222,31.86,2300
+2007,146101,Ostrołęka,"Ostrołęka, m.",54747,42909,42.38,18183
+2007,146201,Płock,"Płock, m.",125809,102532,42.36,43375
+2007,146301,Radom,"Radom, m.",226422,181043,44.72,80896
+2007,146401,Siedlce,"Siedlce, m.",74743,60008,46.79,28070
+2007,146502,Warszawa,Bemowo,98174,84312,56.31,47372
+2007,146503,Warszawa,Białołęka,62747,51942,53.92,27991
+2007,146504,Warszawa,Bielany,129975,110058,55.82,61280
+2007,146505,Warszawa,Mokotów,214359,187483,57.72,108045
+2007,146506,Warszawa,Ochota,82172,71407,56.98,40637
+2007,146507,Warszawa,Praga-Południe,176447,150861,55.33,83393
+2007,146508,Warszawa,Praga-Północ,69955,57767,45.57,26301
+2007,146509,Warszawa,Rembertów,20351,16946,50.90,8614
+2007,146510,Warszawa,Śródmieście,123886,109380,57.22,62516
+2007,146511,Warszawa,Targówek,119249,99877,49.67,49553
+2007,146512,Warszawa,Ursus,43891,36104,53.79,19407
+2007,146513,Warszawa,Ursynów,126091,105176,60.56,63634
+2007,146514,Warszawa,Wawer,59333,49173,57.01,28005
+2007,146515,Warszawa,Wesoła,17197,13972,57.84,8080
+2007,146516,Warszawa,Wilanów,12982,11029,61.81,6810
+2007,146517,Warszawa,Włochy,35713,32079,54.85,17596
+2007,146518,Warszawa,Wola,135440,115278,52.55,60509
+2007,146519,Warszawa,Żoliborz,47996,40884,60.39,24664
+2007,160101,brzeski,"Brzeg, m.",38479,31381,38.26,11997
+2007,160102,brzeski,"Skarbimierz, gm.",6933,5194,37.37,1941
+2007,160103,brzeski,"Grodków, gm.",19991,15566,31.82,4953
+2007,160104,brzeski,"Lewin Brzeski, gm.",13598,10377,33.24,3448
+2007,160105,brzeski,"Lubsza, gm.",8636,6820,32.77,2235
+2007,160106,brzeski,"Olszanka, gm.",4986,3845,34.15,1313
+2007,160201,głubczycki,"Baborów, gm.",6717,5212,25.42,1325
+2007,160202,głubczycki,"Branice, gm.",7561,6137,30.62,1879
+2007,160203,głubczycki,"Głubczyce, gm.",24231,19533,37.20,7261
+2007,160204,głubczycki,"Kietrz, gm.",11873,9270,35.30,3271
+2007,160301,kędzierzyńsko-kozielski,"Kędzierzyn-Koźle, m.",64884,52164,36.61,19090
+2007,160302,kędzierzyńsko-kozielski,"Bierawa, gm.",7921,6279,26.29,1651
+2007,160303,kędzierzyńsko-kozielski,"Cisek, gm.",6356,5089,26.12,1328
+2007,160304,kędzierzyńsko-kozielski,"Pawłowiczki, gm.",8743,6882,24.34,1675
+2007,160305,kędzierzyńsko-kozielski,"Polska Cerekiew, gm.",4763,3812,25.76,982
+2007,160306,kędzierzyńsko-kozielski,"Reńska Wieś, gm.",8610,6902,24.89,1715
+2007,160401,kluczborski,"Byczyna, gm.",10022,7623,30.33,2312
+2007,160402,kluczborski,"Kluczbork, gm.",38683,31136,33.85,10534
+2007,160403,kluczborski,"Lasowice Wielkie, gm.",7290,5770,26.55,1532
+2007,160404,kluczborski,"Wołczyn, gm.",14537,11143,33.97,3783
+2007,160501,krapkowicki,"Gogolin, gm.",12520,10058,23.64,2377
+2007,160502,krapkowicki,"Krapkowice, gm.",24385,19594,28.99,5678
+2007,160503,krapkowicki,"Strzeleczki, gm.",7914,6225,21.51,1339
+2007,160504,krapkowicki,"Walce, gm.",5922,4736,23.99,1136
+2007,160505,krapkowicki,"Zdzieszowice, gm.",17081,13419,27.32,3666
+2007,160601,namysłowski,"Domaszowice, gm.",3864,3014,49.00,1477
+2007,160602,namysłowski,"Namysłów, gm.",26056,20840,41.52,8652
+2007,160603,namysłowski,"Pokój, gm.",5476,4265,26.33,1121
+2007,160604,namysłowski,"Świerczów, gm.",3696,2858,42.16,1205
+2007,160605,namysłowski,"Wilków, gm.",4738,3565,34.67,1235
+2007,160701,nyski,"Głuchołazy, gm.",26324,21249,34.25,7277
+2007,160702,nyski,"Kamiennik, gm.",3888,2990,38.33,1145
+2007,160703,nyski,"Korfantów, gm.",9930,7736,28.12,2175
+2007,160704,nyski,"Łambinowice, gm.",8014,6266,32.52,2036
+2007,160705,nyski,"Nysa, gm.",60246,49317,38.46,18958
+2007,160706,nyski,"Otmuchów, gm.",14770,11585,39.34,4558
+2007,160707,nyski,"Paczków, gm.",13899,11028,35.05,3861
+2007,160708,nyski,"Pakosławice, gm.",3756,3009,34.00,1021
+2007,160709,nyski,"Skoroszyce, gm.",6599,5059,28.90,1462
+2007,160801,oleski,"Dobrodzień, gm.",10663,8466,25.04,2117
+2007,160802,oleski,"Gorzów Śląski, gm.",7638,6035,26.41,1594
+2007,160803,oleski,"Olesno, gm.",18730,14976,30.35,4542
+2007,160804,oleski,"Praszka, gm.",14475,11571,37.41,4325
+2007,160805,oleski,"Radłów, gm.",4574,3544,24.29,861
+2007,160806,oleski,"Rudniki, gm.",8571,6823,32.02,2183
+2007,160807,oleski,"Zębowice, gm.",4088,3252,23.31,758
+2007,160901,opolski,"Chrząstowice, gm.",6384,5208,26.79,1395
+2007,160902,opolski,"Dąbrowa, gm.",9202,7303,32.71,2388
+2007,160903,opolski,"Dobrzeń Wielki, gm.",13713,11074,28.21,3124
+2007,160904,opolski,"Komprachcice, gm.",10477,8656,30.44,2635
+2007,160905,opolski,"Łubniany, gm.",9101,7398,24.03,1777
+2007,160906,opolski,"Murów, gm.",5887,4725,24.23,1145
+2007,160907,opolski,"Niemodlin, gm.",13735,10725,31.90,3421
+2007,160908,opolski,"Ozimek, gm.",20767,17093,25.07,4285
+2007,160909,opolski,"Popielów, gm.",8476,6789,25.48,1730
+2007,160910,opolski,"Prószków, gm.",9628,7760,29.01,2248
+2007,160911,opolski,"Tarnów Opolski, gm.",9765,7774,25.80,2006
+2007,160912,opolski,"Tułowice, gm.",5349,4259,31.44,1339
+2007,160913,opolski,"Turawa, gm.",9555,7694,24.77,1906
+2007,161001,prudnicki,"Biała, gm.",11536,9173,27.01,2478
+2007,161002,prudnicki,"Głogówek, gm.",14317,11251,29.72,3343
+2007,161003,prudnicki,"Lubrza, gm.",4562,3517,38.38,1347
+2007,161004,prudnicki,"Prudnik, gm.",29649,23734,38.32,9091
+2007,161101,strzelecki,"Izbicko, gm.",5469,4299,30.22,1297
+2007,161102,strzelecki,"Jemielnica, gm.",7265,5778,24.42,1410
+2007,161103,strzelecki,"Kolonowskie, gm.",6251,5130,26.51,1359
+2007,161104,strzelecki,"Leśnica, gm.",8563,6752,30.21,2040
+2007,161105,strzelecki,"Strzelce Opolskie, gm.",32966,27979,28.93,8093
+2007,161106,strzelecki,"Ujazd, gm.",6312,4895,33.48,1639
+2007,161107,strzelecki,"Zawadzkie, gm.",12932,10345,26.58,2750
+2007,166101,Opole,"Opole, m.",119572,99788,42.83,42703
+2007,180103,bieszczadzki,"Czarna, gm.",2489,1850,31.68,586
+2007,180105,bieszczadzki,"Lutowiska, gm.",2247,1756,35.36,621
+2007,180108,bieszczadzki,"Ustrzyki Dolne, gm.",18330,14157,35.35,5004
+2007,180201,brzozowski,"Brzozów, gm.",26771,20169,38.70,7803
+2007,180202,brzozowski,"Domaradz, gm.",6239,4618,36.79,1699
+2007,180203,brzozowski,"Dydnia, gm.",8489,6274,34.24,2148
+2007,180204,brzozowski,"Haczów, gm.",9405,7117,36.80,2619
+2007,180205,brzozowski,"Jasienica Rosielna, gm.",7487,5430,51.60,2802
+2007,180206,brzozowski,"Nozdrzec, gm.",8915,6807,38.86,2641
+2007,180301,dębicki,"Dębica, m.",48021,38052,46.88,17830
+2007,180302,dębicki,"Brzostek, gm.",13289,9716,36.71,3561
+2007,180303,dębicki,"Czarna, gm.",12539,9345,41.93,3911
+2007,180304,dębicki,"Dębica, gm.",24204,17911,42.76,7651
+2007,180305,dębicki,"Jodłowa, gm.",5571,4158,27.92,1156
+2007,180306,dębicki,"Pilzno, gm.",17515,12930,43.65,5643
+2007,180307,dębicki,"Żyraków, gm.",13259,9921,43.33,4298
+2007,180401,jarosławski,"Jarosław, m.",40521,32662,46.56,15204
+2007,180402,jarosławski,"Radymno, m.",5727,4242,44.13,1869
+2007,180403,jarosławski,"Chłopice, gm.",5743,4310,42.46,1829
+2007,180404,jarosławski,"Jarosław, gm.",13037,9697,41.96,4069
+2007,180405,jarosławski,"Laszki, gm.",7288,5358,46.94,2514
+2007,180406,jarosławski,"Pawłosiów, gm.",8203,6155,47.39,2917
+2007,180407,jarosławski,"Pruchnik, gm.",9707,7113,46.08,3268
+2007,180408,jarosławski,"Radymno, gm.",11671,8655,42.46,3674
+2007,180409,jarosławski,"Rokietnica, gm.",4527,3354,36.46,1221
+2007,180410,jarosławski,"Roźwienica, gm.",6520,4802,44.84,2153
+2007,180411,jarosławski,"Wiązownica, gm.",11371,8323,50.73,4221
+2007,180501,jasielski,"Jasło, m.",38286,30338,43.56,13209
+2007,180502,jasielski,"Brzyska, gm.",6378,4716,33.78,1591
+2007,180503,jasielski,"Dębowiec, gm.",8498,6343,44.24,2806
+2007,180504,jasielski,"Jasło, gm.",16232,12418,43.06,5344
+2007,180505,jasielski,"Kołaczyce, gm.",8955,6627,38.24,2534
+2007,180506,jasielski,"Krempna, gm.",2114,1562,29.71,464
+2007,180507,jasielski,"Nowy Żmigród, gm.",9686,7247,40.54,2937
+2007,180508,jasielski,"Osiek Jasielski, gm.",5383,4815,28.49,1371
+2007,180509,jasielski,"Skołyszyn, gm.",12691,9545,38.94,3716
+2007,180511,jasielski,"Tarnowiec, gm.",9328,7127,35.91,2556
+2007,180601,kolbuszowski,"Cmolas, gm.",7981,5829,40.80,2377
+2007,180602,kolbuszowski,"Kolbuszowa, gm.",24793,18898,50.49,9539
+2007,180603,kolbuszowski,"Majdan Królewski, gm.",9975,7359,43.72,3210
+2007,180604,kolbuszowski,"Niwiska, gm.",5927,4333,40.32,1747
+2007,180605,kolbuszowski,"Raniżów, gm.",7292,5366,43.63,2341
+2007,180606,kolbuszowski,"Dzikowiec, gm.",6646,4925,39.19,1930
+2007,180701,krośnieński,"Chorkówka, gm.",13198,9980,40.46,4038
+2007,180702,krośnieński,"Dukla, gm.",17025,12850,35.32,4535
+2007,180703,krośnieński,"Iwonicz-Zdrój, gm.",10872,8389,48.10,4033
+2007,180704,krośnieński,"Jedlicze, gm.",15318,11915,35.31,4205
+2007,180705,krośnieński,"Korczyna, gm.",10883,8307,40.52,3366
+2007,180706,krośnieński,"Krościenko Wyżne, gm.",5197,3882,44.18,1715
+2007,180707,krośnieński,"Miejsce Piastowe, gm.",13374,10200,44.50,4537
+2007,180708,krośnieński,"Rymanów, gm.",15903,12360,47.17,5829
+2007,180709,krośnieński,"Wojaszówka, gm.",9143,7043,32.83,2312
+2007,180801,leżajski,"Leżajsk, m.",14704,11884,46.84,5553
+2007,180802,leżajski,"Grodzisko Dolne, gm.",8392,6340,49.94,3164
+2007,180803,leżajski,"Kuryłówka, gm.",5874,4367,43.76,1910
+2007,180804,leżajski,"Leżajsk, gm.",19858,14494,42.69,6185
+2007,180805,leżajski,"Nowa Sarzyna, gm.",22160,16390,45.46,7447
+2007,180901,lubaczowski,"Lubaczów, m.",12864,10049,41.70,4190
+2007,180902,lubaczowski,"Cieszanów, gm.",7905,5906,41.43,2446
+2007,180903,lubaczowski,"Horyniec-Zdrój, gm.",5269,4017,39.98,1605
+2007,180904,lubaczowski,"Lubaczów, gm.",9516,6975,42.02,2931
+2007,180905,lubaczowski,"Narol, gm.",8864,6711,37.97,2545
+2007,180906,lubaczowski,"Oleszyce, gm.",6871,5158,46.65,2406
+2007,180907,lubaczowski,"Stary Dzików, gm.",4793,3598,39.99,1439
+2007,180908,lubaczowski,"Wielkie Oczy, gm.",4051,3052,40.83,1244
+2007,181001,łańcucki,"Łańcut, m.",17987,14381,49.54,7122
+2007,181002,łańcucki,"Białobrzegi, gm.",8127,6020,40.60,2444
+2007,181003,łańcucki,"Czarna, gm.",10850,8054,52.35,4215
+2007,181004,łańcucki,"Łańcut, gm.",20399,15423,46.01,7088
+2007,181005,łańcucki,"Markowa, gm.",6667,4954,38.05,1885
+2007,181006,łańcucki,"Rakszawa, gm.",7333,5368,53.07,2849
+2007,181007,łańcucki,"Żołynia, gm.",6771,5158,45.06,2324
+2007,181101,mielecki,"Mielec, m.",62954,49698,44.57,22143
+2007,181102,mielecki,"Borowa, gm.",5707,4214,42.71,1800
+2007,181103,mielecki,"Czermin, gm.",6828,4986,34.38,1714
+2007,181104,mielecki,"Gawłuszowice, gm.",2902,2191,45.46,996
+2007,181105,mielecki,"Mielec, gm.",12151,9129,41.19,3761
+2007,181106,mielecki,"Padew Narodowa, gm.",5492,4205,44.66,1877
+2007,181107,mielecki,"Przecław, gm.",11090,8139,38.30,3116
+2007,181108,mielecki,"Radomyśl Wielki, gm.",13822,9967,36.37,3624
+2007,181109,mielecki,"Tuszów Narodowy, gm.",7610,5670,48.50,2749
+2007,181110,mielecki,"Wadowice Górne, gm.",7239,5240,37.48,1964
+2007,181201,niżański,"Harasiuki, gm.",6445,4775,31.77,1517
+2007,181202,niżański,"Jarocin, gm.",5510,4233,30.97,1311
+2007,181203,niżański,"Jeżowe, gm.",10001,7183,47.77,3431
+2007,181204,niżański,"Krzeszów, gm.",4366,3362,33.88,1139
+2007,181205,niżański,"Nisko, gm.",22814,17455,39.21,6840
+2007,181206,niżański,"Rudnik nad Sanem, gm.",10305,7951,35.42,2816
+2007,181207,niżański,"Ulanów, gm.",8905,6824,36.72,2506
+2007,181301,przemyski,"Bircza, gm.",7052,5159,38.52,1986
+2007,181302,przemyski,"Dubiecko, gm.",10045,7529,31.27,2354
+2007,181303,przemyski,"Fredropol, gm.",5563,4149,37.74,1566
+2007,181304,przemyski,"Krasiczyn, gm.",4785,3623,34.64,1255
+2007,181305,przemyski,"Krzywcza, gm.",5098,3767,35.39,1333
+2007,181306,przemyski,"Medyka, gm.",6231,4923,43.61,2145
+2007,181307,przemyski,"Orły, gm.",8615,6340,42.43,2690
+2007,181308,przemyski,"Przemyśl, gm.",9375,7030,37.70,2650
+2007,181309,przemyski,"Stubno, gm.",4242,3131,36.19,1133
+2007,181310,przemyski,"Żurawica, gm.",12470,9630,49.65,4781
+2007,181401,przeworski,"Przeworsk, m.",16263,12893,47.92,6174
+2007,181402,przeworski,"Adamówka, gm.",4412,3170,39.02,1236
+2007,181403,przeworski,"Gać, gm.",4654,3516,41.67,1465
+2007,181404,przeworski,"Jawornik Polski, gm.",4938,3845,46.63,1793
+2007,181405,przeworski,"Kańczuga, gm.",12970,9865,33.27,3279
+2007,181406,przeworski,"Przeworsk, gm.",14643,11056,45.74,5057
+2007,181407,przeworski,"Sieniawa, gm.",7141,5165,43.23,2233
+2007,181408,przeworski,"Tryńcza, gm.",8306,6075,39.39,2390
+2007,181409,przeworski,"Zarzecze, gm.",7262,5392,41.34,2229
+2007,181501,ropczycko-sędziszowski,"Iwierzyce, gm.",7379,5522,44.82,2475
+2007,181502,ropczycko-sędziszowski,"Ostrów, gm.",6972,5105,40.76,2081
+2007,181503,ropczycko-sędziszowski,"Ropczyce, gm.",26465,19761,49.17,9712
+2007,181504,ropczycko-sędziszowski,"Sędziszów Małopolski, gm.",23048,17231,47.72,8221
+2007,181505,ropczycko-sędziszowski,"Wielopole Skrzyńskie, gm.",8593,6289,48.34,3038
+2007,181601,rzeszowski,"Dynów, m.",6243,4751,44.69,2123
+2007,181602,rzeszowski,"Błażowa, gm.",10917,8275,45.21,3735
+2007,181603,rzeszowski,"Boguchwała, gm.",20954,16108,47.44,7641
+2007,181604,rzeszowski,"Chmielnik, gm.",6350,4765,49.38,2353
+2007,181605,rzeszowski,"Dynów, gm.",7421,5553,32.16,1786
+2007,181606,rzeszowski,"Głogów Małopolski, gm.",17888,13338,47.83,6378
+2007,181607,rzeszowski,"Hyżne, gm.",6842,5099,51.83,2643
+2007,181608,rzeszowski,"Kamień, gm.",6991,5084,45.57,2317
+2007,181609,rzeszowski,"Krasne, gm.",14013,11598,49.51,5739
+2007,181610,rzeszowski,"Lubenia, gm.",6485,5066,42.12,2134
+2007,181611,rzeszowski,"Sokołów Małopolski, gm.",16713,12297,52.45,6450
+2007,181612,rzeszowski,"Świlcza, gm.",18530,14182,46.01,6518
+2007,181613,rzeszowski,"Trzebownisko, gm.",18485,13800,50.26,6932
+2007,181614,rzeszowski,"Tyczyn, gm.",15568,11767,44.94,5286
+2007,181701,sanocki,"Sanok, m.",40344,31808,40.50,12874
+2007,181702,sanocki,"Besko, gm.",4331,3245,35.59,1153
+2007,181703,sanocki,"Bukowsko, gm.",5361,3906,39.04,1523
+2007,181704,sanocki,"Komańcza, gm.",5386,4678,27.43,1282
+2007,181705,sanocki,"Sanok, gm.",16973,12791,35.44,4531
+2007,181706,sanocki,"Tyrawa Wołoska, gm.",2037,1456,24.45,356
+2007,181707,sanocki,"Zagórz, gm.",12971,9905,35.74,3536
+2007,181708,sanocki,"Zarszyn, gm.",9288,7035,40.47,2845
+2007,181801,stalowowolski,"Stalowa Wola, m.",68472,54836,41.77,22900
+2007,181802,stalowowolski,"Bojanów, gm.",7265,5264,35.52,1870
+2007,181803,stalowowolski,"Pysznica, gm.",9404,7160,40.80,2920
+2007,181804,stalowowolski,"Radomyśl nad Sanem, gm.",7641,5794,34.74,2012
+2007,181805,stalowowolski,"Zaklików, gm.",8857,6717,33.78,2269
+2007,181806,stalowowolski,"Zaleszany, gm.",10788,8215,38.93,3198
+2007,181901,strzyżowski,"Czudec, gm.",11764,8826,43.64,3849
+2007,181902,strzyżowski,"Frysztak, gm.",10782,7977,41.57,3316
+2007,181903,strzyżowski,"Niebylec, gm.",10781,8072,40.11,3236
+2007,181904,strzyżowski,"Strzyżów, gm.",20846,16213,38.21,6195
+2007,181905,strzyżowski,"Wiśniowa, gm.",8659,6465,39.40,2547
+2007,182001,tarnobrzeski,"Baranów Sandomierski, gm.",12300,9292,44.63,4145
+2007,182002,tarnobrzeski,"Gorzyce, gm.",13960,10745,39.01,4191
+2007,182003,tarnobrzeski,"Grębów, gm.",9818,7343,33.39,2450
+2007,182004,tarnobrzeski,"Nowa Dęba, gm.",19189,15371,40.37,6206
+2007,182101,leski,"Baligród, gm.",3351,2534,35.83,908
+2007,182102,leski,"Cisna, gm.",1691,1445,42.15,609
+2007,182103,leski,"Lesko, gm.",11738,9202,37.46,3447
+2007,182104,leski,"Olszanica, gm.",5119,4566,38.04,1737
+2007,182105,leski,"Solina, gm.",5330,4190,39.55,1656
+2007,186101,Krosno,"Krosno, m.",48617,38999,44.96,17521
+2007,186201,Przemyśl,"Przemyśl, m.",67452,53723,42.57,22847
+2007,186301,Rzeszów,"Rzeszów, m.",150781,122218,49.91,60954
+2007,186401,Tarnobrzeg,"Tarnobrzeg, m.",50060,39426,41.02,16167
+2007,200101,augustowski,"Augustów, m.",30331,23589,38.68,9119
+2007,200102,augustowski,"Augustów, gm.",7111,5212,30.70,1599
+2007,200103,augustowski,"Bargłów Kościelny, gm.",6072,4601,28.67,1319
+2007,200104,augustowski,"Lipsk, gm.",6128,4664,29.65,1382
+2007,200105,augustowski,"Nowinka, gm.",2846,2212,41.73,923
+2007,200106,augustowski,"Płaska, gm.",2672,2084,33.06,689
+2007,200107,augustowski,"Sztabin, gm.",5830,4402,33.98,1494
+2007,200201,białostocki,"Choroszcz, gm.",12759,10711,37.38,4003
+2007,200202,białostocki,"Czarna Białostocka, gm.",11654,9103,34.48,3137
+2007,200203,białostocki,"Dobrzyniewo Duże, gm.",7986,6112,36.16,2208
+2007,200204,białostocki,"Gródek, gm.",5850,4874,27.72,1351
+2007,200205,białostocki,"Juchnowiec Kościelny, gm.",12714,9677,42.83,4143
+2007,200206,białostocki,"Łapy, gm.",23452,18475,46.46,8581
+2007,200207,białostocki,"Michałowo, gm.",7475,6297,31.48,1982
+2007,200208,białostocki,"Poświętne, gm.",3936,2981,45.39,1353
+2007,200209,białostocki,"Supraśl, gm.",12199,9493,40.98,3887
+2007,200210,białostocki,"Suraż, gm.",2055,1616,47.96,775
+2007,200211,białostocki,"Turośń Kościelna, gm.",5237,4002,44.40,1779
+2007,200212,białostocki,"Tykocin, gm.",6692,5156,38.05,1962
+2007,200213,białostocki,"Wasilków, gm.",12378,9578,40.01,3832
+2007,200214,białostocki,"Zabłudów, gm.",11767,9132,34.41,3141
+2007,200215,białostocki,"Zawady, gm.",3165,2415,38.26,922
+2007,200301,bielski,"Bielsk Podlaski, m.",27420,21624,34.44,7447
+2007,200302,bielski,"Brańsk, m.",4012,3006,48.44,1456
+2007,200303,bielski,"Bielsk Podlaski, gm.",7732,6495,28.28,1836
+2007,200304,bielski,"Boćki, gm.",5139,4128,37.11,1531
+2007,200305,bielski,"Brańsk, gm.",6864,5243,49.76,2608
+2007,200306,bielski,"Orla, gm.",3501,3052,28.64,874
+2007,200307,bielski,"Rudka, gm.",2196,1687,43.09,727
+2007,200308,bielski,"Wyszki, gm.",5201,4043,47.84,1932
+2007,200401,grajewski,"Grajewo, m.",22977,17650,32.40,5708
+2007,200402,grajewski,"Grajewo, gm.",6295,4601,28.47,1310
+2007,200403,grajewski,"Radziłów, gm.",5494,4261,38.25,1630
+2007,200404,grajewski,"Rajgród, gm.",5969,4399,29.42,1294
+2007,200405,grajewski,"Szczuczyn, gm.",6841,5122,34.17,1750
+2007,200406,grajewski,"Wąsosz, gm.",4243,3144,33.75,1061
+2007,200501,hajnowski,"Hajnówka, m.",23427,19329,30.83,5953
+2007,200502,hajnowski,"Białowieża, gm.",2467,2110,31.00,654
+2007,200503,hajnowski,"Czeremcha, gm.",3904,3131,29.77,932
+2007,200504,hajnowski,"Czyże, gm.",2716,2340,32.18,753
+2007,200505,hajnowski,"Dubicze Cerkiewne, gm.",2045,1774,31.51,559
+2007,200506,hajnowski,"Hajnówka, gm.",4445,3612,32.95,1190
+2007,200507,hajnowski,"Kleszczele, gm.",3130,2590,34.05,882
+2007,200508,hajnowski,"Narew, gm.",4372,3630,24.88,903
+2007,200509,hajnowski,"Narewka, gm.",4392,3618,24.21,875
+2007,200601,kolneński,"Kolno, m.",11227,8611,34.78,2995
+2007,200602,kolneński,"Grabowo, gm.",3979,2924,33.72,986
+2007,200603,kolneński,"Kolno, gm.",9317,6762,38.08,2575
+2007,200604,kolneński,"Mały Płock, gm.",5233,3948,31.79,1254
+2007,200605,kolneński,"Stawiski, gm.",6979,5237,32.58,1706
+2007,200606,kolneński,"Turośl, gm.",5385,3873,38.42,1488
+2007,200701,łomżyński,"Jedwabne, gm.",5894,4562,39.00,1779
+2007,200702,łomżyński,"Łomża, gm.",9785,7507,35.39,2657
+2007,200703,łomżyński,"Miastkowo, gm.",4435,3256,27.70,902
+2007,200704,łomżyński,"Nowogród, gm.",4150,3119,37.03,1155
+2007,200705,łomżyński,"Piątnica, gm.",10605,7949,29.73,2363
+2007,200706,łomżyński,"Przytuły, gm.",2391,1792,37.95,680
+2007,200707,łomżyński,"Śniadowo, gm.",5889,4484,42.15,1890
+2007,200708,łomżyński,"Wizna, gm.",4587,3500,37.03,1294
+2007,200709,łomżyński,"Zbójna, gm.",4575,3426,31.03,1063
+2007,200801,moniecki,"Goniądz, gm.",5408,4069,35.24,1434
+2007,200802,moniecki,"Jasionówka, gm.",3211,2471,36.71,906
+2007,200803,moniecki,"Jaświły, gm.",5898,4492,32.19,1445
+2007,200804,moniecki,"Knyszyn, gm.",5107,3930,34.45,1353
+2007,200805,moniecki,"Krypno, gm.",4303,3220,33.11,1066
+2007,200806,moniecki,"Mońki, gm.",16089,12481,33.00,4118
+2007,200807,moniecki,"Trzcianne, gm.",5025,3798,33.02,1253
+2007,200901,sejneński,"Sejny, m.",6038,4749,32.09,1524
+2007,200902,sejneński,"Giby, gm.",3087,2433,34.32,835
+2007,200903,sejneński,"Krasnopol, gm.",4141,3180,26.76,851
+2007,200904,sejneński,"Puńsk, gm.",4610,3552,50.53,1795
+2007,200905,sejneński,"Sejny, gm.",4296,3312,26.18,867
+2007,201001,siemiatycki,"Siemiatycze, m.",15736,12136,35.93,4357
+2007,201002,siemiatycki,"Drohiczyn, gm.",7277,5626,38.00,2138
+2007,201003,siemiatycki,"Dziadkowice, gm.",3262,2479,42.40,1051
+2007,201004,siemiatycki,"Grodzisk, gm.",5000,3854,40.79,1572
+2007,201005,siemiatycki,"Mielnik, gm.",2813,2353,36.29,854
+2007,201006,siemiatycki,"Milejczyce, gm.",2403,1936,37.91,734
+2007,201007,siemiatycki,"Nurzec-Stacja, gm.",4919,3916,25.31,991
+2007,201008,siemiatycki,"Perlejewo, gm.",3366,2540,39.76,1010
+2007,201009,siemiatycki,"Siemiatycze, gm.",6785,5334,27.41,1462
+2007,201101,sokólski,"Dąbrowa Białostocka, gm.",13457,10391,36.04,3744
+2007,201102,sokólski,"Janów, gm.",4730,3645,26.89,980
+2007,201103,sokólski,"Korycin, gm.",3561,2752,33.50,922
+2007,201104,sokólski,"Krynki, gm.",3711,2935,41.94,1231
+2007,201105,sokólski,"Kuźnica, gm.",4509,3542,37.46,1327
+2007,201106,sokólski,"Nowy Dwór, gm.",3180,2533,32.69,828
+2007,201107,sokólski,"Sidra, gm.",4110,3216,31.69,1017
+2007,201108,sokólski,"Sokółka, gm.",27397,21305,32.98,7023
+2007,201109,sokólski,"Suchowola, gm.",7869,6085,31.47,1913
+2007,201110,sokólski,"Szudziałowo, gm.",3649,2945,28.79,848
+2007,201201,suwalski,"Bakałarzewo, gm.",3219,2403,31.71,761
+2007,201202,suwalski,"Filipów, gm.",4624,3489,30.64,1069
+2007,201203,suwalski,"Jeleniewo, gm.",3116,2280,40.09,914
+2007,201204,suwalski,"Przerośl, gm.",3192,2340,37.14,869
+2007,201205,suwalski,"Raczki, gm.",6393,4662,31.94,1488
+2007,201206,suwalski,"Rutka-Tartak, gm.",2411,1786,33.93,604
+2007,201207,suwalski,"Suwałki, gm.",6681,5020,30.82,1547
+2007,201208,suwalski,"Szypliszki, gm.",4204,3068,30.61,934
+2007,201209,suwalski,"Wiżajny, gm.",2923,2236,42.58,952
+2007,201301,wysokomazowiecki,"Wysokie Mazowieckie, m.",9620,7537,41.13,3098
+2007,201302,wysokomazowiecki,"Ciechanowiec, gm.",9935,7648,36.87,2820
+2007,201303,wysokomazowiecki,"Czyżew, gm.",6874,5212,43.98,2290
+2007,201304,wysokomazowiecki,"Klukowo, gm.",5016,3837,47.30,1814
+2007,201305,wysokomazowiecki,"Kobylin-Borzymy, gm.",3805,2886,50.80,1466
+2007,201306,wysokomazowiecki,"Kulesze Kościelne, gm.",3479,2638,47.88,1261
+2007,201307,wysokomazowiecki,"Nowe Piekuty, gm.",4245,3255,50.26,1636
+2007,201308,wysokomazowiecki,"Sokoły, gm.",6140,4764,48.43,2307
+2007,201309,wysokomazowiecki,"Szepietowo, gm.",7752,5955,41.86,2484
+2007,201310,wysokomazowiecki,"Wysokie Mazowieckie, gm.",5648,4177,41.30,1724
+2007,201401,zambrowski,"Zambrów, m.",23326,18161,33.95,6164
+2007,201402,zambrowski,"Kołaki Kościelne, gm.",2581,1939,51.73,1003
+2007,201403,zambrowski,"Rutki, gm.",6328,5037,40.24,2025
+2007,201404,zambrowski,"Szumowo, gm.",5151,3965,41.11,1630
+2007,201405,zambrowski,"Zambrów, gm.",8819,7093,35.67,2530
+2007,206101,Białystok,"Białystok, m.",277687,224082,45.00,100766
+2007,206201,Łomża,"Łomża, m.",63125,49208,39.42,19387
+2007,206301,Suwałki,"Suwałki, m.",68655,52661,38.31,20162
+2007,220101,bytowski,"Borzytuchom, gm.",2852,2046,35.00,716
+2007,220102,bytowski,"Bytów, gm.",24183,18191,40.25,7318
+2007,220103,bytowski,"Czarna Dąbrówka, gm.",5998,4352,31.82,1385
+2007,220104,bytowski,"Kołczygłowy, gm.",4378,3169,32.06,1016
+2007,220105,bytowski,"Lipnica, gm.",5152,3760,44.60,1677
+2007,220106,bytowski,"Miastko, gm.",20513,15601,32.91,5134
+2007,220107,bytowski,"Parchowo, gm.",3618,2539,44.03,1118
+2007,220108,bytowski,"Studzienice, gm.",3423,2551,35.32,900
+2007,220109,bytowski,"Trzebielino, gm.",3865,2848,28.20,803
+2007,220110,bytowski,"Tuchomie, gm.",3952,2820,33.69,948
+2007,220201,chojnicki,"Chojnice, m.",40474,31732,40.93,12984
+2007,220202,chojnicki,"Brusy, gm.",13515,9816,49.54,4863
+2007,220203,chojnicki,"Chojnice, gm.",16018,11627,36.17,4205
+2007,220204,chojnicki,"Czersk, gm.",20848,15617,37.26,5816
+2007,220205,chojnicki,"Konarzyny, gm.",2204,1604,41.15,660
+2007,220301,człuchowski,"Człuchów, m.",15013,12096,37.82,4574
+2007,220302,człuchowski,"Czarne, gm.",9690,8726,32.91,2872
+2007,220303,człuchowski,"Człuchów, gm.",10089,7329,31.26,2289
+2007,220304,człuchowski,"Debrzno, gm.",9592,7085,29.27,2074
+2007,220305,człuchowski,"Koczała, gm.",3771,2872,32.59,936
+2007,220306,człuchowski,"Przechlewo, gm.",6291,4747,34.53,1639
+2007,220307,człuchowski,"Rzeczenica, gm.",3867,2922,28.99,847
+2007,220401,gdański,"Pruszcz Gdański, m.",23122,18500,45.39,8392
+2007,220402,gdański,"Cedry Wielkie, gm.",6214,4578,29.45,1348
+2007,220403,gdański,"Kolbudy, gm.",10921,8525,43.78,3731
+2007,220404,gdański,"Pruszcz Gdański, gm.",15938,12211,41.45,5058
+2007,220405,gdański,"Przywidz, gm.",5288,3846,35.80,1376
+2007,220406,gdański,"Pszczółki, gm.",7462,5626,35.98,2023
+2007,220407,gdański,"Suchy Dąb, gm.",3915,2871,33.02,947
+2007,220408,gdański,"Trąbki Wielkie, gm.",9685,6894,29.94,2064
+2007,220501,kartuski,"Chmielno, gm.",6614,4596,46.45,2133
+2007,220502,kartuski,"Kartuzy, gm.",30610,22994,46.98,10795
+2007,220503,kartuski,"Przodkowo, gm.",6876,4805,41.29,1980
+2007,220504,kartuski,"Sierakowice, gm.",16628,11412,47.63,5430
+2007,220505,kartuski,"Somonino, gm.",9155,6341,41.37,2622
+2007,220506,kartuski,"Stężyca, gm.",8754,6112,46.43,2837
+2007,220507,kartuski,"Sulęczyno, gm.",4863,3454,48.67,1681
+2007,220508,kartuski,"Żukowo, gm.",23269,16772,45.88,7694
+2007,220601,kościerski,"Kościerzyna, m.",23474,18192,43.79,7960
+2007,220602,kościerski,"Dziemiany, gm.",4059,2946,46.44,1368
+2007,220603,kościerski,"Karsin, gm.",6025,4384,42.91,1875
+2007,220604,kościerski,"Kościerzyna, gm.",13410,9741,40.30,3923
+2007,220605,kościerski,"Liniewo, gm.",4782,3529,42.96,1514
+2007,220606,kościerski,"Lipusz, gm.",3368,2447,52.31,1280
+2007,220607,kościerski,"Nowa Karczma, gm.",6283,4520,34.73,1570
+2007,220608,kościerski,"Stara Kiszewa, gm.",6385,4788,33.33,1594
+2007,220701,kwidzyński,"Kwidzyn, m.",37978,30079,39.54,11889
+2007,220702,kwidzyński,"Gardeja, gm.",8644,6204,25.58,1586
+2007,220703,kwidzyński,"Kwidzyn, gm.",10346,7632,28.87,2203
+2007,220704,kwidzyński,"Prabuty, gm.",13632,10325,27.62,2849
+2007,220705,kwidzyński,"Ryjewo, gm.",5729,4222,29.58,1249
+2007,220706,kwidzyński,"Sadlinki, gm.",5633,4077,26.51,1081
+2007,220801,lęborski,"Lębork, m.",35967,27673,39.63,10962
+2007,220802,lęborski,"Łeba, m.",4037,3258,40.09,1306
+2007,220803,lęborski,"Cewice, gm.",7162,5103,33.65,1716
+2007,220804,lęborski,"Nowa Wieś Lęborska, gm.",12327,9003,34.54,3110
+2007,220805,lęborski,"Wicko, gm.",5629,4118,26.52,1091
+2007,220901,malborski,"Malbork, m.",38826,31399,39.57,12413
+2007,220903,malborski,"Lichnowy, gm.",4833,3446,31.89,1099
+2007,220904,malborski,"Malbork, gm.",4091,3090,28.67,886
+2007,220906,malborski,"Miłoradz, gm.",3581,2665,30.43,809
+2007,220907,malborski,"Nowy Staw, gm.",8075,6180,34.85,2154
+2007,220908,malborski,"Stare Pole, gm.",4689,3541,35.44,1255
+2007,221001,nowodworski,"Krynica Morska, m.",1298,1152,36.28,418
+2007,221002,nowodworski,"Nowy Dwór Gdański, gm.",18457,14047,32.33,4541
+2007,221003,nowodworski,"Ostaszewo, gm.",3291,2478,33.58,832
+2007,221004,nowodworski,"Stegna, gm.",9843,7691,30.89,2376
+2007,221005,nowodworski,"Sztutowo, gm.",3708,2859,35.01,1001
+2007,221101,pucki,"Hel, m.",4265,3471,37.05,1286
+2007,221102,pucki,"Jastarnia, m.",4042,3310,49.40,1634
+2007,221103,pucki,"Puck, m.",11496,9203,44.17,4060
+2007,221104,pucki,"Władysławowo, m.",15023,11543,44.38,5122
+2007,221105,pucki,"Kosakowo, gm.",7618,5872,47.07,2761
+2007,221106,pucki,"Krokowa, gm.",10180,7346,46.31,3402
+2007,221107,pucki,"Puck, gm.",21358,15379,40.46,6223
+2007,221201,słupski,"Ustka, m.",16754,14424,36.62,5277
+2007,221202,słupski,"Damnica, gm.",6274,4556,28.38,1292
+2007,221203,słupski,"Dębnica Kaszubska, gm.",9630,7160,27.77,1987
+2007,221204,słupski,"Główczyce, gm.",9768,7201,30.12,2168
+2007,221205,słupski,"Kępice, gm.",9844,7370,30.92,2278
+2007,221206,słupski,"Kobylnica, gm.",9760,7475,27.83,2080
+2007,221207,słupski,"Potęgowo, gm.",7291,5326,26.32,1402
+2007,221208,słupski,"Słupsk, gm.",13872,10454,28.56,2986
+2007,221209,słupski,"Smołdzino, gm.",3622,2718,28.99,788
+2007,221210,słupski,"Ustka, gm.",7441,5638,29.80,1680
+2007,221301,starogardzki,"Czarna Woda, gm.",3396,2622,43.36,1137
+2007,221302,starogardzki,"Skórcz, m.",3410,2555,40.51,1035
+2007,221303,starogardzki,"Starogard Gdański, m.",48497,38394,40.79,15654
+2007,221304,starogardzki,"Bobowo, gm.",2894,2092,36.09,754
+2007,221305,starogardzki,"Kaliska, gm.",5150,3783,36.72,1389
+2007,221306,starogardzki,"Lubichowo, gm.",5786,4330,38.61,1671
+2007,221307,starogardzki,"Osieczna, gm.",2890,2130,41.27,879
+2007,221308,starogardzki,"Osiek, gm.",2488,2004,36.93,740
+2007,221309,starogardzki,"Skarszewy, gm.",13766,10078,36.50,3677
+2007,221310,starogardzki,"Skórcz, gm.",4684,3416,36.30,1240
+2007,221311,starogardzki,"Smętowo Graniczne, gm.",5424,4027,31.98,1287
+2007,221312,starogardzki,"Starogard Gdański, gm.",13025,9293,40.94,3805
+2007,221313,starogardzki,"Zblewo, gm.",10742,7742,37.41,2895
+2007,221401,tczewski,"Tczew, m.",59783,46993,41.19,19346
+2007,221402,tczewski,"Gniew, gm.",16304,12203,31.58,3852
+2007,221403,tczewski,"Morzeszczyn, gm.",3878,2767,31.51,872
+2007,221404,tczewski,"Pelplin, gm.",16656,12492,33.90,4234
+2007,221405,tczewski,"Subkowy, gm.",5209,3702,32.66,1209
+2007,221406,tczewski,"Tczew, gm.",11231,8197,35.28,2892
+2007,221501,wejherowski,"Reda, m.",17694,13353,47.03,6272
+2007,221502,wejherowski,"Rumia, m.",43492,34208,49.83,17028
+2007,221503,wejherowski,"Wejherowo, m.",45354,35769,46.72,16707
+2007,221504,wejherowski,"Choczewo, gm.",5807,4435,29.58,1311
+2007,221505,wejherowski,"Gniewino, gm.",6778,4767,35.58,1696
+2007,221506,wejherowski,"Linia, gm.",5837,3987,44.49,1769
+2007,221507,wejherowski,"Luzino, gm.",12425,8478,45.61,3783
+2007,221508,wejherowski,"Łęczyce, gm.",11261,8034,39.69,3189
+2007,221509,wejherowski,"Szemud, gm.",12554,8606,44.67,3836
+2007,221510,wejherowski,"Wejherowo, gm.",17256,12276,41.10,5043
+2007,221601,sztumski,"Dzierzgoń, gm.",9946,7365,33.20,2444
+2007,221602,sztumski,"Mikołajki Pomorskie, gm.",3856,2817,21.97,618
+2007,221603,sztumski,"Stary Dzierzgoń, gm.",4379,3247,18.63,603
+2007,221604,sztumski,"Stary Targ, gm.",6812,4984,30.76,1533
+2007,221605,sztumski,"Sztum, gm.",18531,15497,34.43,5334
+2007,226101,Gdańsk,"Gdańsk, m.",439152,364092,51.34,186697
+2007,226201,Gdynia,"Gdynia, m.",244407,200671,51.14,102491
+2007,226301,Słupsk,"Słupsk, m.",97016,78500,42.06,32997
+2007,226401,Sopot,"Sopot, m.",39387,33540,55.70,18673
+2007,240101,będziński,"Będzin, m.",58599,49279,35.02,17246
+2007,240102,będziński,"Czeladź, m.",34424,28915,37.44,10823
+2007,240103,będziński,"Wojkowice, m.",9518,8689,37.07,3220
+2007,240104,będziński,"Bobrowniki, gm.",11224,9396,38.09,3579
+2007,240105,będziński,"Mierzęcice, gm.",7109,5755,29.37,1690
+2007,240106,będziński,"Psary, gm.",10974,9165,34.84,3193
+2007,240107,będziński,"Siewierz, gm.",12118,9849,36.63,3604
+2007,240108,będziński,"Sławków, m.",6830,5636,38.77,2184
+2007,240201,bielski,"Szczyrk, m.",5676,4571,44.45,2032
+2007,240202,bielski,"Bestwina, gm.",10269,7952,46.13,3668
+2007,240203,bielski,"Buczkowice, gm.",10432,8150,49.36,4020
+2007,240204,bielski,"Czechowice-Dziedzice, gm.",42974,33852,43.32,14654
+2007,240205,bielski,"Jasienica, gm.",20269,15478,44.76,6925
+2007,240206,bielski,"Jaworze, gm.",6178,4768,47.17,2247
+2007,240207,bielski,"Kozy, gm.",11386,8901,50.12,4460
+2007,240208,bielski,"Porąbka, gm.",14807,11429,47.03,5368
+2007,240209,bielski,"Wilamowice, gm.",14974,11433,46.89,5357
+2007,240210,bielski,"Wilkowice, gm.",12035,9974,46.76,4662
+2007,240301,cieszyński,"Cieszyn, m.",35230,29060,41.69,12105
+2007,240302,cieszyński,"Ustroń, m.",15445,13266,42.40,5617
+2007,240303,cieszyński,"Wisła, m.",11416,9168,31.83,2917
+2007,240304,cieszyński,"Brenna, gm.",10040,7677,37.36,2868
+2007,240305,cieszyński,"Chybie, gm.",9001,6929,42.69,2956
+2007,240306,cieszyński,"Dębowiec, gm.",5445,4107,36.60,1503
+2007,240307,cieszyński,"Goleszów, gm.",12139,9632,35.10,3381
+2007,240308,cieszyński,"Hażlach, gm.",9663,7271,35.39,2573
+2007,240309,cieszyński,"Istebna, gm.",11496,8326,49.17,4090
+2007,240310,cieszyński,"Skoczów, gm.",25571,20003,39.80,7947
+2007,240311,cieszyński,"Strumień, gm.",11871,9095,41.95,3815
+2007,240312,cieszyński,"Zebrzydowice, gm.",12283,9546,40.50,3860
+2007,240401,częstochowski,"Blachownia, gm.",13380,10829,38.99,4223
+2007,240402,częstochowski,"Dąbrowa Zielona, gm.",4182,3435,35.66,1224
+2007,240403,częstochowski,"Janów, gm.",5877,4648,36.53,1695
+2007,240404,częstochowski,"Kamienica Polska, gm.",5441,4441,30.26,1344
+2007,240405,częstochowski,"Kłomnice, gm.",13824,10988,34.42,3779
+2007,240406,częstochowski,"Koniecpol, gm.",10821,8594,35.14,3018
+2007,240407,częstochowski,"Konopiska, gm.",10420,8265,33.03,2729
+2007,240408,częstochowski,"Kruszyna, gm.",4866,3766,32.32,1217
+2007,240409,częstochowski,"Lelów, gm.",5293,4197,35.93,1508
+2007,240410,częstochowski,"Mstów, gm.",9963,7743,35.31,2733
+2007,240411,częstochowski,"Mykanów, gm.",13805,10732,36.50,3916
+2007,240412,częstochowski,"Olsztyn, gm.",7262,5729,33.98,1947
+2007,240413,częstochowski,"Poczesna, gm.",12403,9876,37.97,3750
+2007,240414,częstochowski,"Przyrów, gm.",4079,3291,36.04,1186
+2007,240415,częstochowski,"Rędziny, gm.",9726,7679,35.10,2695
+2007,240416,częstochowski,"Starcza, gm.",2711,2194,41.52,909
+2007,240501,gliwicki,"Knurów, m.",40062,31839,38.93,12389
+2007,240502,gliwicki,"Pyskowice, m.",18793,15225,31.90,4855
+2007,240503,gliwicki,"Gierałtowice, gm.",10572,8512,47.87,4070
+2007,240504,gliwicki,"Pilchowice, gm.",10184,8301,36.38,3020
+2007,240505,gliwicki,"Rudziniec, gm.",10487,8485,35.50,3010
+2007,240506,gliwicki,"Sośnicowice, gm.",8124,6503,33.14,2153
+2007,240507,gliwicki,"Toszek, gm.",10508,8667,26.12,2263
+2007,240508,gliwicki,"Wielowieś, gm.",6005,4692,30.61,1436
+2007,240601,kłobucki,"Kłobuck, gm.",20630,16450,38.25,6289
+2007,240602,kłobucki,"Krzepice, gm.",9666,7601,37.07,2818
+2007,240603,kłobucki,"Lipie, gm.",6642,5149,33.07,1703
+2007,240604,kłobucki,"Miedźno, gm.",7557,5870,37.82,2220
+2007,240605,kłobucki,"Opatów, gm.",6864,5323,35.17,1872
+2007,240606,kłobucki,"Panki, gm.",5005,3901,28.45,1110
+2007,240607,kłobucki,"Popów, gm.",6079,4918,30.17,1484
+2007,240608,kłobucki,"Przystajń, gm.",6102,4729,29.92,1413
+2007,240609,kłobucki,"Wręczyca Wielka, gm.",17336,13424,32.55,4370
+2007,240701,lubliniecki,"Lubliniec, m.",23684,19131,40.59,7762
+2007,240702,lubliniecki,"Boronów, gm.",3305,2577,41.44,1068
+2007,240703,lubliniecki,"Ciasna, gm.",7930,6194,26.38,1634
+2007,240704,lubliniecki,"Herby, gm.",6917,6008,41.43,2488
+2007,240705,lubliniecki,"Kochanowice, gm.",6778,5167,35.01,1807
+2007,240706,lubliniecki,"Koszęcin, gm.",11518,9091,43.47,3951
+2007,240707,lubliniecki,"Pawonków, gm.",6547,5025,30.07,1511
+2007,240708,lubliniecki,"Woźniki, gm.",9651,7512,44.72,3358
+2007,240801,mikołowski,"Łaziska Górne, m.",21773,17267,41.15,7096
+2007,240802,mikołowski,"Mikołów, m.",38093,31422,46.45,14585
+2007,240803,mikołowski,"Orzesze, m.",18686,14630,42.66,6238
+2007,240804,mikołowski,"Ornontowice, gm.",5203,4037,46.97,1896
+2007,240805,mikołowski,"Wyry, gm.",6277,4928,47.89,2359
+2007,240901,myszkowski,"Myszków, m.",33081,26806,36.89,9883
+2007,240902,myszkowski,"Koziegłowy, gm.",14462,11695,32.77,3829
+2007,240903,myszkowski,"Niegowa, gm.",5983,4541,38.10,1730
+2007,240904,myszkowski,"Poraj, gm.",10634,8706,34.78,3028
+2007,240905,myszkowski,"Żarki, gm.",8119,6407,35.31,2260
+2007,241001,pszczyński,"Goczałkowice-Zdrój, gm.",6276,4872,48.07,2342
+2007,241002,pszczyński,"Kobiór, gm.",4466,3662,49.56,1813
+2007,241003,pszczyński,"Miedźna, gm.",15647,11448,42.58,4864
+2007,241004,pszczyński,"Pawłowice, gm.",17647,13347,42.20,5630
+2007,241005,pszczyński,"Pszczyna, gm.",50336,39309,43.88,17243
+2007,241006,pszczyński,"Suszec, gm.",10662,7834,44.55,3488
+2007,241101,raciborski,"Racibórz, m.",58502,47724,34.22,16317
+2007,241102,raciborski,"Kornowac, gm.",4720,3666,37.37,1370
+2007,241103,raciborski,"Krzanowice, gm.",6046,4883,22.02,1073
+2007,241104,raciborski,"Krzyżanowice, gm.",11454,9109,28.49,2593
+2007,241105,raciborski,"Kuźnia Raciborska, gm.",12102,9707,29.68,2881
+2007,241106,raciborski,"Nędza, gm.",7351,5889,30.43,1792
+2007,241107,raciborski,"Pietrowice Wielkie, gm.",7204,5736,26.38,1513
+2007,241108,raciborski,"Rudnik, gm.",5218,4184,25.86,1081
+2007,241201,rybnicki,"Czerwionka-Leszczyny, gm.",41276,32349,40.66,13148
+2007,241202,rybnicki,"Gaszowice, gm.",8693,6798,35.60,2420
+2007,241203,rybnicki,"Jejkowice, gm.",3648,2834,45.70,1294
+2007,241204,rybnicki,"Lyski, gm.",9078,7190,38.90,2795
+2007,241205,rybnicki,"Świerklany, gm.",11052,8526,44.63,3799
+2007,241301,tarnogórski,"Kalety, m.",8731,7049,39.23,2765
+2007,241302,tarnogórski,"Miasteczko Śląskie, m.",7358,5918,36.80,2177
+2007,241303,tarnogórski,"Radzionków, m.",17213,13812,43.93,6065
+2007,241304,tarnogórski,"Tarnowskie Góry, m.",61299,51061,42.23,21558
+2007,241305,tarnogórski,"Krupski Młyn, gm.",3456,2740,40.66,1114
+2007,241306,tarnogórski,"Ożarowice, gm.",5354,4309,36.16,1558
+2007,241307,tarnogórski,"Świerklaniec, gm.",10813,8736,39.48,3449
+2007,241308,tarnogórski,"Tworóg, gm.",8082,6437,32.93,2120
+2007,241309,tarnogórski,"Zbrosławice, gm.",15397,12396,28.61,3546
+2007,241401,bieruńsko-lędziński,"Bieruń, m.",19977,15519,41.47,6432
+2007,241402,bieruńsko-lędziński,"Imielin, m.",7739,6169,45.05,2778
+2007,241403,bieruńsko-lędziński,"Lędziny, m.",15973,12291,40.55,4980
+2007,241404,bieruńsko-lędziński,"Bojszowy, gm.",6484,4989,54.26,2707
+2007,241405,bieruńsko-lędziński,"Chełm Śląski, gm.",5600,4417,43.79,1926
+2007,241501,wodzisławski,"Pszów, m.",14399,11300,38.38,4335
+2007,241502,wodzisławski,"Radlin, m.",18013,14119,38.25,5397
+2007,241503,wodzisławski,"Rydułtowy, m.",21924,17767,37.89,6730
+2007,241504,wodzisławski,"Wodzisław Śląski, m.",49264,39512,42.68,16843
+2007,241505,wodzisławski,"Godów, gm.",12477,9826,42.76,4199
+2007,241506,wodzisławski,"Gorzyce, gm.",19464,15320,41.35,6330
+2007,241507,wodzisławski,"Lubomia, gm.",8086,6387,37.31,2381
+2007,241508,wodzisławski,"Marklowice, gm.",5183,4065,42.95,1746
+2007,241509,wodzisławski,"Mszana, gm.",6972,5391,41.18,2213
+2007,241601,zawierciański,"Poręba, m.",8908,7361,37.52,2761
+2007,241602,zawierciański,"Zawiercie, m.",54040,44933,37.40,16793
+2007,241603,zawierciański,"Irządze, gm.",2994,2330,31.03,722
+2007,241604,zawierciański,"Kroczyce, gm.",6151,4838,37.35,1807
+2007,241605,zawierciański,"Łazy, gm.",16109,13327,33.21,4421
+2007,241606,zawierciański,"Ogrodzieniec, gm.",9625,7902,33.68,2657
+2007,241607,zawierciański,"Pilica, gm.",9392,7565,40.07,3031
+2007,241608,zawierciański,"Szczekociny, gm.",8761,6955,38.26,2658
+2007,241609,zawierciański,"Włodowice, gm.",5256,4262,28.02,1193
+2007,241610,zawierciański,"Żarnowiec, gm.",5023,3984,48.92,1948
+2007,241701,żywiecki,"Żywiec, m.",32445,25865,46.08,11911
+2007,241702,żywiecki,"Czernichów, gm.",6424,4932,53.04,2616
+2007,241703,żywiecki,"Gilowice, gm.",5719,4367,50.72,2214
+2007,241704,żywiecki,"Jeleśnia, gm.",13732,10512,44.32,4656
+2007,241705,żywiecki,"Koszarawa, gm.",2550,1971,44.70,881
+2007,241706,żywiecki,"Lipowa, gm.",9726,7370,39.63,2920
+2007,241707,żywiecki,"Łękawica, gm.",4354,3256,40.66,1324
+2007,241708,żywiecki,"Łodygowice, gm.",13406,10263,46.56,4773
+2007,241709,żywiecki,"Milówka, gm.",10156,7596,40.06,3041
+2007,241710,żywiecki,"Radziechowy-Wieprz, gm.",12659,9454,43.26,4089
+2007,241711,żywiecki,"Rajcza, gm.",9276,7412,34.05,2520
+2007,241712,żywiecki,"Ślemień, gm.",3431,2639,44.33,1170
+2007,241713,żywiecki,"Świnna, gm.",7963,6056,44.80,2712
+2007,241714,żywiecki,"Ujsoły, gm.",4813,3755,34.11,1280
+2007,241715,żywiecki,"Węgierska Górka, gm.",14926,11443,45.70,5220
+2007,246101,Bielsko-Biała,"Bielsko-Biała, m.",173216,141589,47.94,67827
+2007,246201,Bytom,"Bytom, m.",187474,152945,33.27,50877
+2007,246301,Chorzów,"Chorzów, m.",114035,92764,37.00,34317
+2007,246401,Częstochowa,"Częstochowa, m.",241607,199876,42.38,84675
+2007,246501,Dąbrowa Górnicza,"Dąbrowa Górnicza, m.",127566,106477,35.19,37448
+2007,246601,Gliwice,"Gliwice, m.",192702,159588,40.30,64291
+2007,246701,Jastrzębie-Zdrój,"Jastrzębie-Zdrój, m.",95598,76081,41.29,31406
+2007,246801,Jaworzno,"Jaworzno, m.",95597,76861,38.29,29417
+2007,246901,Katowice,"Katowice, m.",312761,259956,44.92,116577
+2007,247001,Mysłowice,"Mysłowice, m.",74931,60636,40.71,24661
+2007,247101,Piekary Śląskie,"Piekary Śląskie, m.",59367,48333,40.15,19400
+2007,247201,Ruda Śląska,"Ruda Śląska, m.",146203,117074,38.49,45042
+2007,247301,Rybnik,"Rybnik, m.",140117,111999,41.76,46747
+2007,247401,Siemianowice Śląskie,"Siemianowice Śląskie, m.",72836,59615,36.69,21866
+2007,247501,Sosnowiec,"Sosnowiec, m.",224727,189654,36.70,69572
+2007,247601,Świętochłowice,"Świętochłowice, m.",55527,44688,32.94,14714
+2007,247701,Tychy,"Tychy, m.",130274,106504,43.34,46152
+2007,247801,Zabrze,"Zabrze, m.",187163,151785,30.85,46800
+2007,247901,Żory,"Żory, m.",62728,49932,38.54,19235
+2007,260101,buski,"Busko-Zdrój, gm.",33543,27624,36.80,10163
+2007,260102,buski,"Gnojno, gm.",4880,3809,32.08,1222
+2007,260103,buski,"Nowy Korczyn, gm.",6629,5354,35.23,1886
+2007,260104,buski,"Pacanów, gm.",8259,6589,30.41,2003
+2007,260105,buski,"Solec-Zdrój, gm.",5202,4105,45.92,1885
+2007,260106,buski,"Stopnica, gm.",8297,6565,34.29,2246
+2007,260107,buski,"Tuczępy, gm.",3934,3050,43.28,1320
+2007,260108,buski,"Wiślica, gm.",6056,4840,29.34,1413
+2007,260201,jędrzejowski,"Imielno, gm.",4691,3673,32.26,1185
+2007,260202,jędrzejowski,"Jędrzejów, gm.",29921,23953,34.33,8220
+2007,260203,jędrzejowski,"Małogoszcz, gm.",12044,9189,33.74,3099
+2007,260204,jędrzejowski,"Nagłowice, gm.",5470,4273,29.14,1245
+2007,260205,jędrzejowski,"Oksa, gm.",4912,3864,30.93,1194
+2007,260206,jędrzejowski,"Sędziszów, gm.",13649,10798,32.73,3533
+2007,260207,jędrzejowski,"Słupia (Jędrzejowska), gm.",4708,3654,30.79,1125
+2007,260208,jędrzejowski,"Sobków, gm.",8311,6469,31.81,2058
+2007,260209,jędrzejowski,"Wodzisław, gm.",7968,6336,35.20,2230
+2007,260301,kazimierski,"Bejsce, gm.",4503,3619,22.96,831
+2007,260302,kazimierski,"Czarnocin, gm.",4488,3494,32.74,1144
+2007,260303,kazimierski,"Kazimierza Wielka, gm.",17460,14034,30.22,4240
+2007,260304,kazimierski,"Opatowiec, gm.",3870,3158,28.40,897
+2007,260305,kazimierski,"Skalbmierz, gm.",7230,5642,34.15,1927
+2007,260401,kielecki,"Bieliny, gm.",9999,7330,30.40,2227
+2007,260402,kielecki,"Bodzentyn, gm.",11868,9093,30.42,2766
+2007,260403,kielecki,"Chęciny, gm.",14875,11972,32.69,3913
+2007,260404,kielecki,"Chmielnik, gm.",11785,9116,35.47,3232
+2007,260405,kielecki,"Daleszyce, gm.",14526,10863,29.29,3182
+2007,260406,kielecki,"Górno, gm.",12886,9380,33.26,3119
+2007,260407,kielecki,"Łagów, gm.",7423,5488,34.68,1903
+2007,260408,kielecki,"Łopuszno, gm.",9158,6889,35.93,2475
+2007,260409,kielecki,"Masłów, gm.",9674,7215,34.93,2520
+2007,260410,kielecki,"Miedziana Góra, gm.",9908,7565,37.38,2828
+2007,260411,kielecki,"Mniów, gm.",9339,6969,34.77,2421
+2007,260412,kielecki,"Morawica, gm.",13013,9841,31.32,3079
+2007,260413,kielecki,"Nowa Słupia, gm.",10989,7956,26.28,2090
+2007,260414,kielecki,"Piekoszów, gm.",15111,11348,31.12,3530
+2007,260415,kielecki,"Pierzchnica, gm.",4786,3611,30.55,1103
+2007,260416,kielecki,"Raków, gm.",6198,4796,33.30,1597
+2007,260417,kielecki,"Sitkówka-Nowiny, gm.",6975,5286,36.11,1908
+2007,260418,kielecki,"Strawczyn, gm.",9770,7158,38.06,2721
+2007,260419,kielecki,"Zagnańsk, gm.",12613,9859,40.21,3962
+2007,260501,konecki,"Fałków, gm.",5190,4142,32.09,1328
+2007,260502,konecki,"Gowarczów, gm.",4924,3842,31.68,1211
+2007,260503,konecki,"Końskie, gm.",38307,30840,40.25,12409
+2007,260504,konecki,"Radoszyce, gm.",9704,7501,34.09,2556
+2007,260505,konecki,"Ruda Maleniecka, gm.",3512,2838,37.42,1061
+2007,260506,konecki,"Słupia (Konecka), gm.",3717,2878,32.35,930
+2007,260507,konecki,"Smyków, gm.",3805,2873,34.01,977
+2007,260508,konecki,"Stąporków, gm.",18959,15404,30.32,4670
+2007,260601,opatowski,"Baćkowice, gm.",5363,4176,32.61,1359
+2007,260602,opatowski,"Iwaniska, gm.",7526,5576,35.06,1955
+2007,260603,opatowski,"Lipnik, gm.",6043,4690,32.71,1534
+2007,260604,opatowski,"Opatów, gm.",12955,10398,36.50,3793
+2007,260605,opatowski,"Ożarów, gm.",11962,9420,31.92,3007
+2007,260606,opatowski,"Sadowie, gm.",4318,3460,35.23,1219
+2007,260607,opatowski,"Tarłów, gm.",5883,4677,30.34,1419
+2007,260608,opatowski,"Wojciechowice, gm.",4671,3673,37.22,1366
+2007,260701,ostrowiecki,"Ostrowiec Świętokrzyski, m.",76935,62983,35.37,22270
+2007,260702,ostrowiecki,"Bałtów, gm.",4005,3136,26.40,828
+2007,260703,ostrowiecki,"Bodzechów, gm.",13676,10810,34.00,3672
+2007,260704,ostrowiecki,"Ćmielów, gm.",8118,6525,31.14,2031
+2007,260705,ostrowiecki,"Kunów, gm.",10269,8023,26.56,2131
+2007,260706,ostrowiecki,"Waśniów, gm.",7328,5660,30.18,1708
+2007,260801,pińczowski,"Działoszyce, gm.",5888,4797,29.64,1422
+2007,260802,pińczowski,"Kije, gm.",4680,3679,33.22,1222
+2007,260803,pińczowski,"Michałów, gm.",5073,3991,30.62,1220
+2007,260804,pińczowski,"Pińczów, gm.",22758,18643,36.47,6799
+2007,260805,pińczowski,"Złota, gm.",5043,4057,31.35,1272
+2007,260901,sandomierski,"Sandomierz, m.",25906,20762,40.23,8348
+2007,260902,sandomierski,"Dwikozy, gm.",9725,7458,32.22,2401
+2007,260903,sandomierski,"Klimontów, gm.",9029,6939,32.19,2226
+2007,260904,sandomierski,"Koprzywnica, gm.",7246,5601,41.14,2304
+2007,260905,sandomierski,"Łoniów, gm.",7591,5834,35.67,2081
+2007,260906,sandomierski,"Obrazów, gm.",6931,5451,37.26,2031
+2007,260907,sandomierski,"Samborzec, gm.",9287,7326,36.69,2687
+2007,260908,sandomierski,"Wilczyce, gm.",4140,3149,38.55,1214
+2007,260909,sandomierski,"Zawichost, gm.",4920,3917,39.03,1527
+2007,261001,skarżyski,"Skarżysko-Kamienna, m.",51231,42409,39.57,16761
+2007,261002,skarżyski,"Bliżyn, gm.",8895,7042,31.06,2185
+2007,261003,skarżyski,"Łączna, gm.",5375,4113,42.86,1763
+2007,261004,skarżyski,"Skarżysko Kościelne, gm.",6460,5099,40.83,2082
+2007,261005,skarżyski,"Suchedniów, gm.",11370,9029,35.65,3216
+2007,261101,starachowicki,"Starachowice, m.",55399,45193,35.76,16158
+2007,261102,starachowicki,"Brody, gm.",11119,8613,34.37,2960
+2007,261103,starachowicki,"Mirzec, gm.",8604,6685,35.14,2348
+2007,261104,starachowicki,"Pawłów, gm.",15693,11554,30.21,3488
+2007,261105,starachowicki,"Wąchock, gm.",7286,5837,36.54,2133
+2007,261201,staszowski,"Bogoria, gm.",8253,6253,30.07,1879
+2007,261202,staszowski,"Łubnice, gm.",4458,3451,34.86,1203
+2007,261203,staszowski,"Oleśnica, gm.",4133,3181,39.45,1255
+2007,261204,staszowski,"Osiek, gm.",8099,6236,34.03,2121
+2007,261205,staszowski,"Połaniec, gm.",12394,9509,33.93,3225
+2007,261206,staszowski,"Rytwiany, gm.",6592,5078,27.73,1408
+2007,261207,staszowski,"Staszów, gm.",28112,21841,34.00,7425
+2007,261208,staszowski,"Szydłów, gm.",5093,4040,35.57,1434
+2007,261301,włoszczowski,"Kluczewsko, gm.",5406,4047,36.84,1490
+2007,261302,włoszczowski,"Krasocin, gm.",11142,8348,34.14,2849
+2007,261303,włoszczowski,"Moskorzew, gm.",3121,2444,36.87,901
+2007,261304,włoszczowski,"Radków, gm.",2754,2193,30.37,666
+2007,261305,włoszczowski,"Secemin, gm.",5366,4255,30.51,1298
+2007,261306,włoszczowski,"Włoszczowa, gm.",20753,16395,38.60,6324
+2007,266101,Kielce,"Kielce, m.",203092,167654,46.45,77787
+2007,280101,bartoszycki,"Bartoszyce, m.",26359,21115,38.04,8030
+2007,280102,bartoszycki,"Górowo Iławeckie, m.",4747,3752,35.50,1330
+2007,280103,bartoszycki,"Bartoszyce, gm.",11245,8313,33.00,2743
+2007,280104,bartoszycki,"Bisztynek, gm.",7440,5622,21.02,1181
+2007,280105,bartoszycki,"Górowo Iławeckie, gm.",7747,7121,26.34,1875
+2007,280106,bartoszycki,"Sępopol, gm.",7129,5490,28.01,1538
+2007,280201,braniewski,"Braniewo, m.",18369,14252,37.34,5311
+2007,280202,braniewski,"Braniewo, gm.",6611,4715,27.47,1294
+2007,280203,braniewski,"Frombork, gm.",3876,3167,29.90,945
+2007,280204,braniewski,"Lelkowo, gm.",3398,2523,29.96,756
+2007,280205,braniewski,"Pieniężno, gm.",7341,5706,27.62,1575
+2007,280206,braniewski,"Płoskinia, gm.",2801,2042,32.03,654
+2007,280207,braniewski,"Wilczęta, gm.",3358,2496,28.61,714
+2007,280301,działdowski,"Działdowo, m.",21606,17055,34.79,5932
+2007,280302,działdowski,"Działdowo, gm.",9989,7271,26.28,1911
+2007,280303,działdowski,"Iłowo-Osada, gm.",7425,5542,30.67,1700
+2007,280304,działdowski,"Lidzbark, gm.",15060,11400,30.22,3444
+2007,280305,działdowski,"Płośnica, gm.",6254,4646,28.84,1339
+2007,280306,działdowski,"Rybno, gm.",7437,5460,36.30,1980
+2007,280401,elbląski,"Elbląg, gm.",6914,5177,26.64,1378
+2007,280402,elbląski,"Godkowo, gm.",3560,2738,25.71,703
+2007,280403,elbląski,"Gronowo Elbląskie, gm.",5011,3766,25.17,946
+2007,280404,elbląski,"Markusy, gm.",4206,3013,24.23,730
+2007,280405,elbląski,"Milejewo, gm.",3056,2251,27.85,627
+2007,280406,elbląski,"Młynary, gm.",4697,3454,34.45,1189
+2007,280407,elbląski,"Pasłęk, gm.",20097,15384,32.36,4979
+2007,280408,elbląski,"Rychliki, gm.",4293,3215,20.37,655
+2007,280409,elbląski,"Tolkmicko, gm.",6635,5083,28.21,1434
+2007,280501,ełcki,"Ełk, m.",56349,43342,35.29,15292
+2007,280502,ełcki,"Ełk, gm.",10412,7617,26.77,2039
+2007,280503,ełcki,"Kalinowo, gm.",7293,5327,22.13,1179
+2007,280504,ełcki,"Prostki, gm.",7805,5702,22.17,1264
+2007,280505,ełcki,"Stare Juchy, gm.",4219,3188,25.50,813
+2007,280601,giżycki,"Giżycko, m.",30522,24595,35.87,8816
+2007,280604,giżycki,"Giżycko, gm.",7787,5916,27.06,1600
+2007,280605,giżycki,"Kruklanki, gm.",3178,2440,28.57,697
+2007,280606,giżycki,"Miłki, gm.",4059,3026,23.99,726
+2007,280608,giżycki,"Ryn, gm.",6340,4830,26.85,1297
+2007,280610,giżycki,"Wydminy, gm.",6957,5288,28.67,1516
+2007,280701,iławski,"Iława, m.",33205,27477,40.88,11225
+2007,280702,iławski,"Lubawa, m.",9343,7128,42.07,2996
+2007,280703,iławski,"Iława, gm.",11812,8509,32.32,2749
+2007,280704,iławski,"Kisielice, gm.",6483,4808,29.39,1413
+2007,280705,iławski,"Lubawa, gm.",10637,7604,40.35,3066
+2007,280706,iławski,"Susz, gm.",13351,9772,26.64,2603
+2007,280707,iławski,"Zalewo, gm.",7574,5661,23.07,1306
+2007,280801,kętrzyński,"Kętrzyn, m.",29423,23770,33.54,7970
+2007,280802,kętrzyński,"Barciany, gm.",7316,5546,22.70,1258
+2007,280803,kętrzyński,"Kętrzyn, gm.",8671,6449,23.77,1532
+2007,280804,kętrzyński,"Korsze, gm.",11271,8839,26.47,2340
+2007,280805,kętrzyński,"Reszel, gm.",8823,6945,29.32,2034
+2007,280806,kętrzyński,"Srokowo, gm.",4492,3391,29.81,1011
+2007,280901,lidzbarski,"Lidzbark Warmiński, m.",16964,13513,37.85,5114
+2007,280902,lidzbarski,"Kiwity, gm.",3616,2722,30.38,827
+2007,280903,lidzbarski,"Lidzbark Warmiński, gm.",7036,5209,26.01,1355
+2007,280904,lidzbarski,"Lubomino, gm.",3784,2810,24.41,686
+2007,280905,lidzbarski,"Orneta, gm.",13200,10185,30.87,3143
+2007,281001,mrągowski,"Mrągowo, m.",22510,17728,37.04,6562
+2007,281002,mrągowski,"Mikołajki, gm.",8845,6998,30.22,2116
+2007,281003,mrągowski,"Mrągowo, gm.",7778,5793,25.77,1493
+2007,281004,mrągowski,"Piecki, gm.",8054,5987,30.13,1802
+2007,281005,mrągowski,"Sorkwity, gm.",4863,3644,26.37,961
+2007,281101,nidzicki,"Janowiec Kościelny, gm.",3653,2730,26.26,717
+2007,281102,nidzicki,"Janowo, gm.",3031,2278,30.68,699
+2007,281103,nidzicki,"Kozłowo, gm.",6571,4777,22.59,1078
+2007,281104,nidzicki,"Nidzica, gm.",22289,17115,34.02,5822
+2007,281201,nowomiejski,"Nowe Miasto Lubawskie, m.",11396,8193,42.17,3452
+2007,281202,nowomiejski,"Biskupiec, gm.",10066,7365,36.59,2694
+2007,281203,nowomiejski,"Grodziczno, gm.",6609,4750,37.09,1760
+2007,281204,nowomiejski,"Kurzętnik, gm.",8934,6696,34.32,2298
+2007,281205,nowomiejski,"Nowe Miasto Lubawskie, gm.",7995,5829,33.25,1938
+2007,281303,olecki,"Kowale Oleckie, gm.",5940,4270,25.22,1077
+2007,281304,olecki,"Olecko, gm.",22054,16805,33.43,5617
+2007,281305,olecki,"Świętajno, gm.",4231,3124,25.38,793
+2007,281306,olecki,"Wieliczki, gm.",3620,2633,28.83,759
+2007,281401,olsztyński,"Barczewo, gm.",16244,13146,30.69,4034
+2007,281402,olsztyński,"Biskupiec, gm.",19601,15272,32.92,5026
+2007,281403,olsztyński,"Dobre Miasto, gm.",16361,12685,31.94,4048
+2007,281404,olsztyński,"Dywity, gm.",8627,6634,36.27,2405
+2007,281405,olsztyński,"Gietrzwałd, gm.",5312,4134,33.31,1376
+2007,281406,olsztyński,"Jeziorany, gm.",8349,6323,24.91,1575
+2007,281407,olsztyński,"Jonkowo, gm.",5582,4187,32.36,1353
+2007,281408,olsztyński,"Kolno, gm.",3710,2825,22.65,640
+2007,281409,olsztyński,"Olsztynek, gm.",13834,10507,29.56,3105
+2007,281410,olsztyński,"Purda, gm.",7518,5760,26.08,1502
+2007,281411,olsztyński,"Stawiguda, gm.",4885,3845,34.36,1321
+2007,281412,olsztyński,"Świątki, gm.",4326,3148,25.32,797
+2007,281501,ostródzki,"Ostróda, m.",34120,28244,38.26,10799
+2007,281502,ostródzki,"Dąbrówno, gm.",4598,3386,28.47,963
+2007,281503,ostródzki,"Grunwald, gm.",5982,4368,22.85,998
+2007,281504,ostródzki,"Łukta, gm.",4493,3269,24.63,805
+2007,281505,ostródzki,"Małdyty, gm.",6884,5130,23.61,1211
+2007,281506,ostródzki,"Miłakowo, gm.",6038,4563,24.48,1116
+2007,281507,ostródzki,"Miłomłyn, gm.",5154,3946,29.14,1150
+2007,281508,ostródzki,"Morąg, gm.",25811,19747,31.35,6188
+2007,281509,ostródzki,"Ostróda, gm.",15670,11557,32.44,3748
+2007,281601,piski,"Biała Piska, gm.",12940,9307,32.14,2991
+2007,281602,piski,"Orzysz, gm.",10019,7695,36.09,2775
+2007,281603,piski,"Pisz, gm.",27762,21087,35.39,7462
+2007,281604,piski,"Ruciane-Nida, gm.",8985,7047,35.75,2518
+2007,281701,szczycieński,"Szczytno, m.",26317,21111,37.65,7945
+2007,281702,szczycieński,"Dźwierzuty, gm.",7267,5389,23.23,1252
+2007,281703,szczycieński,"Jedwabno, gm.",3766,2861,31.81,910
+2007,281704,szczycieński,"Pasym, gm.",5284,3979,27.57,1096
+2007,281705,szczycieński,"Rozogi, gm.",6032,4225,32.71,1382
+2007,281706,szczycieński,"Szczytno, gm.",10491,7688,25.33,1946
+2007,281707,szczycieński,"Świętajno, gm.",6284,4779,31.99,1529
+2007,281708,szczycieński,"Wielbark, gm.",6778,4872,27.03,1317
+2007,281801,gołdapski,"Banie Mazurskie, gm.",4372,3339,22.19,741
+2007,281802,gołdapski,"Dubeninki, gm.",3407,2596,28.74,746
+2007,281803,gołdapski,"Gołdap, gm.",20536,15561,30.28,4712
+2007,281901,węgorzewski,"Budry, gm.",3361,2532,21.64,547
+2007,281902,węgorzewski,"Pozezdrze, gm.",3593,2819,26.71,753
+2007,281903,węgorzewski,"Węgorzewo, gm.",17883,14331,30.58,4380
+2007,286101,Elbląg,"Elbląg, m.",125523,100337,40.86,40977
+2007,286201,Olsztyn,"Olsztyn, m.",162965,133877,46.55,62279
+2007,300101,chodzieski,"Chodzież, m.",20007,16120,44.33,7143
+2007,300102,chodzieski,"Budzyń, gm.",8346,6221,36.89,2295
+2007,300103,chodzieski,"Chodzież, gm.",5430,4140,42.42,1756
+2007,300104,chodzieski,"Margonin, gm.",6326,4719,43.89,2069
+2007,300105,chodzieski,"Szamocin, gm.",7408,5490,43.81,2404
+2007,300201,czarnkowsko-trzcianecki,"Czarnków, m.",11903,9480,43.31,4106
+2007,300202,czarnkowsko-trzcianecki,"Czarnków, gm.",10730,7984,37.66,3006
+2007,300203,czarnkowsko-trzcianecki,"Drawsko, gm.",6005,4563,33.77,1541
+2007,300204,czarnkowsko-trzcianecki,"Krzyż Wielkopolski, gm.",8844,6860,33.94,2328
+2007,300205,czarnkowsko-trzcianecki,"Lubasz, gm.",6950,5174,38.23,1977
+2007,300206,czarnkowsko-trzcianecki,"Połajewo, gm.",6255,4615,35.82,1653
+2007,300207,czarnkowsko-trzcianecki,"Trzcianka, gm.",24170,18687,39.34,7350
+2007,300208,czarnkowsko-trzcianecki,"Wieleń, gm.",12942,9980,37.02,3695
+2007,300301,gnieźnieński,"Gniezno, m.",70043,56441,42.25,23819
+2007,300302,gnieźnieński,"Czerniejewo, gm.",6995,5936,39.15,2322
+2007,300303,gnieźnieński,"Gniezno, gm.",8275,6151,35.38,2176
+2007,300304,gnieźnieński,"Kiszkowo, gm.",5348,3991,36.06,1437
+2007,300305,gnieźnieński,"Kłecko, gm.",7788,5778,38.75,2235
+2007,300306,gnieźnieński,"Łubowo, gm.",5306,3950,30.96,1223
+2007,300307,gnieźnieński,"Mieleszyn, gm.",4108,2956,31.77,937
+2007,300308,gnieźnieński,"Niechanowo, gm.",5402,3941,40.62,1600
+2007,300309,gnieźnieński,"Trzemeszno, gm.",14325,11016,32.90,3617
+2007,300310,gnieźnieński,"Witkowo, gm.",13734,10503,40.66,4268
+2007,300401,gostyński,"Borek Wielkopolski, gm.",7816,5844,31.35,1830
+2007,300402,gostyński,"Gostyń, gm.",28240,21840,37.06,8086
+2007,300403,gostyński,"Krobia, gm.",13017,9854,34.44,3389
+2007,300404,gostyński,"Pępowo, gm.",6062,4563,41.57,1896
+2007,300405,gostyński,"Piaski, gm.",8354,6272,33.21,2083
+2007,300406,gostyński,"Pogorzela, gm.",5268,3877,31.62,1225
+2007,300407,gostyński,"Poniec, gm.",7991,6131,31.07,1904
+2007,300501,grodziski,"Granowo, gm.",4867,3602,34.73,1251
+2007,300502,grodziski,"Grodzisk Wielkopolski, gm.",18637,14263,35.77,5100
+2007,300503,grodziski,"Kamieniec, gm.",6615,4899,36.13,1768
+2007,300504,grodziski,"Rakoniewice, gm.",12671,9309,32.03,2979
+2007,300505,grodziski,"Wielichowo, gm.",6954,5120,39.45,2020
+2007,300601,jarociński,"Jaraczewo, gm.",8344,6239,40.84,2548
+2007,300602,jarociński,"Jarocin, gm.",45157,35245,37.78,13309
+2007,300603,jarociński,"Kotlin, gm.",7205,5371,31.63,1697
+2007,300604,jarociński,"Żerków, gm.",10799,8107,31.92,2587
+2007,300701,kaliski,"Blizanów, gm.",9341,7137,35.63,2539
+2007,300702,kaliski,"Brzeziny, gm.",5858,4456,34.76,1548
+2007,300703,kaliski,"Ceków-Kolonia, gm.",4686,3652,31.98,1168
+2007,300704,kaliski,"Godziesze Wielkie, gm.",8291,6403,37.42,2395
+2007,300705,kaliski,"Koźminek, gm.",7596,5763,34.74,2002
+2007,300706,kaliski,"Lisków, gm.",5505,4209,38.61,1625
+2007,300707,kaliski,"Mycielin, gm.",5010,3796,30.40,1154
+2007,300708,kaliski,"Opatówek, gm.",10206,8018,44.70,3582
+2007,300709,kaliski,"Stawiszyn, gm.",7413,5746,33.71,1936
+2007,300710,kaliski,"Szczytniki, gm.",8116,6148,35.74,2197
+2007,300711,kaliski,"Żelazków, gm.",8989,6903,37.91,2616
+2007,300801,kępiński,"Baranów, gm.",7514,5656,38.90,2198
+2007,300802,kępiński,"Bralin, gm.",5657,4283,39.86,1707
+2007,300803,kępiński,"Kępno, gm.",24581,19226,40.09,7701
+2007,300804,kępiński,"Łęka Opatowska, gm.",5250,3947,37.88,1494
+2007,300805,kępiński,"Perzów, gm.",3912,2948,32.02,944
+2007,300806,kępiński,"Rychtal, gm.",4066,3085,36.08,1113
+2007,300807,kępiński,"Trzcinica, gm.",4780,3611,39.21,1415
+2007,300901,kolski,"Koło, m.",23948,19251,40.37,7769
+2007,300902,kolski,"Babiak, gm.",8238,6173,39.62,2445
+2007,300903,kolski,"Chodów, gm.",3681,2890,31.14,900
+2007,300904,kolski,"Dąbie, gm.",6948,5432,39.10,2122
+2007,300905,kolski,"Grzegorzew, gm.",5686,4324,38.78,1674
+2007,300906,kolski,"Kłodawa, gm.",13884,10748,37.51,4031
+2007,300907,kolski,"Koło, gm.",7122,5410,36.14,1954
+2007,300908,kolski,"Kościelec, gm.",6536,5006,32.92,1643
+2007,300909,kolski,"Olszówka, gm.",5060,3788,34.53,1307
+2007,300910,kolski,"Osiek Mały, gm.",5858,4351,33.51,1457
+2007,300911,kolski,"Przedecz, gm.",4566,3524,36.49,1286
+2007,301001,koniński,"Golina, gm.",11542,8755,34.51,3017
+2007,301002,koniński,"Grodziec, gm.",5293,3922,30.90,1211
+2007,301003,koniński,"Kazimierz Biskupi, gm.",10304,7758,34.48,2672
+2007,301004,koniński,"Kleczew, gm.",9858,7346,35.34,2595
+2007,301005,koniński,"Kramsk, gm.",10110,7612,32.29,2458
+2007,301006,koniński,"Krzymów, gm.",7073,5218,35.97,1874
+2007,301007,koniński,"Rychwał, gm.",8523,6372,36.50,2325
+2007,301008,koniński,"Rzgów, gm.",6930,5160,33.57,1732
+2007,301009,koniński,"Skulsk, gm.",6293,4766,28.91,1377
+2007,301010,koniński,"Sompolno, gm.",10776,8129,34.10,2769
+2007,301011,koniński,"Stare Miasto, gm.",10035,7454,37.87,2821
+2007,301012,koniński,"Ślesin, gm.",13282,10128,30.71,3110
+2007,301013,koniński,"Wierzbinek, gm.",8007,5868,30.83,1806
+2007,301014,koniński,"Wilczyn, gm.",6529,4872,34.83,1696
+2007,301101,kościański,"Kościan, m.",23996,19463,41.85,8145
+2007,301102,kościański,"Czempiń, gm.",11291,8696,34.54,3003
+2007,301103,kościański,"Kościan, gm.",14978,11228,36.25,4068
+2007,301104,kościański,"Krzywiń, gm.",9993,7468,35.18,2626
+2007,301105,kościański,"Śmigiel, gm.",17559,13415,35.81,4798
+2007,301201,krotoszyński,"Sulmierzyce, m.",2760,2069,40.70,842
+2007,301202,krotoszyński,"Kobylin, gm.",8184,6141,39.16,2402
+2007,301203,krotoszyński,"Koźmin Wielkopolski, gm.",13897,10734,38.90,4169
+2007,301204,krotoszyński,"Krotoszyn, gm.",40692,31496,42.60,13410
+2007,301205,krotoszyński,"Rozdrażew, gm.",5309,3856,39.76,1532
+2007,301206,krotoszyński,"Zduny, gm.",7013,5291,38.10,2016
+2007,301301,leszczyński,"Krzemieniewo, gm.",8466,6461,36.42,2352
+2007,301302,leszczyński,"Lipno, gm.",5729,4192,38.05,1595
+2007,301303,leszczyński,"Osieczna, gm.",8604,6561,34.08,2235
+2007,301304,leszczyński,"Rydzyna, gm.",7957,6080,37.43,2276
+2007,301305,leszczyński,"Święciechowa, gm.",7157,5390,34.17,1841
+2007,301306,leszczyński,"Wijewo, gm.",3514,2552,35.15,895
+2007,301307,leszczyński,"Włoszakowice, gm.",8602,6323,36.69,2319
+2007,301401,międzychodzki,"Chrzypsko Wielkie, gm.",3294,2514,34.57,869
+2007,301402,międzychodzki,"Kwilcz, gm.",6219,4671,30.87,1442
+2007,301403,międzychodzki,"Międzychód, gm.",18471,14335,34.39,4929
+2007,301404,międzychodzki,"Sieraków, gm.",8729,6685,34.21,2287
+2007,301501,nowotomyski,"Kuślin, gm.",5468,4045,33.25,1342
+2007,301502,nowotomyski,"Lwówek, gm.",9262,6948,34.31,2383
+2007,301503,nowotomyski,"Miedzichowo, gm.",3798,2956,35.96,1063
+2007,301504,nowotomyski,"Nowy Tomyśl, gm.",24181,18728,37.46,7013
+2007,301505,nowotomyski,"Opalenica, gm.",15762,12006,38.01,4561
+2007,301506,nowotomyski,"Zbąszyń, gm.",13526,10257,36.11,3704
+2007,301601,obornicki,"Oborniki, gm.",31544,24547,37.58,9218
+2007,301602,obornicki,"Rogoźno, gm.",17424,13237,36.26,4796
+2007,301603,obornicki,"Ryczywół, gm.",7239,5415,40.90,2214
+2007,301701,ostrowski,"Ostrów Wielkopolski, m.",73596,59564,43.14,25675
+2007,301702,ostrowski,"Nowe Skalmierzyce, gm.",15200,11697,35.62,4162
+2007,301703,ostrowski,"Odolanów, gm.",14031,10400,44.12,4585
+2007,301704,ostrowski,"Ostrów Wielkopolski, gm.",17954,13563,39.17,5311
+2007,301705,ostrowski,"Przygodzice, gm.",11351,8556,41.54,3551
+2007,301706,ostrowski,"Raszków, gm.",11394,8561,35.98,3076
+2007,301707,ostrowski,"Sieroszewice, gm.",9714,7237,34.20,2473
+2007,301708,ostrowski,"Sośnie, gm.",6590,4838,35.45,1715
+2007,301801,ostrzeszowski,"Czajków, gm.",2730,1949,37.66,734
+2007,301802,ostrzeszowski,"Doruchów, gm.",5160,3781,37.69,1425
+2007,301803,ostrzeszowski,"Grabów nad Prosną, gm.",7833,5941,37.35,2219
+2007,301804,ostrzeszowski,"Kobyla Góra, gm.",5937,4417,35.52,1569
+2007,301805,ostrzeszowski,"Kraszewice, gm.",3698,2769,35.25,976
+2007,301806,ostrzeszowski,"Mikstat, gm.",6312,4768,33.83,1613
+2007,301807,ostrzeszowski,"Ostrzeszów, gm.",23337,18151,36.59,6639
+2007,301901,pilski,"Piła, m.",74598,59387,48.32,28684
+2007,301902,pilski,"Białośliwie, gm.",4881,3644,44.35,1616
+2007,301903,pilski,"Kaczory, gm.",7512,5594,61.44,3433
+2007,301904,pilski,"Łobżenica, gm.",10241,7480,46.79,3499
+2007,301905,pilski,"Miasteczko Krajeńskie, gm.",3239,2444,48.28,1178
+2007,301906,pilski,"Szydłowo, gm.",7525,5596,36.74,2056
+2007,301907,pilski,"Ujście, gm.",8109,6167,39.45,2433
+2007,301908,pilski,"Wyrzysk, gm.",14371,10772,45.11,4857
+2007,301909,pilski,"Wysoka, gm.",7022,5140,45.68,2343
+2007,302001,pleszewski,"Chocz, gm.",4881,3625,33.10,1200
+2007,302002,pleszewski,"Czermin, gm.",4975,3749,37.13,1392
+2007,302003,pleszewski,"Dobrzyca, gm.",8459,6375,35.51,2258
+2007,302004,pleszewski,"Gizałki, gm.",4693,3479,32.25,1122
+2007,302005,pleszewski,"Gołuchów, gm.",9861,7407,36.76,2722
+2007,302006,pleszewski,"Pleszew, gm.",29806,23494,36.36,8541
+2007,302101,poznański,"Luboń, m.",25463,20092,44.58,8952
+2007,302102,poznański,"Puszczykowo, m.",8844,7407,51.63,3823
+2007,302103,poznański,"Buk, gm.",11773,8919,41.69,3716
+2007,302104,poznański,"Czerwonak, gm.",22297,18176,42.33,7691
+2007,302105,poznański,"Dopiewo, gm.",12313,9654,43.08,4159
+2007,302106,poznański,"Kleszczewo, gm.",4915,3660,42.16,1543
+2007,302107,poznański,"Komorniki, gm.",12884,10214,42.97,4388
+2007,302108,poznański,"Kostrzyn, gm.",15658,12037,34.90,4198
+2007,302109,poznański,"Kórnik, gm.",16447,12726,42.78,5440
+2007,302110,poznański,"Mosina, gm.",24631,19466,41.06,7989
+2007,302111,poznański,"Murowana Goślina, gm.",15405,11620,36.51,4240
+2007,302112,poznański,"Pobiedziska, gm.",15964,12257,37.74,4622
+2007,302113,poznański,"Rokietnica, gm.",8515,6670,36.45,2429
+2007,302114,poznański,"Stęszew, gm.",13741,10556,35.64,3760
+2007,302115,poznański,"Suchy Las, gm.",11631,9328,50.74,4731
+2007,302116,poznański,"Swarzędz, gm.",38560,30286,44.17,13375
+2007,302117,poznański,"Tarnowo Podgórne, gm.",17710,13791,47.71,6577
+2007,302201,rawicki,"Bojanowo, gm.",9092,6860,31.79,2180
+2007,302202,rawicki,"Jutrosin, gm.",7212,5306,38.54,2045
+2007,302203,rawicki,"Miejska Górka, gm.",9455,7187,32.09,2306
+2007,302204,rawicki,"Pakosław, gm.",4649,3420,39.94,1366
+2007,302205,rawicki,"Rawicz, gm.",29398,24002,36.26,8696
+2007,302301,słupecki,"Słupca, m.",14681,11809,41.10,4854
+2007,302302,słupecki,"Lądek, gm.",5863,4505,33.83,1524
+2007,302303,słupecki,"Orchowo, gm.",4081,3032,35.16,1066
+2007,302304,słupecki,"Ostrowite, gm.",5214,3970,31.01,1231
+2007,302305,słupecki,"Powidz, gm.",2126,1756,45.27,795
+2007,302306,słupecki,"Słupca, gm.",9204,6874,31.45,2161
+2007,302307,słupecki,"Strzałkowo, gm.",9670,7322,36.41,2665
+2007,302308,słupecki,"Zagórów, gm.",9237,7022,30.53,2144
+2007,302401,szamotulski,"Obrzycko, m.",2294,1763,40.39,709
+2007,302402,szamotulski,"Duszniki, gm.",8164,6211,39.67,2463
+2007,302403,szamotulski,"Kaźmierz, gm.",6932,5292,31.73,1679
+2007,302404,szamotulski,"Obrzycko, gm.",4226,3248,31.13,1011
+2007,302405,szamotulski,"Ostroróg, gm.",4895,3749,30.33,1137
+2007,302406,szamotulski,"Pniewy, gm.",12102,9213,38.66,3560
+2007,302407,szamotulski,"Szamotuły, gm.",28062,22440,39.02,8754
+2007,302408,szamotulski,"Wronki, gm.",18678,16307,35.15,5731
+2007,302501,średzki,"Dominowo, gm.",2861,2130,34.65,738
+2007,302502,średzki,"Krzykosy, gm.",6471,4880,35.29,1721
+2007,302503,średzki,"Nowe Miasto nad Wartą, gm.",9172,6853,32.00,2192
+2007,302504,średzki,"Środa Wielkopolska, gm.",30143,23742,37.78,8961
+2007,302505,średzki,"Zaniemyśl, gm.",6212,4701,37.01,1740
+2007,302601,śremski,"Brodnica, gm.",4797,3595,32.07,1153
+2007,302602,śremski,"Dolsk, gm.",5810,4309,32.49,1400
+2007,302603,śremski,"Książ Wielkopolski, gm.",8496,6312,32.27,2036
+2007,302604,śremski,"Śrem, gm.",39988,31461,38.62,12142
+2007,302701,turecki,"Turek, m.",30301,24183,42.46,10267
+2007,302702,turecki,"Brudzew, gm.",6269,4685,33.94,1587
+2007,302703,turecki,"Dobra, gm.",6520,5026,36.51,1835
+2007,302704,turecki,"Kawęczyn, gm.",5418,4114,40.45,1660
+2007,302705,turecki,"Malanów, gm.",6504,4788,30.87,1478
+2007,302706,turecki,"Przykona, gm.",4182,3148,37.67,1186
+2007,302707,turecki,"Tuliszków, gm.",10579,7986,34.10,2721
+2007,302708,turecki,"Turek, gm.",7572,5605,35.29,1978
+2007,302709,turecki,"Władysławów, gm.",7886,5819,38.84,2257
+2007,302801,wągrowiecki,"Wągrowiec, m.",24497,19436,42.57,8268
+2007,302802,wągrowiecki,"Damasławek, gm.",5755,4381,39.95,1750
+2007,302803,wągrowiecki,"Gołańcz, gm.",8734,6410,45.29,2902
+2007,302804,wągrowiecki,"Mieścisko, gm.",6011,4464,37.72,1683
+2007,302805,wągrowiecki,"Skoki, gm.",8572,6444,36.05,2323
+2007,302806,wągrowiecki,"Wapno, gm.",3290,2460,37.03,911
+2007,302807,wągrowiecki,"Wągrowiec, gm.",11493,8410,35.40,2975
+2007,302901,wolsztyński,"Przemęt, gm.",13597,10153,33.39,3387
+2007,302902,wolsztyński,"Siedlec, gm.",12084,8929,37.55,3351
+2007,302903,wolsztyński,"Wolsztyn, gm.",29451,22640,41.01,9284
+2007,303001,wrzesiński,"Kołaczkowo, gm.",6245,4613,39.24,1810
+2007,303002,wrzesiński,"Miłosław, gm.",10522,8131,40.12,3261
+2007,303003,wrzesiński,"Nekla, gm.",6678,5052,38.68,1954
+2007,303004,wrzesiński,"Pyzdry, gm.",7389,5655,32.31,1826
+2007,303005,wrzesiński,"Września, gm.",43983,34393,46.08,15831
+2007,303101,złotowski,"Złotów, m.",19043,14966,43.13,6450
+2007,303102,złotowski,"Jastrowie, gm.",11897,8949,35.48,3175
+2007,303103,złotowski,"Krajenka, gm.",7444,5522,40.87,2257
+2007,303104,złotowski,"Lipka, gm.",5802,4338,34.62,1501
+2007,303105,złotowski,"Okonek, gm.",9340,7064,33.61,2373
+2007,303106,złotowski,"Tarnówka, gm.",3184,2386,36.92,881
+2007,303107,złotowski,"Zakrzewo, gm.",4827,3512,47.55,1670
+2007,303108,złotowski,"Złotów, gm.",9243,6735,33.78,2274
+2007,306101,Kalisz,"Kalisz, m.",106571,86950,42.34,36786
+2007,306201,Konin,"Konin, m.",80916,64758,44.04,28516
+2007,306301,Leszno,"Leszno, m.",63301,50545,42.35,21409
+2007,306401,Poznań,"Poznań, m.",536598,448296,49.63,222190
+2007,320101,białogardzki,"Białogard, m.",24622,19359,36.34,7032
+2007,320102,białogardzki,"Białogard, gm.",8107,6039,23.60,1425
+2007,320103,białogardzki,"Karlino, gm.",9436,7127,27.37,1951
+2007,320104,białogardzki,"Tychowo, gm.",7210,5420,28.17,1527
+2007,320201,choszczeński,"Bierzwnik, gm.",5146,3953,30.84,1219
+2007,320202,choszczeński,"Choszczno, gm.",22725,18137,31.50,5711
+2007,320203,choszczeński,"Drawno, gm.",5561,4288,31.20,1338
+2007,320204,choszczeński,"Krzęcin, gm.",4032,3058,19.56,598
+2007,320205,choszczeński,"Pełczyce, gm.",8394,6361,34.32,2181
+2007,320206,choszczeński,"Recz, gm.",5986,4504,22.98,1035
+2007,320301,drawski,"Czaplinek, gm.",12311,9531,29.40,2802
+2007,320302,drawski,"Drawsko Pomorskie, gm.",17190,13376,33.04,4419
+2007,320303,drawski,"Kalisz Pomorski, gm.",7629,5784,27.52,1592
+2007,320304,drawski,"Ostrowice, gm.",2652,2010,29.80,599
+2007,320305,drawski,"Wierzchowo, gm.",4724,4150,34.94,1448
+2007,320306,drawski,"Złocieniec, gm.",16142,12641,34.67,4380
+2007,320402,goleniowski,"Goleniów, gm.",32710,26680,35.77,9536
+2007,320403,goleniowski,"Maszewo, gm.",8250,6102,29.71,1811
+2007,320404,goleniowski,"Nowogard, gm.",24992,19843,33.88,6719
+2007,320405,goleniowski,"Osina, gm.",2943,2182,31.44,686
+2007,320406,goleniowski,"Przybiernów, gm.",5349,4071,30.04,1223
+2007,320407,goleniowski,"Stepnica, gm.",4821,3710,29.33,1088
+2007,320501,gryficki,"Brojce, gm.",3866,2900,22.41,650
+2007,320502,gryficki,"Gryfice, gm.",24221,19219,34.73,6670
+2007,320503,gryficki,"Karnice, gm.",4390,3320,27.62,916
+2007,320504,gryficki,"Płoty, gm.",9534,7253,35.70,2589
+2007,320507,gryficki,"Rewal, gm.",3399,2912,45.02,1310
+2007,320508,gryficki,"Trzebiatów, gm.",17126,13161,30.31,3987
+2007,320601,gryfiński,"Banie, gm.",6771,5078,24.20,1227
+2007,320602,gryfiński,"Cedynia, gm.",4555,3468,20.42,708
+2007,320603,gryfiński,"Chojna, gm.",13940,10688,29.95,3200
+2007,320604,gryfiński,"Gryfino, gm.",31504,24856,39.75,9877
+2007,320605,gryfiński,"Mieszkowice, gm.",7773,5782,31.32,1810
+2007,320606,gryfiński,"Moryń, gm.",4460,3452,25.90,894
+2007,320607,gryfiński,"Stare Czarnowo, gm.",3790,2967,32.59,967
+2007,320608,gryfiński,"Trzcińsko-Zdrój, gm.",5909,4518,29.79,1346
+2007,320609,gryfiński,"Widuchowa, gm.",5660,4250,24.73,1051
+2007,320701,kamieński,"Dziwnów, gm.",4119,3622,37.77,1368
+2007,320702,kamieński,"Golczewo, gm.",6262,4751,35.87,1703
+2007,320703,kamieński,"Kamień Pomorski, gm.",14915,12037,34.93,4202
+2007,320704,kamieński,"Międzyzdroje, gm.",6559,5559,37.78,2097
+2007,320705,kamieński,"Świerzno, gm.",4367,3245,24.25,787
+2007,320706,kamieński,"Wolin, gm.",12585,9870,30.29,2990
+2007,320801,kołobrzeski,"Kołobrzeg, m.",45437,37534,41.71,15650
+2007,320802,kołobrzeski,"Dygowo, gm.",5532,4134,25.50,1054
+2007,320803,kołobrzeski,"Gościno, gm.",5251,3918,27.21,1068
+2007,320804,kołobrzeski,"Kołobrzeg, gm.",8705,6933,34.34,2381
+2007,320805,kołobrzeski,"Rymań, gm.",4310,3212,30.48,979
+2007,320806,kołobrzeski,"Siemyśl, gm.",3564,2649,27.78,736
+2007,320807,kołobrzeski,"Ustronie Morskie, gm.",3584,2840,38.80,1101
+2007,320901,koszaliński,"Będzino, gm.",9340,7120,30.59,2177
+2007,320902,koszaliński,"Biesiekierz, gm.",5199,3878,34.89,1351
+2007,320903,koszaliński,"Bobolice, gm.",10180,7996,28.76,2298
+2007,320904,koszaliński,"Manowo, gm.",6154,4724,32.71,1545
+2007,320905,koszaliński,"Mielno, gm.",4832,4220,39.98,1686
+2007,320906,koszaliński,"Polanów, gm.",9468,6966,28.75,2002
+2007,320907,koszaliński,"Sianów, gm.",13381,10046,33.32,3346
+2007,320908,koszaliński,"Świeszyno, gm.",5654,4305,35.03,1508
+2007,321001,myśliborski,"Barlinek, gm.",19896,15626,32.64,5101
+2007,321002,myśliborski,"Boleszkowice, gm.",2925,2225,25.39,565
+2007,321003,myśliborski,"Dębno, gm.",21111,16321,32.87,5362
+2007,321004,myśliborski,"Myślibórz, gm.",21317,16814,30.82,5182
+2007,321005,myśliborski,"Nowogródek Pomorski, gm.",3351,2517,25.98,654
+2007,321101,policki,"Dobra (Szczecińska), gm.",10759,8228,43.13,3543
+2007,321102,policki,"Kołbaskowo, gm.",8276,6189,34.37,2124
+2007,321103,policki,"Nowe Warpno, gm.",1634,1349,30.54,412
+2007,321104,policki,"Police, gm.",40466,31898,36.15,11526
+2007,321201,pyrzycki,"Bielice, gm.",2961,2231,29.45,656
+2007,321202,pyrzycki,"Kozielice, gm.",2716,2067,29.12,602
+2007,321203,pyrzycki,"Lipiany, gm.",6333,4994,35.20,1758
+2007,321204,pyrzycki,"Przelewice, gm.",5654,4286,24.55,1051
+2007,321205,pyrzycki,"Pyrzyce, gm.",20027,15766,36.88,5811
+2007,321206,pyrzycki,"Warnice, gm.",3597,2684,30.63,822
+2007,321301,sławieński,"Darłowo, m.",14970,11961,36.02,4307
+2007,321302,sławieński,"Sławno, m.",13500,10689,37.42,4000
+2007,321303,sławieński,"Darłowo, gm.",7759,5804,37.22,2160
+2007,321304,sławieński,"Malechowo, gm.",6723,5022,28.91,1450
+2007,321305,sławieński,"Postomino, gm.",7074,5308,28.30,1502
+2007,321306,sławieński,"Sławno, gm.",9032,6497,27.15,1763
+2007,321401,stargardzki,"Stargard Szczeciński, m.",70154,56436,39.39,22218
+2007,321402,stargardzki,"Chociwel, gm.",6261,4759,27.23,1296
+2007,321403,stargardzki,"Dobrzany, gm.",5381,4030,29.43,1185
+2007,321404,stargardzki,"Dolice, gm.",8456,6201,27.43,1701
+2007,321405,stargardzki,"Ińsko, gm.",3746,2900,32.00,928
+2007,321406,stargardzki,"Kobylanka, gm.",3464,2766,36.12,999
+2007,321408,stargardzki,"Marianowo, gm.",3196,2382,35.77,852
+2007,321409,stargardzki,"Stara Dąbrowa, gm.",3688,2716,25.99,706
+2007,321410,stargardzki,"Stargard Szczeciński, gm.",11522,8582,26.82,2302
+2007,321411,stargardzki,"Suchań, gm.",4404,3360,27.53,925
+2007,321501,szczecinecki,"Szczecinek, m.",40166,32262,41.77,13471
+2007,321502,szczecinecki,"Barwice, gm.",9355,7045,32.18,2267
+2007,321503,szczecinecki,"Biały Bór, gm.",5389,4101,30.68,1258
+2007,321504,szczecinecki,"Borne Sulinowo, gm.",9096,6869,33.28,2286
+2007,321505,szczecinecki,"Grzmiąca, gm.",5409,4039,25.97,1049
+2007,321506,szczecinecki,"Szczecinek, gm.",10453,7600,25.83,1963
+2007,321601,świdwiński,"Świdwin, m.",16271,12711,35.69,4534
+2007,321602,świdwiński,"Brzeżno, gm.",2969,2191,31.54,691
+2007,321603,świdwiński,"Połczyn-Zdrój, gm.",17007,13327,35.38,4713
+2007,321604,świdwiński,"Rąbino, gm.",4223,3177,28.74,913
+2007,321605,świdwiński,"Sławoborze, gm.",4316,3290,28.09,922
+2007,321606,świdwiński,"Świdwin, gm.",6461,4846,30.02,1454
+2007,321701,wałecki,"Wałcz, m.",26797,21217,41.45,8784
+2007,321702,wałecki,"Człopa, gm.",5316,3981,27.73,1103
+2007,321703,wałecki,"Mirosławiec, gm.",6252,4635,30.74,1425
+2007,321704,wałecki,"Tuczno, gm.",5399,4053,32.62,1321
+2007,321705,wałecki,"Wałcz, gm.",12805,9438,28.96,2733
+2007,321801,łobeski,"Dobra, gm.",4713,3591,22.50,808
+2007,321802,łobeski,"Łobez, gm.",14733,11609,34.76,4035
+2007,321803,łobeski,"Radowo Małe, gm.",3993,2981,23.18,691
+2007,321804,łobeski,"Resko, gm.",8566,6586,29.18,1922
+2007,321805,łobeski,"Węgorzyno, gm.",7471,5726,27.80,1592
+2007,326101,Koszalin,"Koszalin, m.",105327,88054,43.93,38665
+2007,326201,Szczecin,"Szczecin, m.",391490,324156,45.00,145679
+2007,326301,Świnoujście,"Świnoujście, m.",40626,34040,39.30,13369

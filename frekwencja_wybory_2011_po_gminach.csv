@@ -1,0 +1,2497 @@
+year,teryt_code,powiat,gmina,population,eligible_to_vote,turnout_%,turnout_ppl
+2011,020101,bolesławiecki,Miasto Bolesławiec,39 253,32 669,"48,70",15 301
+2011,020102,bolesławiecki,Gmina Bolesławiec,13 458,10 560,"39,90",3 961
+2011,020103,bolesławiecki,Gmina Gromadka,5 555,4 480,"39,62",1 628
+2011,020104,bolesławiecki,Gmina Nowogrodziec,15 148,11 907,"32,82",3 622
+2011,020105,bolesławiecki,Gmina Osiecznica,6 881,5 283,"38,27",1 862
+2011,020106,bolesławiecki,Gmina Warta Bolesławiecka,8 268,6 557,"36,50",2 221
+2011,020201,dzierżoniowski,Miasto Bielawa,31 447,26 107,"42,72",10 552
+2011,020202,dzierżoniowski,Miasto Dzierżoniów,34 109,28 756,"48,05",13 253
+2011,020203,dzierżoniowski,Miasto Pieszyce,9 439,7 781,"39,29",2 918
+2011,020204,dzierżoniowski,Miasto Piława Górna,6 655,5 386,"38,60",1 930
+2011,020205,dzierżoniowski,Gmina Dzierżoniów,9 383,7 732,"40,21",2 908
+2011,020206,dzierżoniowski,Gmina Łagiewniki,7 565,6 177,"37,82",2 179
+2011,020207,dzierżoniowski,Gmina Niemcza,5 898,4 844,"39,16",1 789
+2011,020301,głogowski,Miasto Głogów,68 372,55 592,"51,11",27 049
+2011,020302,głogowski,Gmina Głogów,6 248,4 872,"48,05",2 185
+2011,020303,głogowski,Gmina Jerzmanowa,4 098,3 101,"51,02",1 485
+2011,020304,głogowski,Gmina Kotla,4 298,3 314,"36,42",1 092
+2011,020305,głogowski,Gmina Pęcław,2 345,1 789,"36,95",604
+2011,020306,głogowski,Gmina Żukowice,3 504,2 783,"37,73",982
+2011,020401,górowski,Gmina Góra,20 964,16 498,"37,19",5 746
+2011,020402,górowski,Gmina Jemielno,3 165,2 525,"31,21",723
+2011,020403,górowski,Gmina Niechlów,5 120,4 002,"31,46",1 119
+2011,020404,górowski,Gmina Wąsosz,7 554,5 910,"33,65",1 834
+2011,020501,jaworski,Miasto Jawor,24 281,20 097,"45,08",8 658
+2011,020502,jaworski,Gmina Bolków,10 980,8 940,"38,85",3 261
+2011,020503,jaworski,Gmina Męcinka,4 875,3 857,"35,36",1 299
+2011,020504,jaworski,Gmina Mściwojów,4 134,3 291,"40,78",1 232
+2011,020505,jaworski,Gmina Paszowice,3 971,3 195,"36,46",1 075
+2011,020506,jaworski,Gmina Wądroże Wielkie,4 109,3 232,"37,41",1 141
+2011,020601,jeleniogórski,Miasto Karpacz,4 778,4 429,"49,76",2 106
+2011,020602,jeleniogórski,Miasto Kowary,11 460,9 642,"44,22",4 012
+2011,020603,jeleniogórski,Miasto Piechowice,6 434,5 353,"46,57",2 380
+2011,020604,jeleniogórski,Miasto Szklarska Poręba,6 681,5 860,"46,77",2 640
+2011,020605,jeleniogórski,Gmina Janowice Wielkie,4 206,3 596,"41,05",1 351
+2011,020606,jeleniogórski,Gmina Jeżów Sudecki,6 708,5 409,"45,29",2 324
+2011,020607,jeleniogórski,Gmina Mysłakowice,10 065,8 164,"42,70",3 298
+2011,020608,jeleniogórski,Gmina Podgórzyn,7 905,6 569,"42,97",2 686
+2011,020609,jeleniogórski,Gmina Stara Kamienica,5 243,4 243,"38,89",1 525
+2011,020701,kamiennogórski,Miasto Kamienna Góra,20 733,17 045,"45,33",7 310
+2011,020702,kamiennogórski,Gmina Kamienna Góra,8 995,6 909,"43,12",2 802
+2011,020703,kamiennogórski,Gmina Lubawka,11 640,9 349,"44,82",3 971
+2011,020704,kamiennogórski,Gmina Marciszów,4 684,3 730,"39,03",1 358
+2011,020801,kłodzki,Miasto Duszniki-Zdrój,4 916,4 358,"45,25",1 896
+2011,020802,kłodzki,Miasto Kłodzko,27 601,23 475,"48,13",10 815
+2011,020803,kłodzki,Miasto Kudowa-Zdrój,10 225,8 734,"47,96",3 993
+2011,020804,kłodzki,Miasto Nowa Ruda,23 826,19 832,"42,60",8 022
+2011,020805,kłodzki,Miasto Polanica-Zdrój,6 586,6 013,"50,04",2 877
+2011,020806,kłodzki,Gmina Bystrzyca Kłodzka,19 551,16 279,"40,74",6 248
+2011,020807,kłodzki,Gmina Kłodzko,17 294,13 869,"41,47",5 350
+2011,020808,kłodzki,Gmina Lądek-Zdrój,8 697,7 578,"43,31",3 085
+2011,020809,kłodzki,Gmina Lewin Kłodzki,1 950,1 631,"34,58",542
+2011,020810,kłodzki,Gmina Międzylesie,7 602,6 202,"38,02",2 213
+2011,020811,kłodzki,Gmina Nowa Ruda,12 316,10 008,"38,82",3 637
+2011,020812,kłodzki,Gmina Radków,9 398,7 620,"37,97",2 710
+2011,020813,kłodzki,Gmina Stronie Śląskie,7 501,6 214,"39,81",2 308
+2011,020814,kłodzki,Gmina Szczytna,7 425,6 023,"37,84",2 153
+2011,020901,legnicki,Miasto Chojnów,13 991,11 545,"40,81",4 483
+2011,020902,legnicki,Gmina Chojnów,9 352,7 570,"34,54",2 436
+2011,020903,legnicki,Gmina Krotoszyce,3 106,2 496,"43,11",1 011
+2011,020904,legnicki,Gmina Kunice,5 737,4 574,"48,58",2 100
+2011,020905,legnicki,Gmina Legnickie Pole,5 000,3 762,"42,50",1 496
+2011,020906,legnicki,Gmina Miłkowice,6 220,5 055,"43,07",2 059
+2011,020907,legnicki,Gmina Prochowice,7 509,6 000,"39,52",2 205
+2011,020908,legnicki,Gmina Ruja,2 753,2 148,"33,05",672
+2011,021001,lubański,Miasto Lubań,22 039,18 341,"45,41",7 946
+2011,021002,lubański,Miasto Świeradów-Zdrój,4 454,3 866,"44,57",1 638
+2011,021003,lubański,Gmina Leśna,10 547,8 374,"38,62",3 032
+2011,021004,lubański,Gmina Lubań,6 505,5 165,"39,52",1 892
+2011,021005,lubański,Gmina Olszyna,6 609,5 360,"38,92",1 956
+2011,021006,lubański,Gmina Platerówka,1 659,1 315,"42,51",512
+2011,021007,lubański,Gmina Siekierczyn,4 634,4 069,"43,62",1 665
+2011,021101,lubiński,Miasto Lubin,74 258,60 930,"52,00",30 252
+2011,021102,lubiński,Gmina Lubin,13 349,10 478,"48,51",4 771
+2011,021103,lubiński,Gmina Rudna,7 465,5 941,"45,43",2 492
+2011,021104,lubiński,Gmina Ścinawa,10 332,8 379,"42,67",3 322
+2011,021201,lwówecki,Gmina Gryfów Śląski,10 143,8 333,"37,84",3 002
+2011,021202,lwówecki,Gmina Lubomierz,6 110,4 916,"36,72",1 676
+2011,021203,lwówecki,Gmina Lwówek Śląski,17 949,14 344,"39,80",5 357
+2011,021204,lwówecki,Gmina Mirsk,8 818,7 278,"37,11",2 509
+2011,021205,lwówecki,Gmina Wleń,4 402,3 706,"41,69",1 443
+2011,021301,milicki,Gmina Cieszków,4 777,3 746,"38,04",1 325
+2011,021302,milicki,Gmina Krośnice,8 175,6 345,"38,75",2 230
+2011,021303,milicki,Gmina Milicz,24 379,19 500,"43,37",8 010
+2011,021401,oleśnicki,Miasto Oleśnica,36 758,30 210,"50,92",14 843
+2011,021402,oleśnicki,Gmina Bierutów,10 236,8 195,"38,18",2 906
+2011,021403,oleśnicki,Gmina Dobroszyce,6 258,4 960,"39,56",1 791
+2011,021404,oleśnicki,Gmina Dziadowa Kłoda,4 663,3 611,"33,65",1 106
+2011,021405,oleśnicki,Gmina Międzybórz,5 120,3 978,"42,11",1 582
+2011,021406,oleśnicki,Gmina Oleśnica,12 196,9 503,"37,80",3 324
+2011,021407,oleśnicki,Gmina Syców,16 455,13 149,"44,63",5 513
+2011,021408,oleśnicki,Gmina Twardogóra,13 003,10 427,"42,31",4 052
+2011,021501,oławski,Miasto Oława,31 355,25 639,"53,01",13 029
+2011,021502,oławski,Gmina Domaniów,5 277,4 160,"42,09",1 597
+2011,021503,oławski,Gmina Jelcz-Laskowice,22 342,18 011,"46,48",7 920
+2011,021504,oławski,Gmina Oława,14 591,11 465,"43,58",4 761
+2011,021601,polkowicki,Gmina Chocianów,12 997,10 329,"44,55",4 294
+2011,021602,polkowicki,Gmina Gaworzyce,3 879,3 051,"45,13",1 258
+2011,021603,polkowicki,Gmina Grębocice,5 397,4 085,"39,90",1 506
+2011,021604,polkowicki,Gmina Polkowice,26 561,20 679,"48,47",9 338
+2011,021605,polkowicki,Gmina Przemków,8 903,7 083,"38,70",2 558
+2011,021606,polkowicki,Gmina Radwanice,4 610,3 633,"43,66",1 477
+2011,021701,strzeliński,Gmina Borów,5 261,4 245,"43,02",1 696
+2011,021702,strzeliński,Gmina Kondratowice,4 574,3 705,"37,33",1 263
+2011,021703,strzeliński,Gmina Przeworno,5 176,4 168,"36,23",1 399
+2011,021704,strzeliński,Gmina Strzelin,21 779,18 697,"45,78",8 128
+2011,021705,strzeliński,Gmina Wiązów,7 460,5 924,"38,61",2 089
+2011,021801,średzki,Gmina Kostomłoty,7 132,5 704,"37,24",1 918
+2011,021802,średzki,Gmina Malczyce,5 973,4 794,"36,82",1 641
+2011,021803,średzki,Gmina Miękinia,12 777,10 218,"48,18",4 652
+2011,021804,średzki,Gmina Środa Śląska,19 210,15 488,"42,29",6 245
+2011,021805,średzki,Gmina Udanin,5 508,4 556,"36,46",1 521
+2011,021901,świdnicki,Miasto Świdnica,58 769,49 052,"50,97",24 078
+2011,021902,świdnicki,Miasto Świebodzice,22 753,18 720,"43,12",7 570
+2011,021903,świdnicki,Gmina Dobromierz,5 448,4 410,"37,64",1 520
+2011,021904,świdnicki,Gmina Jaworzyna Śląska,10 399,8 394,"38,87",2 995
+2011,021905,świdnicki,Gmina Marcinowice,6 519,5 142,"40,82",1 949
+2011,021906,świdnicki,Gmina Strzegom,27 213,21 949,"39,64",8 087
+2011,021907,świdnicki,Gmina Świdnica,16 106,13 007,"41,89",5 113
+2011,021908,świdnicki,Gmina Żarów,12 599,10 148,"43,79",4 150
+2011,022001,trzebnicki,Gmina Oborniki Śląskie,18 738,15 194,"50,76",7 395
+2011,022002,trzebnicki,Gmina Prusice,9 240,7 419,"37,66",2 566
+2011,022003,trzebnicki,Gmina Trzebnica,22 620,18 036,"45,29",7 841
+2011,022004,trzebnicki,Gmina Wisznia Mała,8 772,7 316,"48,77",3 425
+2011,022005,trzebnicki,Gmina Zawonia,5 671,4 465,"36,77",1 525
+2011,022006,trzebnicki,Gmina Żmigród,15 004,11 903,"37,55",4 145
+2011,022101,wałbrzyski,Miasto Boguszów-Gorce,16 235,13 268,"37,86",4 684
+2011,022102,wałbrzyski,Miasto Jedlina-Zdrój,4 929,4 070,"42,83",1 630
+2011,022103,wałbrzyski,Miasto Szczawno-Zdrój,5 790,5 083,"54,55",2 664
+2011,022104,wałbrzyski,Gmina Czarny Bór,4 867,3 885,"44,68",1 586
+2011,022105,wałbrzyski,Gmina Głuszyca,9 146,7 450,"41,37",2 857
+2011,022106,wałbrzyski,Gmina Mieroszów,7 059,5 946,"35,44",1 969
+2011,022107,wałbrzyski,Gmina Stare Bogaczowice,4 199,3 426,"39,64",1 252
+2011,022108,wałbrzyski,Gmina Walim,5 766,4 760,"36,24",1 603
+2011,022201,wołowski,Gmina Brzeg Dolny,16 009,13 178,"46,52",5 801
+2011,022202,wołowski,Gmina Wińsko,8 674,7 022,"34,66",2 238
+2011,022203,wołowski,Gmina Wołów,22 472,19 739,"43,10",8 022
+2011,022301,wrocławski,Gmina Czernica,10 904,8 648,"58,78",4 884
+2011,022302,wrocławski,Gmina Długołęka,22 918,18 993,"52,26",9 540
+2011,022303,wrocławski,Gmina Jordanów Śląski,3 095,2 518,"40,83",958
+2011,022304,wrocławski,Gmina Kąty Wrocławskie,19 860,15 822,"49,12",7 408
+2011,022305,wrocławski,Gmina Kobierzyce,15 848,12 473,"50,77",6 033
+2011,022306,wrocławski,Gmina Mietków,3 785,3 158,"43,64",1 296
+2011,022307,wrocławski,Gmina Sobótka,12 546,10 183,"42,85",4 132
+2011,022308,wrocławski,Gmina Siechnice,15 663,12 745,"56,64",6 959
+2011,022309,wrocławski,Gmina Żórawina,8 945,7 326,"44,66",3 112
+2011,022401,ząbkowicki,Gmina Bardo,5 502,4 584,"41,10",1 747
+2011,022402,ząbkowicki,Gmina Ciepłowody,3 141,2 581,"33,40",809
+2011,022403,ząbkowicki,Gmina Kamieniec Ząbkowicki,8 548,6 985,"38,87",2 531
+2011,022404,ząbkowicki,Gmina Stoszowice,5 591,4 527,"36,74",1 508
+2011,022405,ząbkowicki,Gmina Ząbkowice Śląskie,22 698,18 729,"44,65",7 957
+2011,022406,ząbkowicki,Gmina Ziębice,18 063,14 777,"35,81",4 988
+2011,022407,ząbkowicki,Gmina Złoty Stok,4 790,3 937,"36,96",1 362
+2011,022501,zgorzelecki,Miasto Zawidów,4 355,3 523,"42,55",1 422
+2011,022502,zgorzelecki,Miasto Zgorzelec,31 827,26 818,"49,78",12 739
+2011,022503,zgorzelecki,Gmina Bogatynia,24 819,19 863,"42,50",7 885
+2011,022504,zgorzelecki,Gmina Pieńsk,9 270,7 394,"36,23",2 497
+2011,022505,zgorzelecki,Gmina Sulików,6 153,4 870,"38,42",1 768
+2011,022506,zgorzelecki,Gmina Węgliniec,8 896,7 156,"37,70",2 437
+2011,022507,zgorzelecki,Gmina Zgorzelec,8 095,6 554,"38,63",2 349
+2011,022601,złotoryjski,Miasto Wojcieszów,3 853,3 130,"35,69",1 004
+2011,022602,złotoryjski,Miasto Złotoryja,16 154,13 461,"46,23",5 828
+2011,022603,złotoryjski,Gmina Pielgrzymka,4 737,3 718,"37,39",1 269
+2011,022604,złotoryjski,Gmina Świerzawa,7 843,6 356,"37,26",2 201
+2011,022605,złotoryjski,Gmina Zagrodno,5 614,4 528,"36,46",1 562
+2011,022606,złotoryjski,Gmina Złotoryja,7 129,5 626,"38,87",2 084
+2011,026101,Jelenia Góra,Miasto Jelenia Góra,81 044,69 032,"50,27",33 527
+2011,026201,Legnica,Miasto Legnica,99 217,81 338,"49,25",38 817
+2011,026401,Wrocław,Miasto Wrocław,592 167,505 199,"59,76",295 264
+2011,022109,Wałbrzych,Miasto Wałbrzych,115 772,97 842,"42,26",39 537
+2011,040101,aleksandrowski,Miasto Aleksandrów Kujawski,12 376,10 080,"43,17",4 093
+2011,040102,aleksandrowski,Miasto Ciechocinek,10 596,10 378,"63,16",6 341
+2011,040103,aleksandrowski,Miasto Nieszawa,2 011,1 658,"47,95",747
+2011,040104,aleksandrowski,Gmina Aleksandrów Kujawski,11 380,8 753,"35,91",2 902
+2011,040105,aleksandrowski,Gmina Bądkowo,4 576,3 619,"37,94",1 262
+2011,040106,aleksandrowski,Gmina Koneck,3 434,2 708,"33,20",844
+2011,040107,aleksandrowski,Gmina Raciążek,3 124,2 537,"43,95",1 036
+2011,040108,aleksandrowski,Gmina Waganiec,4 581,3 575,"36,11",1 191
+2011,040109,aleksandrowski,Gmina Zakrzewo,3 694,2 972,"37,05",1 023
+2011,040201,brodnicki,Miasto Brodnica,27 063,21 723,"47,17",9 893
+2011,040202,brodnicki,Gmina Bobrowo,6 379,4 990,"36,29",1 684
+2011,040203,brodnicki,Gmina Brodnica,7 522,5 643,"39,78",2 126
+2011,040204,brodnicki,Gmina Brzozie,3 802,2 913,"41,74",1 114
+2011,040205,brodnicki,Gmina Górzno,3 996,3 188,"39,15",1 179
+2011,040206,brodnicki,Gmina Bartniczka,4 789,3 650,"39,04",1 311
+2011,040207,brodnicki,Gmina Jabłonowo Pomorskie,9 257,7 206,"38,52",2 553
+2011,040208,brodnicki,Gmina Osiek,4 127,3 199,"33,92",1 002
+2011,040209,brodnicki,Gmina Świedziebnia,5 335,4 074,"41,97",1 615
+2011,040210,brodnicki,Gmina Zbiczno,4 786,3 748,"40,66",1 452
+2011,040301,bydgoski,Gmina Białe Błota,17 206,12 909,"54,92",6 847
+2011,040302,bydgoski,Gmina Dąbrowa Chełmińska,7 701,5 950,"38,62",2 153
+2011,040303,bydgoski,Gmina Dobrcz,10 178,7 878,"44,72",3 245
+2011,040304,bydgoski,Gmina Koronowo,23 672,19 320,"41,56",7 491
+2011,040305,bydgoski,Gmina Nowa Wieś Wielka,9 020,6 999,"43,23",2 811
+2011,040306,bydgoski,Gmina Osielsko,11 153,8 422,"60,45",4 898
+2011,040307,bydgoski,Gmina Sicienko,9 333,7 491,"44,79",3 091
+2011,040308,bydgoski,Gmina Solec Kujawski,16 198,12 790,"49,55",5 887
+2011,040401,chełmiński,Miasto Chełmno,19 664,16 048,"46,40",7 062
+2011,040402,chełmiński,Gmina Chełmno,5 521,4 145,"34,19",1 310
+2011,040403,chełmiński,Gmina Kijewo Królewskie,4 461,3 428,"38,36",1 229
+2011,040404,chełmiński,Gmina Lisewo,5 300,4 071,"35,72",1 365
+2011,040405,chełmiński,Gmina Papowo Biskupie,4 494,3 473,"34,35",1 110
+2011,040406,chełmiński,Gmina Stolno,5 180,4 007,"34,22",1 272
+2011,040407,chełmiński,Gmina Unisław,6 841,5 419,"39,66",2 034
+2011,040501,golubsko-dobrzyński,Miasto Golub-Dobrzyń,12 588,10 096,"43,06",4 141
+2011,040502,golubsko-dobrzyński,Gmina Ciechocin,4 061,3 095,"38,90",1 122
+2011,040503,golubsko-dobrzyński,Gmina Golub-Dobrzyń,8 593,6 651,"33,53",2 104
+2011,040504,golubsko-dobrzyński,Gmina Kowalewo Pomorskie,11 542,9 124,"40,94",3 517
+2011,040505,golubsko-dobrzyński,Gmina Radomin,4 111,3 250,"35,82",1 087
+2011,040506,golubsko-dobrzyński,Gmina Zbójno,4 561,3 478,"33,76",1 093
+2011,040601,grudziądzki,Gmina Grudziądz,11 767,8 983,"40,48",3 444
+2011,040602,grudziądzki,Gmina Gruta,6 682,5 214,"33,51",1 627
+2011,040603,grudziądzki,Gmina Łasin,8 340,6 581,"36,65",2 258
+2011,040604,grudziądzki,Gmina Radzyń Chełmiński,4 983,3 826,"31,21",1 117
+2011,040605,grudziądzki,Gmina Rogóźno,4 251,3 213,"31,12",932
+2011,040606,grudziądzki,Gmina Świecie nad Osą,4 530,3 367,"28,04",829
+2011,040701,inowrocławski,Miasto Inowrocław,73 908,63 316,"49,59",29 878
+2011,040702,inowrocławski,Gmina Dąbrowa Biskupia,5 168,4 041,"28,93",1 072
+2011,040703,inowrocławski,Gmina Gniewkowo,14 663,11 628,"39,24",4 207
+2011,040704,inowrocławski,Gmina Inowrocław,11 453,9 058,"38,42",3 243
+2011,040705,inowrocławski,Gmina Janikowo,13 656,10 923,"42,22",4 283
+2011,040706,inowrocławski,Gmina Kruszwica,19 837,15 991,"39,28",5 790
+2011,040707,inowrocławski,Gmina Pakość,9 991,7 948,"39,54",2 867
+2011,040708,inowrocławski,Gmina Rojewo,4 755,3 699,"36,90",1 223
+2011,040709,inowrocławski,Gmina Złotniki Kujawskie,9 199,7 293,"40,64",2 707
+2011,040801,lipnowski,Miasto Lipno,14 561,11 679,"41,47",4 523
+2011,040802,lipnowski,Gmina Bobrowniki,3 147,2 406,"37,91",833
+2011,040803,lipnowski,Gmina Chrostkowo,3 114,2 429,"26,60",606
+2011,040804,lipnowski,Gmina Dobrzyń nad Wisłą,8 107,6 415,"33,70",1 992
+2011,040805,lipnowski,Gmina Kikół,7 370,5 682,"36,24",1 918
+2011,040806,lipnowski,Gmina Lipno,11 798,8 978,"31,35",2 642
+2011,040807,lipnowski,Gmina Skępe,7 823,6 039,"38,40",2 178
+2011,040808,lipnowski,Gmina Tłuchowo,4 772,3 640,"33,32",1 116
+2011,040809,lipnowski,Gmina Wielgie,6 911,5 196,"31,89",1 499
+2011,040901,mogileński,Gmina Dąbrowa,4 743,3 688,"35,41",1 197
+2011,040902,mogileński,Gmina Jeziora Wielkie,5 096,4 035,"37,47",1 382
+2011,040903,mogileński,Gmina Mogilno,24 923,19 848,"42,37",7 834
+2011,040904,mogileński,Gmina Strzelno,12 135,9 646,"41,59",3 692
+2011,041001,nakielski,Gmina Kcynia,13 768,10 712,"38,91",3 766
+2011,041002,nakielski,Gmina Mrocza,9 329,7 102,"40,05",2 576
+2011,041003,nakielski,Gmina Nakło nad Notecią,31 821,26 510,"45,87",11 291
+2011,041004,nakielski,Gmina Sadki,7 382,5 655,"38,07",1 980
+2011,041005,nakielski,Gmina Szubin,23 476,18 402,"45,70",7 858
+2011,041101,radziejowski,Miasto Radziejów,5 861,4 937,"44,95",2 074
+2011,041102,radziejowski,Gmina Bytoń,3 753,3 039,"33,00",931
+2011,041103,radziejowski,Gmina Dobre,5 580,4 531,"34,39",1 408
+2011,041104,radziejowski,Gmina Osięciny,8 222,6 578,"32,52",1 993
+2011,041105,radziejowski,Gmina Piotrków Kujawski,9 653,7 663,"33,62",2 363
+2011,041106,radziejowski,Gmina Radziejów,4 543,3 607,"35,07",1 181
+2011,041107,radziejowski,Gmina Topólka,5 122,4 109,"35,29",1 323
+2011,041201,rypiński,Miasto Rypin,16 674,13 399,"44,41",5 687
+2011,041202,rypiński,Gmina Brzuze,5 435,4 312,"32,68",1 301
+2011,041203,rypiński,Gmina Rogowo,4 974,3 854,"29,42",1 041
+2011,041204,rypiński,Gmina Rypin,7 589,5 829,"27,93",1 566
+2011,041205,rypiński,Gmina Skrwilno,6 296,4 888,"34,33",1 562
+2011,041206,rypiński,Gmina Wąpielsk,4 265,3 299,"28,04",870
+2011,041301,sępoleński,Gmina Kamień Krajeński,7 097,5 481,"36,00",1 826
+2011,041302,sępoleński,Gmina Sępólno Krajeńskie,16 106,12 680,"41,41",4 948
+2011,041303,sępoleński,Gmina Sośno,5 296,4 099,"35,13",1 278
+2011,041304,sępoleński,Gmina Więcbork,13 431,10 418,"40,41",3 934
+2011,041401,świecki,Gmina Bukowiec,5 198,3 986,"35,15",1 274
+2011,041402,świecki,Gmina Dragacz,7 140,5 592,"36,98",1 924
+2011,041403,świecki,Gmina Drzycim,5 119,3 966,"36,49",1 321
+2011,041404,świecki,Gmina Jeżewo,7 922,6 141,"38,85",2 198
+2011,041405,świecki,Gmina Lniano,4 229,3 256,"43,15",1 299
+2011,041406,świecki,Gmina Nowe,10 628,8 631,"34,39",2 809
+2011,041407,świecki,Gmina Osie,5 421,4 249,"39,70",1 551
+2011,041408,świecki,Gmina Pruszcz,9 449,7 400,"42,76",2 925
+2011,041409,świecki,Gmina Świecie,33 097,26 690,"45,67",11 361
+2011,041410,świecki,Gmina Świekatowo,3 576,2 776,"41,64",1 035
+2011,041411,świecki,Gmina Warlubie,6 527,5 139,"32,17",1 532
+2011,041501,toruński,Miasto Chełmża,14 706,11 775,"42,32",4 671
+2011,041502,toruński,Gmina Chełmża,9 712,7 508,"33,86",2 292
+2011,041503,toruński,Gmina Czernikowo,8 852,6 819,"33,85",2 163
+2011,041504,toruński,Gmina Lubicz,18 286,13 992,"47,73",6 414
+2011,041505,toruński,Gmina Łubianka,6 289,4 760,"44,94",2 011
+2011,041506,toruński,Gmina Łysomice,9 127,7 052,"43,35",2 922
+2011,041507,toruński,Gmina Obrowo,12 718,9 611,"44,84",4 130
+2011,041508,toruński,Gmina Wielka Nieszawka,4 563,3 512,"49,63",1 655
+2011,041509,toruński,Gmina Zławieś Wielka,12 575,9 482,"43,50",3 925
+2011,041601,tucholski,Gmina Cekcyn,6 634,5 168,"42,09",1 959
+2011,041602,tucholski,Gmina Gostycyn,5 365,4 130,"43,00",1 603
+2011,041603,tucholski,Gmina Kęsowo,4 577,3 523,"36,13",1 152
+2011,041604,tucholski,Gmina Lubiewo,5 880,4 462,"43,37",1 784
+2011,041605,tucholski,Gmina Śliwice,5 601,4 308,"42,55",1 694
+2011,041606,tucholski,Gmina Tuchola,20 052,16 021,"46,25",6 990
+2011,041701,wąbrzeski,Miasto Wąbrzeźno,13 826,11 206,"43,57",4 589
+2011,041702,wąbrzeski,Gmina Dębowa Łąka,3 345,2 538,"36,68",868
+2011,041703,wąbrzeski,Gmina Książki,4 360,3 372,"36,27",1 173
+2011,041704,wąbrzeski,Gmina Płużnica,5 012,3 921,"31,62",1 172
+2011,041705,wąbrzeski,Gmina Wąbrzeźno,8 753,6 763,"31,79",2 008
+2011,041801,włocławski,Miasto Kowal,3 509,2 892,"44,88",1 202
+2011,041802,włocławski,Gmina Baruchowo,3 594,2 869,"35,69",957
+2011,041803,włocławski,Gmina Boniewo,3 602,2 839,"32,30",845
+2011,041804,włocławski,Gmina Brześć Kujawski,11 573,9 270,"36,13",3 130
+2011,041805,włocławski,Gmina Choceń,8 114,6 536,"31,55",1 910
+2011,041806,włocławski,Gmina Chodecz,6 324,5 152,"31,97",1 549
+2011,041807,włocławski,Gmina Fabianki,9 339,7 354,"35,52",2 544
+2011,041808,włocławski,Gmina Izbica Kujawska,8 006,6 260,"31,47",1 807
+2011,041809,włocławski,Gmina Kowal,4 028,3 221,"34,59",998
+2011,041810,włocławski,Gmina Lubanie,4 697,3 744,"34,51",1 182
+2011,041811,włocławski,Gmina Lubień Kujawski,7 668,6 131,"31,07",1 757
+2011,041812,włocławski,Gmina Lubraniec,10 215,8 166,"39,51",2 977
+2011,041813,włocławski,Gmina Włocławek,6 996,5 513,"37,58",1 918
+2011,041901,żniński,Gmina Barcin,14 667,11 703,"42,25",4 606
+2011,041902,żniński,Gmina Gąsawa,5 339,4 220,"43,65",1 691
+2011,041903,żniński,Gmina Janowiec Wielkopolski,9 380,7 498,"39,37",2 724
+2011,041904,żniński,Gmina Łabiszyn,9 704,7 511,"39,34",2 700
+2011,041905,żniński,Gmina Rogowo,6 998,5 516,"43,47",2 187
+2011,041906,żniński,Gmina Żnin,24 656,19 734,"46,61",8 543
+2011,046101,Bydgoszcz,Miasto Bydgoszcz,342 640,287 027,"55,89",155 507
+2011,046201,Grudziądz,Miasto Grudziądz,94 158,78 001,"46,44",34 848
+2011,046301,Toruń,Miasto Toruń,191 512,159 935,"55,76",87 029
+2011,046401,Włocławek,Miasto Włocławek,113 244,94 381,"48,98",44 391
+2011,060101,bialski,Miasto Międzyrzec Podlaski,17 438,13 981,"50,62",6 689
+2011,060102,bialski,Miasto Terespol,5 965,4 678,"50,53",2 236
+2011,060103,bialski,Gmina Biała Podlaska,13 474,10 198,"47,50",4 593
+2011,060104,bialski,Gmina Drelów,5 674,4 389,"39,12",1 610
+2011,060105,bialski,Gmina Janów Podlaski,5 596,4 400,"41,27",1 710
+2011,060106,bialski,Gmina Kodeń,3 919,3 181,"44,04",1 314
+2011,060107,bialski,Gmina Konstantynów,4 156,3 300,"44,00",1 323
+2011,060108,bialski,Gmina Leśna Podlaska,4 418,3 463,"44,53",1 445
+2011,060109,bialski,Gmina Łomazy,5 395,4 261,"48,06",1 945
+2011,060110,bialski,Gmina Międzyrzec Podlaski,10 646,8 019,"44,08",3 320
+2011,060111,bialski,Gmina Piszczac,7 615,5 918,"37,61",2 085
+2011,060112,bialski,Gmina Rokitno,3 279,2 580,"39,65",969
+2011,060113,bialski,Gmina Rossosz,2 457,1 924,"45,06",821
+2011,060114,bialski,Gmina Sławatycze,2 629,2 103,"46,79",919
+2011,060115,bialski,Gmina Sosnówka,2 741,2 252,"37,43",793
+2011,060116,bialski,Gmina Terespol,7 021,5 561,"43,93",2 240
+2011,060117,bialski,Gmina Tuczna,3 516,2 813,"41,59",1 107
+2011,060118,bialski,Gmina Wisznice,5 350,4 265,"43,80",1 791
+2011,060119,bialski,Gmina Zalesie,4 576,3 566,"40,75",1 375
+2011,060201,biłgorajski,Miasto Biłgoraj,27 221,21 863,"52,16",11 022
+2011,060202,biłgorajski,Gmina Aleksandrów,3 318,2 491,"44,08",1 050
+2011,060203,biłgorajski,Gmina Biłgoraj,13 108,10 199,"45,38",4 372
+2011,060204,biłgorajski,Gmina Biszcza,4 012,3 166,"43,24",1 303
+2011,060205,biłgorajski,Gmina Frampol,6 534,5 252,"39,76",2 010
+2011,060206,biłgorajski,Gmina Goraj,4 442,3 598,"37,55",1 260
+2011,060207,biłgorajski,Gmina Józefów,7 307,5 858,"41,29",2 295
+2011,060208,biłgorajski,Gmina Księżpol,6 923,5 341,"42,61",2 139
+2011,060209,biłgorajski,Gmina Łukowa,4 517,3 499,"46,76",1 556
+2011,060210,biłgorajski,Gmina Obsza,4 458,3 470,"42,54",1 391
+2011,060211,biłgorajski,Gmina Potok Górny,5 691,4 537,"44,06",1 892
+2011,060212,biłgorajski,Gmina Tarnogród,7 024,5 564,"46,39",2 447
+2011,060213,biłgorajski,Gmina Tereszpol,4 057,3 186,"38,42",1 136
+2011,060214,biłgorajski,Gmina Turobin,6 816,5 658,"42,36",2 309
+2011,060301,chełmski,Miasto Rejowiec Fabryczny,4 598,3 668,"37,10",1 254
+2011,060302,chełmski,Gmina Białopole,3 274,2 659,"35,05",835
+2011,060303,chełmski,Gmina Chełm,13 736,10 770,"40,99",4 167
+2011,060304,chełmski,Gmina Dorohusk,6 897,5 571,"35,70",1 829
+2011,060305,chełmski,Gmina Dubienka,2 607,2 187,"34,39",700
+2011,060306,chełmski,Gmina Kamień,4 120,3 217,"37,80",1 112
+2011,060307,chełmski,Gmina Leśniowice,3 981,3 192,"30,83",925
+2011,060308,chełmski,Gmina Rejowiec Fabryczny,4 497,3 615,"30,57",1 001
+2011,060309,chełmski,Gmina Ruda-Huta,4 806,3 829,"33,25",1 153
+2011,060310,chełmski,Gmina Sawin,5 862,4 684,"36,19",1 555
+2011,060311,chełmski,Gmina Siedliszcze,7 101,5 672,"30,50",1 536
+2011,060312,chełmski,Gmina Wierzbica,5 503,4 313,"40,06",1 552
+2011,060313,chełmski,Gmina Wojsławice,4 115,3 326,"33,13",1 027
+2011,060314,chełmski,Gmina Żmudź,3 349,2 682,"33,15",834
+2011,060315,chełmski,Gmina Rejowiec,6 758,5 430,"31,62",1 586
+2011,060401,hrubieszowski,Miasto Hrubieszów,18 978,15 715,"43,40",6 493
+2011,060402,hrubieszowski,Gmina Dołhobyczów,6 237,5 040,"31,55",1 497
+2011,060403,hrubieszowski,Gmina Horodło,5 725,4 630,"30,63",1 273
+2011,060404,hrubieszowski,Gmina Hrubieszów,10 918,8 551,"32,67",2 612
+2011,060405,hrubieszowski,Gmina Mircze,7 784,6 521,"30,85",1 910
+2011,060406,hrubieszowski,Gmina Trzeszczany,4 700,3 800,"33,05",1 155
+2011,060407,hrubieszowski,Gmina Uchanie,5 023,4 123,"35,65",1 353
+2011,060408,hrubieszowski,Gmina Werbkowice,10 327,8 222,"35,02",2 702
+2011,060501,janowski,Gmina Batorz,3 572,2 791,"48,30",1 298
+2011,060502,janowski,Gmina Chrzanów,3 157,2 507,"52,21",1 271
+2011,060503,janowski,Gmina Dzwola,6 704,5 338,"48,93",2 499
+2011,060504,janowski,Gmina Godziszów,6 227,4 866,"61,73",2 895
+2011,060505,janowski,Gmina Janów Lubelski,16 503,13 326,"51,46",6 644
+2011,060506,janowski,Gmina Modliborzyce,7 389,5 869,"42,29",2 373
+2011,060507,janowski,Gmina Potok Wielki,4 997,3 879,"37,92",1 388
+2011,060601,krasnostawski,Miasto Krasnystaw,19 731,16 545,"45,14",7 089
+2011,060602,krasnostawski,Gmina Fajsławice,4 951,4 008,"41,49",1 564
+2011,060603,krasnostawski,Gmina Gorzków,3 823,3 250,"39,08",1 200
+2011,060604,krasnostawski,Gmina Izbica,8 760,7 193,"37,04",2 489
+2011,060605,krasnostawski,Gmina Krasnystaw,9 061,7 384,"36,35",2 539
+2011,060606,krasnostawski,Gmina Kraśniczyn,4 067,3 465,"39,88",1 304
+2011,060607,krasnostawski,Gmina Łopiennik Górny,4 227,3 476,"33,72",1 082
+2011,060609,krasnostawski,Gmina Rudnik,3 404,2 816,"33,20",887
+2011,060610,krasnostawski,Gmina Siennica Różana,4 258,3 473,"42,87",1 419
+2011,060611,krasnostawski,Gmina Żółkiewka,5 979,4 981,"36,60",1 672
+2011,060701,kraśnicki,Miasto Kraśnik,36 005,29 902,"52,09",14 881
+2011,060702,kraśnicki,Gmina Annopol,9 238,7 366,"39,08",2 659
+2011,060703,kraśnicki,Gmina Dzierzkowice,5 510,4 359,"43,04",1 776
+2011,060704,kraśnicki,Gmina Gościeradów,7 478,5 814,"35,62",1 920
+2011,060705,kraśnicki,Gmina Kraśnik,7 369,5 764,"45,94",2 522
+2011,060706,kraśnicki,Gmina Szastarka,6 129,4 888,"41,41",1 925
+2011,060707,kraśnicki,Gmina Trzydnik Duży,6 803,5 481,"39,17",2 044
+2011,060708,kraśnicki,Gmina Urzędów,8 842,7 000,"45,04",2 944
+2011,060709,kraśnicki,Gmina Wilkołaz,5 536,4 379,"49,97",2 111
+2011,060710,kraśnicki,Gmina Zakrzówek,6 949,5 610,"41,59",2 260
+2011,060801,lubartowski,Miasto Lubartów,22 664,18 383,"53,07",9 381
+2011,060802,lubartowski,Gmina Abramów,4 310,3 445,"43,72",1 415
+2011,060803,lubartowski,Gmina Firlej,6 058,4 778,"37,42",1 653
+2011,060804,lubartowski,Gmina Jeziorzany,3 044,2 464,"36,61",832
+2011,060805,lubartowski,Gmina Kamionka,6 445,5 121,"40,13",1 912
+2011,060806,lubartowski,Gmina Kock,6 938,5 456,"40,60",2 117
+2011,060807,lubartowski,Gmina Lubartów,10 763,8 343,"45,02",3 579
+2011,060808,lubartowski,Gmina Michów,6 357,5 106,"40,46",1 940
+2011,060809,lubartowski,Gmina Niedźwiada,6 472,5 062,"42,89",2 049
+2011,060810,lubartowski,Gmina Ostrów Lubelski,5 536,4 394,"44,74",1 868
+2011,060811,lubartowski,Gmina Ostrówek,4 173,3 261,"36,49",1 137
+2011,060812,lubartowski,Gmina Serniki,4 912,3 882,"45,23",1 617
+2011,060813,lubartowski,Gmina Uścimów,3 402,2 712,"41,74",1 077
+2011,060901,lubelski,Gmina Bełżyce,13 652,10 895,"45,76",4 776
+2011,060902,lubelski,Gmina Borzechów,3 892,3 186,"50,41",1 528
+2011,060903,lubelski,Gmina Bychawa,12 278,9 771,"41,11",3 773
+2011,060904,lubelski,Gmina Garbów,8 914,7 101,"43,35",2 921
+2011,060905,lubelski,Gmina Głusk,8 648,6 666,"50,75",3 252
+2011,060906,lubelski,Gmina Jabłonna,7 792,6 184,"37,74",2 213
+2011,060907,lubelski,Gmina Jastków,12 871,10 014,"51,77",4 969
+2011,060908,lubelski,Gmina Konopnica,11 924,9 662,"53,60",5 015
+2011,060909,lubelski,Gmina Krzczonów,4 786,4 067,"37,10",1 421
+2011,060910,lubelski,Gmina Niedrzwica Duża,11 340,8 784,"49,54",4 138
+2011,060911,lubelski,Gmina Niemce,17 489,13 635,"49,12",6 413
+2011,060912,lubelski,Gmina Strzyżewice,7 571,6 027,"41,93",2 421
+2011,060913,lubelski,Gmina Wojciechów,5 951,4 756,"37,80",1 710
+2011,060914,lubelski,Gmina Wólka,10 111,7 690,"50,10",3 700
+2011,060915,lubelski,Gmina Wysokie,4 891,3 997,"39,88",1 510
+2011,060916,lubelski,Gmina Zakrzew,3 441,2 654,"38,02",949
+2011,061001,łęczyński,Gmina Cyców,7 857,6 051,"37,38",2 134
+2011,061002,łęczyński,Gmina Ludwin,5 208,4 051,"38,48",1 442
+2011,061003,łęczyński,Gmina Łęczna,24 370,19 666,"48,11",9 064
+2011,061004,łęczyński,Gmina Milejów,9 305,7 379,"35,38",2 433
+2011,061005,łęczyński,Gmina Puchaczów,5 154,4 145,"41,28",1 636
+2011,061006,łęczyński,Gmina Spiczyn,5 427,4 255,"40,56",1 619
+2011,061101,łukowski,Miasto Łuków,30 915,24 626,"51,66",12 261
+2011,061102,łukowski,Miasto Stoczek Łukowski,2 758,2 177,"52,14",1 084
+2011,061103,łukowski,Gmina Adamów,5 971,4 686,"40,42",1 778
+2011,061104,łukowski,Gmina Krzywda,10 890,8 192,"37,10",2 762
+2011,061105,łukowski,Gmina Łuków,17 532,13 029,"42,51",5 250
+2011,061106,łukowski,Gmina Serokomla,4 371,3 430,"33,94",1 080
+2011,061107,łukowski,Gmina Stanin,10 018,7 613,"46,84",3 321
+2011,061108,łukowski,Gmina Stoczek Łukowski,8 493,6 694,"42,26",2 638
+2011,061109,łukowski,Gmina Trzebieszów,7 748,5 868,"47,27",2 653
+2011,061110,łukowski,Gmina Wojcieszków,7 210,5 579,"38,05",1 922
+2011,061111,łukowski,Gmina Wola Mysłowska,5 220,4 123,"38,44",1 469
+2011,061201,opolski,Gmina Chodel,6 896,5 375,"40,00",1 999
+2011,061202,opolski,Gmina Józefów nad Wisłą,7 083,5 694,"33,42",1 795
+2011,061203,opolski,Gmina Karczmiska,5 938,4 792,"36,35",1 621
+2011,061204,opolski,Gmina Łaziska,5 262,4 202,"36,05",1 424
+2011,061205,opolski,Gmina Opole Lubelskie,18 203,15 158,"39,60",5 695
+2011,061206,opolski,Gmina Poniatowa,15 188,12 359,"42,57",5 026
+2011,061207,opolski,Gmina Wilków,4 829,3 902,"42,29",1 521
+2011,061301,parczewski,Gmina Dębowa Kłoda,4 155,3 324,"35,08",1 124
+2011,061302,parczewski,Gmina Jabłoń,4 113,3 245,"49,49",1 538
+2011,061303,parczewski,Gmina Milanów,4 169,3 283,"41,40",1 273
+2011,061304,parczewski,Gmina Parczew,15 308,12 422,"44,45",5 251
+2011,061305,parczewski,Gmina Podedwórze,1 878,1 545,"41,49",608
+2011,061306,parczewski,Gmina Siemień,4 913,3 944,"38,59",1 452
+2011,061307,parczewski,Gmina Sosnowica,2 777,2 285,"38,38",819
+2011,061401,puławski,Miasto Puławy,49 605,40 479,"54,55",21 463
+2011,061402,puławski,Gmina Baranów,4 192,3 447,"43,05",1 392
+2011,061403,puławski,Gmina Janowiec,3 721,3 103,"42,64",1 271
+2011,061404,puławski,Gmina Kazimierz Dolny,7 067,5 883,"45,08",2 537
+2011,061405,puławski,Gmina Końskowola,9 165,7 360,"46,66",3 271
+2011,061406,puławski,Gmina Kurów,7 953,6 403,"44,62",2 765
+2011,061407,puławski,Gmina Markuszów,3 072,2 476,"46,93",1 104
+2011,061408,puławski,Gmina Nałęczów,9 308,8 675,"50,41",4 171
+2011,061409,puławski,Gmina Puławy,11 746,9 409,"43,55",3 903
+2011,061410,puławski,Gmina Wąwolnica,4 796,3 862,"42,18",1 545
+2011,061411,puławski,Gmina Żyrzyn,6 716,5 377,"47,33",2 338
+2011,061501,radzyński,Miasto Radzyń Podlaski,16 490,13 349,"51,18",6 523
+2011,061502,radzyński,Gmina Borki,6 296,4 836,"36,54",1 660
+2011,061503,radzyński,Gmina Czemierniki,4 678,3 697,"53,26",1 898
+2011,061504,radzyński,Gmina Kąkolewnica,8 684,6 731,"42,92",2 698
+2011,061505,radzyński,Gmina Komarówka Podlaska,4 834,3 876,"45,02",1 618
+2011,061506,radzyński,Gmina Radzyń Podlaski,8 256,6 395,"43,22",2 640
+2011,061507,radzyński,Gmina Ulan-Majorat,6 292,4 796,"45,02",2 071
+2011,061508,radzyński,Gmina Wohyń,7 261,5 814,"39,68",2 183
+2011,061601,rycki,Miasto Dęblin,17 263,14 000,"51,11",6 782
+2011,061602,rycki,Gmina Kłoczew,7 622,5 939,"43,44",2 453
+2011,061603,rycki,Gmina Nowodwór,4 344,3 354,"44,31",1 384
+2011,061604,rycki,Gmina Ryki,21 213,17 033,"49,25",8 041
+2011,061605,rycki,Gmina Stężyca,5 520,4 496,"49,35",2 081
+2011,061606,rycki,Gmina Ułęż,3 437,2 876,"46,97",1 285
+2011,061701,świdnicki,Miasto Świdnik,40 185,33 129,"53,50",17 173
+2011,061702,świdnicki,Gmina Mełgiew,8 864,6 968,"45,72",3 067
+2011,061703,świdnicki,Gmina Piaski,10 648,8 667,"39,07",3 223
+2011,061704,świdnicki,Gmina Rybczewice,3 747,3 104,"35,18",1 053
+2011,061705,świdnicki,Gmina Trawniki,9 296,7 385,"33,46",2 327
+2011,061801,tomaszowski,Miasto Tomaszów Lubelski,20 573,16 985,"46,85",7 688
+2011,061802,tomaszowski,Gmina Bełżec,3 530,2 791,"37,19",959
+2011,061803,tomaszowski,Gmina Jarczów,3 759,3 012,"38,01",1 065
+2011,061804,tomaszowski,Gmina Krynice,3 567,2 902,"39,32",1 072
+2011,061805,tomaszowski,Gmina Lubycza Królewska,6 809,5 404,"29,00",1 449
+2011,061806,tomaszowski,Gmina Łaszczów,6 657,5 409,"37,49",1 908
+2011,061807,tomaszowski,Gmina Rachanie,5 705,4 657,"40,69",1 738
+2011,061808,tomaszowski,Gmina Susiec,8 045,6 451,"40,85",2 472
+2011,061809,tomaszowski,Gmina Tarnawatka,4 197,3 267,"37,28",1 132
+2011,061810,tomaszowski,Gmina Telatyn,4 529,3 612,"39,29",1 351
+2011,061811,tomaszowski,Gmina Tomaszów Lubelski,11 292,8 879,"37,83",3 201
+2011,061812,tomaszowski,Gmina Tyszowce,6 180,4 972,"34,01",1 573
+2011,061813,tomaszowski,Gmina Ulhówek,5 284,4 288,"29,17",1 158
+2011,061901,włodawski,Miasto Włodawa,13 772,11 656,"46,61",5 207
+2011,061902,włodawski,Gmina Hanna,3 259,2 664,"37,73",939
+2011,061903,włodawski,Gmina Hańsk,4 021,3 116,"38,09",1 082
+2011,061904,włodawski,Gmina Stary Brus,2 221,1 815,"40,11",689
+2011,061905,włodawski,Gmina Urszulin,4 263,3 340,"40,81",1 256
+2011,061906,włodawski,Gmina Włodawa,6 072,5 052,"39,37",1 854
+2011,061907,włodawski,Gmina Wola Uhruska,4 108,3 411,"36,62",1 188
+2011,061908,włodawski,Gmina Wyryki,2 820,2 307,"34,55",743
+2011,062001,zamojski,Gmina Adamów,5 026,3 980,"38,84",1 457
+2011,062002,zamojski,Gmina Grabowiec,4 563,3 721,"32,79",1 123
+2011,062003,zamojski,Gmina Komarów-Osada,5 489,4 474,"44,93",1 884
+2011,062004,zamojski,Gmina Krasnobród,7 401,5 808,"49,14",2 666
+2011,062005,zamojski,Gmina Łabunie,6 397,4 992,"46,05",2 161
+2011,062006,zamojski,Gmina Miączyn,6 275,4 927,"35,88",1 646
+2011,062007,zamojski,Gmina Nielisz,5 981,4 884,"34,54",1 568
+2011,062008,zamojski,Gmina Radecznica,6 088,5 279,"38,93",1 958
+2011,062009,zamojski,Gmina Sitno,6 977,5 519,"41,02",2 144
+2011,062010,zamojski,Gmina Skierbieszów,5 584,4 501,"40,79",1 733
+2011,062011,zamojski,Gmina Stary Zamość,5 533,4 485,"41,98",1 791
+2011,062012,zamojski,Gmina Sułów,4 968,4 055,"33,14",1 258
+2011,062013,zamojski,Gmina Szczebrzeszyn,12 061,9 735,"39,03",3 522
+2011,062014,zamojski,Gmina Zamość,22 070,17 298,"44,05",7 252
+2011,062015,zamojski,Gmina Zwierzyniec,7 203,5 853,"37,11",2 021
+2011,066101,Biała Podlaska,Miasto Biała Podlaska,57 123,45 960,"52,83",23 489
+2011,066201,Chełm,Miasto Chełm,65 977,55 080,"49,55",26 149
+2011,066301,Lublin,Miasto Lublin,331 690,276 983,"57,91",157 203
+2011,066401,Zamość,Miasto Zamość,65 566,54 060,"48,50",25 254
+2011,080101,gorzowski,Miasto Kostrzyn nad Odrą,17 587,13 918,"43,72",5 705
+2011,080102,gorzowski,Gmina Bogdaniec,6 833,5 359,"40,21",2 028
+2011,080103,gorzowski,Gmina Deszczno,8 297,6 557,"41,42",2 524
+2011,080104,gorzowski,Gmina Kłodawa,7 366,5 824,"52,11",2 861
+2011,080105,gorzowski,Gmina Lubiszyn,6 816,5 372,"34,81",1 699
+2011,080106,gorzowski,Gmina Santok,7 858,6 206,"39,14",2 248
+2011,080107,gorzowski,Gmina Witnica,12 950,10 093,"36,24",3 422
+2011,080201,krośnieński,Miasto Gubin,16 749,13 525,"42,31",5 379
+2011,080202,krośnieński,Gmina Bobrowice,3 226,2 600,"37,23",855
+2011,080203,krośnieński,Gmina Bytnica,2 641,2 099,"29,25",547
+2011,080204,krośnieński,Gmina Dąbie,5 101,3 936,"34,60",1 224
+2011,080205,krośnieński,Gmina Gubin,7 412,5 936,"33,10",1 799
+2011,080206,krośnieński,Gmina Krosno Odrzańskie,18 458,15 005,"42,97",5 998
+2011,080207,krośnieński,Gmina Maszewo,2 961,2 334,"25,49",520
+2011,080301,międzyrzecki,Gmina Bledzew,4 662,3 725,"33,32",1 166
+2011,080302,międzyrzecki,Gmina Międzyrzecz,24 706,20 855,"43,93",8 577
+2011,080303,międzyrzecki,Gmina Przytoczna,5 775,4 599,"36,62",1 513
+2011,080304,międzyrzecki,Gmina Pszczew,4 227,3 408,"39,94",1 213
+2011,080305,międzyrzecki,Gmina Skwierzyna,12 376,10 118,"41,08",3 860
+2011,080306,międzyrzecki,Gmina Trzciel,6 506,5 186,"37,22",1 744
+2011,080401,nowosolski,Miasto Nowa Sól,39 125,32 311,"46,48",14 316
+2011,080402,nowosolski,Gmina Bytom Odrzański,5 519,4 317,"39,98",1 596
+2011,080403,nowosolski,Gmina Kolsko,3 305,2 615,"35,49",844
+2011,080404,nowosolski,Gmina Kożuchów,16 303,12 870,"37,61",4 521
+2011,080405,nowosolski,Gmina Nowa Sól,6 786,5 339,"37,70",1 859
+2011,080406,nowosolski,Gmina Nowe Miasteczko,5 469,4 410,"38,21",1 596
+2011,080407,nowosolski,Gmina Otyń,6 509,5 042,"37,41",1 748
+2011,080408,nowosolski,Gmina Siedlisko,3 594,2 751,"34,24",861
+2011,080501,słubicki,Gmina Cybinka,6 872,5 387,"31,93",1 575
+2011,080502,słubicki,Gmina Górzyca,4 259,3 266,"35,00",1 017
+2011,080503,słubicki,Gmina Ośno Lubuskie,6 575,5 153,"37,47",1 748
+2011,080504,słubicki,Gmina Rzepin,9 951,7 829,"39,11",2 821
+2011,080505,słubicki,Gmina Słubice,18 865,15 392,"45,72",6 667
+2011,080601,strzelecko-drezdenecki,Gmina Dobiegniew,6 957,5 641,"34,55",1 800
+2011,080602,strzelecko-drezdenecki,Gmina Drezdenko,17 581,13 984,"39,03",5 114
+2011,080603,strzelecko-drezdenecki,Gmina Stare Kurowo,4 243,3 340,"37,01",1 098
+2011,080604,strzelecko-drezdenecki,Gmina Strzelce Krajeńskie,17 479,13 884,"37,85",4 866
+2011,080605,strzelecko-drezdenecki,Gmina Zwierzyn,4 445,3 445,"35,65",1 145
+2011,080701,sulęciński,Gmina Krzeszyce,4 637,3 716,"37,27",1 270
+2011,080702,sulęciński,Gmina Lubniewice,3 096,2 566,"41,62",936
+2011,080703,sulęciński,Gmina Słońsk,4 872,4 134,"36,43",1 353
+2011,080704,sulęciński,Gmina Sulęcin,15 876,12 637,"42,51",4 989
+2011,080705,sulęciński,Gmina Torzym,6 879,5 535,"33,98",1 726
+2011,080801,świebodziński,Gmina Lubrza,3 511,2 743,"36,68",909
+2011,080802,świebodziński,Gmina Łagów,5 308,4 282,"36,71",1 425
+2011,080803,świebodziński,Gmina Skąpe,5 050,4 198,"37,37",1 457
+2011,080804,świebodziński,Gmina Szczaniec,3 974,3 061,"38,68",1 069
+2011,080805,świebodziński,Gmina Świebodzin,29 685,23 632,"45,39",10 249
+2011,080806,świebodziński,Gmina Zbąszynek,8 338,6 644,"46,19",2 842
+2011,080901,zielonogórski,Gmina Babimost,6 268,4 974,"44,35",2 020
+2011,080902,zielonogórski,Gmina Bojadła,3 371,2 732,"33,71",827
+2011,080903,zielonogórski,Gmina Czerwieńsk,9 561,7 593,"41,50",2 932
+2011,080904,zielonogórski,Gmina Kargowa,5 834,4 645,"42,28",1 805
+2011,080905,zielonogórski,Gmina Nowogród Bobrzański,9 317,8 254,"39,02",2 901
+2011,080906,zielonogórski,Gmina Sulechów,25 966,21 033,"43,92",8 680
+2011,080907,zielonogórski,Gmina Świdnica,6 072,4 813,"47,41",2 151
+2011,080908,zielonogórski,Gmina Trzebiechów,3 290,2 569,"32,97",733
+2011,080909,zielonogórski,Gmina Zabór,3 732,2 948,"42,81",1 182
+2011,080910,zielonogórski,Gmina Zielona Góra,17 990,14 141,"50,91",6 853
+2011,081001,żagański,Miasto Gozdnica,3 415,2 765,"30,02",777
+2011,081002,żagański,Miasto Żagań,26 031,21 268,"44,98",9 117
+2011,081003,żagański,Gmina Brzeźnica,3 920,2 971,"36,42",991
+2011,081004,żagański,Gmina Iłowa,7 071,5 759,"35,94",1 909
+2011,081005,żagański,Gmina Małomice,5 416,4 404,"34,36",1 403
+2011,081006,żagański,Gmina Niegosławice,4 689,3 647,"32,85",1 073
+2011,081007,żagański,Gmina Szprotawa,21 705,17 342,"36,52",5 921
+2011,081008,żagański,Gmina Wymiarki,2 419,1 975,"31,24",557
+2011,081009,żagański,Gmina Żagań,7 114,5 535,"35,95",1 850
+2011,081101,żarski,Miasto Łęknica,2 593,2 018,"36,42",689
+2011,081102,żarski,Miasto Żary,38 652,31 265,"46,85",14 023
+2011,081103,żarski,Gmina Brody,3 546,2 769,"30,52",754
+2011,081104,żarski,Gmina Jasień,7 287,5 790,"35,98",1 903
+2011,081105,żarski,Gmina Lipinki Łużyckie,3 264,2 591,"32,96",811
+2011,081106,żarski,Gmina Lubsko,19 393,15 441,"36,89",5 306
+2011,081107,żarski,Gmina Przewóz,3 277,2 541,"34,75",804
+2011,081108,żarski,Gmina Trzebiel,5 870,4 619,"34,10",1 445
+2011,081109,żarski,Gmina Tuplice,3 234,2 630,"32,74",794
+2011,081110,żarski,Gmina Żary,11 945,9 397,"36,63",3 252
+2011,081201,wschowski,Gmina Sława,12 405,9 746,"39,90",3 581
+2011,081202,wschowski,Gmina Szlichtyngowa,5 189,3 985,"37,67",1 366
+2011,081203,wschowski,Gmina Wschowa,21 459,17 088,"40,08",6 359
+2011,086101,Gorzów Wielkopolski,Miasto Gorzów Wielkopolski,120 385,99 037,"50,80",48 434
+2011,086201,Zielona Góra,Miasto Zielona Góra,112 264,92 950,"56,66",51 154
+2011,100101,bełchatowski,Miasto Bełchatów,60 247,49 348,"52,59",24 516
+2011,100102,bełchatowski,Gmina Bełchatów,10 240,8 234,"48,97",3 787
+2011,100103,bełchatowski,Gmina Drużbice,5 008,4 097,"42,01",1 603
+2011,100104,bełchatowski,Gmina Kleszczów,4 975,3 692,"44,72",1 529
+2011,100105,bełchatowski,Gmina Kluki,4 157,3 298,"40,81",1 207
+2011,100106,bełchatowski,Gmina Rusiec,5 203,4 270,"49,58",1 928
+2011,100107,bełchatowski,Gmina Szczerców,7 987,6 337,"44,66",2 665
+2011,100108,bełchatowski,Gmina Zelów,15 237,12 209,"45,14",5 118
+2011,100201,kutnowski,Miasto Kutno,45 968,38 682,"47,61",17 491
+2011,100202,kutnowski,Gmina Bedlno,5 937,4 887,"37,81",1 706
+2011,100203,kutnowski,Gmina Dąbrowice,2 031,1 670,"36,29",561
+2011,100204,kutnowski,Gmina Krośniewice,8 910,7 305,"33,00",2 226
+2011,100205,kutnowski,Gmina Krzyżanów,4 431,3 600,"37,58",1 238
+2011,100206,kutnowski,Gmina Kutno,8 556,6 902,"39,81",2 554
+2011,100207,kutnowski,Gmina Łanięta,2 564,1 980,"32,83",589
+2011,100208,kutnowski,Gmina Nowe Ostrowy,3 798,3 069,"32,06",891
+2011,100209,kutnowski,Gmina Oporów,2 763,2 249,"38,46",777
+2011,100210,kutnowski,Gmina Strzelce,4 125,3 355,"37,14",1 177
+2011,100211,kutnowski,Gmina Żychlin,12 779,10 674,"38,70",3 819
+2011,100301,łaski,Gmina Buczek,4 976,4 029,"41,45",1 588
+2011,100302,łaski,Gmina Łask,28 358,23 128,"47,17",10 347
+2011,100303,łaski,Gmina Sędziejowice,6 419,5 194,"41,51",1 998
+2011,100304,łaski,Gmina Widawa,7 765,6 467,"38,27",2 319
+2011,100305,łaski,Gmina Wodzierady,3 133,2 594,"43,45",1 065
+2011,100401,łęczycki,Miasto Łęczyca,14 950,12 399,"47,72",5 542
+2011,100402,łęczycki,Gmina Daszyna,4 213,3 428,"32,61",1 004
+2011,100403,łęczycki,Gmina Góra Świętej Małgorzaty,4 536,3 601,"34,30",1 159
+2011,100404,łęczycki,Gmina Grabów,6 425,5 151,"34,09",1 624
+2011,100405,łęczycki,Gmina Łęczyca,8 607,7 970,"35,21",2 592
+2011,100406,łęczycki,Gmina Piątek,6 379,5 197,"40,37",1 962
+2011,100407,łęczycki,Gmina Świnice Warckie,4 059,3 284,"36,81",1 131
+2011,100408,łęczycki,Gmina Witonia,3 473,2 861,"33,69",896
+2011,100501,łowicki,Miasto Łowicz,29 650,25 041,"51,15",12 158
+2011,100502,łowicki,Gmina Bielawy,5 867,4 825,"40,52",1 800
+2011,100503,łowicki,Gmina Chąśno,3 116,2 486,"42,52",1 016
+2011,100504,łowicki,Gmina Domaniewice,4 695,3 804,"38,54",1 389
+2011,100505,łowicki,Gmina Kiernozia,3 641,2 943,"39,72",1 089
+2011,100506,łowicki,Gmina Kocierzew Południowy,4 547,3 587,"47,06",1 613
+2011,100507,łowicki,Gmina Łowicz,7 590,5 981,"43,20",2 431
+2011,100508,łowicki,Gmina Łyszkowice,6 807,5 411,"33,14",1 686
+2011,100509,łowicki,Gmina Nieborów,9 504,7 679,"43,10",3 089
+2011,100510,łowicki,Gmina Zduny,6 034,4 968,"43,94",2 058
+2011,100602,łódzki wschodni,Gmina Andrespol,12 426,10 109,"54,47",5 298
+2011,100603,łódzki wschodni,Gmina Brójce,5 932,4 681,"50,27",2 270
+2011,100607,łódzki wschodni,Gmina Koluszki,23 281,18 981,"52,11",9 484
+2011,100608,łódzki wschodni,Gmina Nowosolna,4 058,3 377,"58,22",1 900
+2011,100610,łódzki wschodni,Gmina Rzgów,9 326,7 483,"54,26",3 866
+2011,100611,łódzki wschodni,Gmina Tuszyn,11 864,9 963,"46,00",4 387
+2011,100701,opoczyński,Gmina Białaczów,6 096,4 831,"38,96",1 744
+2011,100702,opoczyński,Gmina Drzewica,11 171,8 884,"44,78",3 706
+2011,100703,opoczyński,Gmina Mniszków,4 728,3 789,"41,65",1 486
+2011,100704,opoczyński,Gmina Opoczno,35 907,28 448,"50,11",13 467
+2011,100705,opoczyński,Gmina Paradyż,4 625,3 543,"47,33",1 538
+2011,100706,opoczyński,Gmina Poświętne,3 438,2 802,"47,97",1 283
+2011,100707,opoczyński,Gmina Sławno,7 744,5 968,"44,77",2 512
+2011,100708,opoczyński,Gmina Żarnów,6 188,5 064,"38,15",1 837
+2011,100801,pabianicki,Miasto Konstantynów Łódzki,17 377,14 454,"50,55",6 952
+2011,100802,pabianicki,Miasto Pabianice,67 651,56 997,"53,13",29 247
+2011,100803,pabianicki,Gmina Dłutów,4 248,3 430,"44,99",1 454
+2011,100804,pabianicki,Gmina Dobroń,7 121,5 754,"50,92",2 787
+2011,100805,pabianicki,Gmina Ksawerów,7 338,5 984,"53,23",3 052
+2011,100806,pabianicki,Gmina Lutomiersk,7 309,5 977,"43,48",2 415
+2011,100807,pabianicki,Gmina Pabianice,6 106,4 920,"54,17",2 566
+2011,100901,pajęczański,Gmina Działoszyn,13 033,10 389,"42,90",4 106
+2011,100902,pajęczański,Gmina Kiełczygłów,4 352,3 554,"39,62",1 340
+2011,100903,pajęczański,Gmina Nowa Brzeźnica,4 827,3 937,"38,96",1 394
+2011,100904,pajęczański,Gmina Pajęczno,11 935,9 643,"43,43",3 948
+2011,100905,pajęczański,Gmina Rząśnia,4 836,3 869,"42,52",1 548
+2011,100906,pajęczański,Gmina Siemkowice,5 042,3 969,"36,38",1 326
+2011,100907,pajęczański,Gmina Strzelce Wielkie,4 806,3 896,"38,06",1 370
+2011,100908,pajęczański,Gmina Sulmierzyce,4 588,3 735,"44,44",1 546
+2011,101001,piotrkowski,Gmina Aleksandrów,4 508,3 718,"40,86",1 372
+2011,101002,piotrkowski,Gmina Czarnocin,4 054,3 246,"45,35",1 397
+2011,101003,piotrkowski,Gmina Gorzkowice,8 748,6 887,"41,53",2 646
+2011,101004,piotrkowski,Gmina Grabica,6 090,4 796,"41,60",1 900
+2011,101005,piotrkowski,Gmina Łęki Szlacheckie,3 719,2 980,"33,39",912
+2011,101006,piotrkowski,Gmina Moszczenica,12 798,10 195,"45,55",4 398
+2011,101007,piotrkowski,Gmina Ręczno,3 812,3 071,"40,28",1 156
+2011,101008,piotrkowski,Gmina Rozprza,12 195,9 532,"37,87",3 313
+2011,101009,piotrkowski,Gmina Sulejów,16 153,12 687,"46,51",5 491
+2011,101010,piotrkowski,Gmina Wola Krzysztoporska,11 733,9 095,"45,04",3 811
+2011,101011,piotrkowski,Gmina Wolbórz,7 651,6 317,"51,42",3 072
+2011,101101,poddębicki,Gmina Dalików,3 777,3 086,"40,89",1 151
+2011,101102,poddębicki,Gmina Pęczniew,3 639,2 963,"41,31",1 139
+2011,101103,poddębicki,Gmina Poddębice,15 800,12 950,"42,66",5 155
+2011,101104,poddębicki,Gmina Uniejów,7 333,6 024,"45,00",2 546
+2011,101105,poddębicki,Gmina Wartkowice,6 379,5 120,"33,50",1 554
+2011,101106,poddębicki,Gmina Zadzim,5 251,4 390,"46,33",1 849
+2011,101201,radomszczański,Miasto Radomsko,48 033,39 447,"46,47",17 432
+2011,101202,radomszczański,Gmina Dobryszyce,4 288,3 369,"41,85",1 302
+2011,101203,radomszczański,Gmina Gidle,6 474,5 300,"37,77",1 863
+2011,101204,radomszczański,Gmina Gomunice,5 992,4 768,"45,64",1 987
+2011,101205,radomszczański,Gmina Kamieńsk,6 121,4 896,"45,57",2 067
+2011,101206,radomszczański,Gmina Kobiele Wielkie,4 501,3 577,"38,69",1 317
+2011,101207,radomszczański,Gmina Kodrąb,4 813,3 927,"36,13",1 297
+2011,101208,radomszczański,Gmina Lgota Wielka,4 437,3 512,"38,47",1 233
+2011,101209,radomszczański,Gmina Ładzice,4 928,3 827,"35,62",1 271
+2011,101210,radomszczański,Gmina Masłowice,4 345,3 570,"32,94",1 101
+2011,101211,radomszczański,Gmina Przedbórz,7 785,6 167,"41,24",2 320
+2011,101212,radomszczański,Gmina Radomsko,5 673,4 510,"39,22",1 584
+2011,101213,radomszczański,Gmina Wielgomłyny,4 874,3 990,"35,21",1 314
+2011,101214,radomszczański,Gmina Żytno,5 554,4 574,"34,50",1 405
+2011,101301,rawski,Miasto Rawa Mazowiecka,17 906,14 672,"49,24",6 874
+2011,101302,rawski,Gmina Biała Rawska,11 727,9 378,"37,44",3 261
+2011,101303,rawski,Gmina Cielądz,4 122,3 301,"38,84",1 181
+2011,101304,rawski,Gmina Rawa Mazowiecka,8 686,6 883,"38,70",2 484
+2011,101305,rawski,Gmina Regnów,1 884,1 498,"41,39",565
+2011,101306,rawski,Gmina Sadkowice,5 771,4 612,"32,91",1 415
+2011,101401,sieradzki,Miasto Sieradz,43 540,36 786,"51,50",18 173
+2011,101402,sieradzki,Gmina Błaszki,15 173,12 057,"37,90",4 245
+2011,101403,sieradzki,Gmina Brąszewice,4 476,3 466,"38,81",1 243
+2011,101404,sieradzki,Gmina Brzeźnio,6 365,5 005,"42,44",1 968
+2011,101405,sieradzki,Gmina Burzenin,5 714,4 598,"36,65",1 571
+2011,101406,sieradzki,Gmina Goszczanów,5 780,4 516,"34,65",1 442
+2011,101407,sieradzki,Gmina Klonowa,3 033,2 397,"37,30",811
+2011,101408,sieradzki,Gmina Sieradz,10 265,7 990,"43,28",3 246
+2011,101409,sieradzki,Gmina Warta,12 924,10 348,"42,25",4 007
+2011,101410,sieradzki,Gmina Wróblew,6 217,4 973,"36,96",1 759
+2011,101411,sieradzki,Gmina Złoczew,7 446,5 858,"39,96",2 147
+2011,101501,skierniewicki,Gmina Bolimów,4 060,3 261,"40,29",1 197
+2011,101502,skierniewicki,Gmina Głuchów,6 088,4 749,"57,17",2 551
+2011,101503,skierniewicki,Gmina Godzianów,2 677,2 098,"46,62",898
+2011,101504,skierniewicki,Gmina Kowiesy,3 037,2 454,"39,61",910
+2011,101505,skierniewicki,Gmina Lipce Reymontowskie,3 341,2 691,"43,48",1 095
+2011,101506,skierniewicki,Gmina Maków,6 040,4 853,"43,23",1 952
+2011,101507,skierniewicki,Gmina Nowy Kawęczyn,3 330,2 694,"41,50",1 022
+2011,101508,skierniewicki,Gmina Skierniewice,7 122,5 636,"41,04",2 118
+2011,101509,skierniewicki,Gmina Słupia,2 684,2 120,"42,59",821
+2011,101601,tomaszowski,Miasto Tomaszów Mazowiecki,64 966,53 087,"49,96",25 289
+2011,101602,tomaszowski,Gmina Będków,3 475,2 848,"45,93",1 238
+2011,101603,tomaszowski,Gmina Budziszewice,2 260,1 784,"47,03",777
+2011,101604,tomaszowski,Gmina Czerniewice,5 313,4 240,"40,59",1 562
+2011,101605,tomaszowski,Gmina Inowłódz,3 940,3 281,"49,28",1 504
+2011,101606,tomaszowski,Gmina Lubochnia,7 371,5 711,"47,22",2 485
+2011,101607,tomaszowski,Gmina Rokiciny,6 005,5 014,"47,15",2 226
+2011,101608,tomaszowski,Gmina Rzeczyca,4 956,3 957,"42,53",1 535
+2011,101609,tomaszowski,Gmina Tomaszów Mazowiecki,10 528,8 302,"46,71",3 641
+2011,101610,tomaszowski,Gmina Ujazd,7 980,6 391,"45,24",2 710
+2011,101611,tomaszowski,Gmina Żelechlinek,3 442,2 762,"45,51",1 186
+2011,101701,wieluński,Gmina Biała,5 605,4 449,"36,66",1 488
+2011,101702,wieluński,Gmina Czarnożyły,4 580,3 654,"40,04",1 386
+2011,101703,wieluński,Gmina Konopnica,3 932,3 223,"43,47",1 299
+2011,101704,wieluński,Gmina Mokrsko,5 463,4 325,"43,26",1 690
+2011,101705,wieluński,Gmina Osjaków,4 841,3 854,"47,12",1 680
+2011,101706,wieluński,Gmina Ostrówek,4 631,3 676,"37,62",1 304
+2011,101707,wieluński,Gmina Pątnów,6 589,5 160,"43,86",2 102
+2011,101708,wieluński,Gmina Skomlin,3 430,2 698,"41,73",1 036
+2011,101709,wieluński,Gmina Wieluń,33 121,27 110,"48,13",12 389
+2011,101710,wieluński,Gmina Wierzchlas,6 664,5 359,"36,80",1 824
+2011,101801,wieruszowski,Gmina Bolesławiec,4 173,3 349,"38,16",1 189
+2011,101802,wieruszowski,Gmina Czastary,4 010,3 171,"37,43",1 092
+2011,101803,wieruszowski,Gmina Galewice,6 257,4 960,"35,60",1 668
+2011,101804,wieruszowski,Gmina Lututów,4 754,3 770,"41,09",1 394
+2011,101805,wieruszowski,Gmina Łubnice,4 190,3 314,"38,47",1 160
+2011,101806,wieruszowski,Gmina Sokolniki,4 934,3 886,"38,65",1 428
+2011,101807,wieruszowski,Gmina Wieruszów,14 462,11 504,"48,25",5 297
+2011,101901,zduńskowolski,Miasto Zduńska Wola,43 866,35 568,"50,31",17 039
+2011,101902,zduńskowolski,Gmina Szadek,7 391,5 920,"39,17",2 148
+2011,101903,zduńskowolski,Gmina Zapolice,4 899,3 917,"39,11",1 443
+2011,101904,zduńskowolski,Gmina Zduńska Wola,11 591,9 030,"43,42",3 714
+2011,102001,zgierski,Miasto Głowno,14 974,12 350,"45,48",5 386
+2011,102002,zgierski,Miasto Ozorków,20 169,16 567,"43,85",6 797
+2011,102003,zgierski,Miasto Zgierz,56 549,47 252,"52,13",23 577
+2011,102004,zgierski,Gmina Aleksandrów Łódzki,28 260,22 982,"53,89",11 890
+2011,102005,zgierski,Gmina Głowno,4 866,3 933,"38,37",1 435
+2011,102006,zgierski,Gmina Ozorków,6 800,5 466,"45,13",2 322
+2011,102007,zgierski,Gmina Parzęczew,4 891,4 109,"42,81",1 678
+2011,102008,zgierski,Gmina Stryków,12 052,9 929,"46,96",4 461
+2011,102009,zgierski,Gmina Zgierz,12 092,10 213,"50,60",4 942
+2011,102101,brzeziński,Miasto Brzeziny,12 353,10 189,"46,18",4 456
+2011,102102,brzeziński,Gmina Brzeziny,5 406,4 266,"43,81",1 771
+2011,102103,brzeziński,Gmina Dmosin,4 551,3 798,"41,02",1 482
+2011,102104,brzeziński,Gmina Jeżów,3 556,2 849,"46,65",1 249
+2011,102105,brzeziński,Gmina Rogów,4 758,3 867,"44,32",1 618
+2011,106101,Łódź,Miasto Łódź,691 598,589 701,"56,33",324 482
+2011,106201,Piotrków Trybunalski,Miasto Piotrków Trybunalski,75 917,62 377,"52,63",31 481
+2011,106301,Skierniewice,Miasto Skierniewice,48 069,39 158,"53,72",20 270
+2011,120101,bocheński,Miasto Bochnia,29 878,23 732,"53,91",12 276
+2011,120102,bocheński,Gmina Bochnia,18 946,14 770,"45,97",6 325
+2011,120103,bocheński,Gmina Drwinia,6 433,5 108,"46,42",2 218
+2011,120104,bocheński,Gmina Lipnica Murowana,5 587,4 298,"46,04",1 784
+2011,120105,bocheński,Gmina Łapanów,7 680,5 896,"45,15",2 393
+2011,120106,bocheński,Gmina Nowy Wiśnicz,13 296,10 535,"53,07",5 118
+2011,120107,bocheński,Gmina Rzezawa,10 860,8 415,"45,85",3 651
+2011,120108,bocheński,Gmina Trzciana,5 300,4 027,"51,01",1 917
+2011,120109,bocheński,Gmina Żegocina,5 195,3 961,"54,61",2 081
+2011,120201,brzeski,Gmina Borzęcin,8 457,6 578,"45,04",2 726
+2011,120202,brzeski,Gmina Brzesko,36 321,28 572,"49,46",13 423
+2011,120203,brzeski,Gmina Czchów,9 552,7 287,"47,26",3 180
+2011,120204,brzeski,Gmina Dębno,14 384,11 105,"49,23",5 108
+2011,120205,brzeski,Gmina Gnojnik,7 667,5 796,"45,86",2 427
+2011,120206,brzeski,Gmina Iwkowa,6 319,4 698,"49,38",2 127
+2011,120207,brzeski,Gmina Szczurowa,9 808,7 761,"40,14",2 873
+2011,120301,chrzanowski,Gmina Alwernia,12 597,10 340,"47,34",4 621
+2011,120302,chrzanowski,Gmina Babice,8 912,7 191,"47,28",3 191
+2011,120303,chrzanowski,Gmina Chrzanów,47 451,39 753,"50,45",19 502
+2011,120304,chrzanowski,Gmina Libiąż,22 738,18 418,"49,92",8 688
+2011,120305,chrzanowski,Gmina Trzebinia,33 907,28 345,"49,52",13 253
+2011,120401,dąbrowski,Gmina Bolesław,2 827,2 335,"33,88",744
+2011,120402,dąbrowski,Gmina Dąbrowa Tarnowska,20 884,16 541,"42,92",6 706
+2011,120403,dąbrowski,Gmina Gręboszów,3 537,2 975,"46,29",1 320
+2011,120404,dąbrowski,Gmina Mędrzechów,3 556,2 850,"38,67",1 016
+2011,120405,dąbrowski,Gmina Olesno,7 901,6 157,"40,96",2 424
+2011,120406,dąbrowski,Gmina Radgoszcz,7 414,5 613,"43,43",2 229
+2011,120407,dąbrowski,Gmina Szczucin,13 516,10 644,"40,58",3 971
+2011,120501,gorlicki,Miasto Gorlice,28 977,23 972,"48,26",11 061
+2011,120502,gorlicki,Gmina Biecz,17 424,13 683,"43,22",5 585
+2011,120503,gorlicki,Gmina Bobowa,9 668,7 076,"48,71",3 153
+2011,120504,gorlicki,Gmina Gorlice,17 068,13 272,"44,82",5 571
+2011,120505,gorlicki,Gmina Lipinki,6 905,5 433,"45,81",2 352
+2011,120506,gorlicki,Gmina Łużna,8 516,6 492,"45,44",2 720
+2011,120507,gorlicki,Gmina Moszczenica,4 948,3 799,"39,22",1 377
+2011,120508,gorlicki,Gmina Ropa,5 336,3 942,"49,37",1 818
+2011,120509,gorlicki,Gmina Sękowa,5 056,3 954,"47,19",1 763
+2011,120510,gorlicki,Gmina Uście Gorlickie,6 726,5 189,"42,19",2 009
+2011,120601,krakowski,Gmina Czernichów,13 406,10 695,"43,38",4 362
+2011,120602,krakowski,Gmina Igołomia-Wawrzeńczyce,7 623,6 177,"34,39",2 057
+2011,120603,krakowski,Gmina Iwanowice,8 450,6 735,"46,01",2 936
+2011,120604,krakowski,Gmina Jerzmanowice-Przeginia,10 612,8 443,"47,23",3 720
+2011,120605,krakowski,Gmina Kocmyrzów-Luborzyca,13 725,10 847,"43,00",4 455
+2011,120606,krakowski,Gmina Krzeszowice,31 873,26 289,"49,76",12 490
+2011,120607,krakowski,Gmina Liszki,15 800,12 577,"46,92",5 631
+2011,120608,krakowski,Gmina Michałowice,8 796,6 826,"50,37",3 313
+2011,120609,krakowski,Gmina Mogilany,12 041,9 479,"54,20",4 970
+2011,120610,krakowski,Gmina Skała,10 004,7 945,"46,92",3 508
+2011,120611,krakowski,Gmina Skawina,41 885,33 410,"48,99",15 661
+2011,120612,krakowski,Gmina Słomniki,13 672,11 027,"42,10",4 349
+2011,120613,krakowski,Gmina Sułoszowa,5 863,4 601,"46,38",2 033
+2011,120614,krakowski,Gmina Świątniki Górne,9 155,7 400,"50,09",3 553
+2011,120615,krakowski,Gmina Wielka Wieś,9 990,8 104,"54,21",4 202
+2011,120616,krakowski,Gmina Zabierzów,23 485,19 414,"57,42",10 701
+2011,120617,krakowski,Gmina Zielonki,17 721,13 801,"56,65",7 576
+2011,120701,limanowski,Miasto Limanowa,15 194,12 035,"55,36",6 411
+2011,120702,limanowski,Miasto Mszana Dolna,7 768,5 960,"51,78",2 950
+2011,120703,limanowski,Gmina Dobra,9 731,7 454,"41,24",2 822
+2011,120704,limanowski,Gmina Jodłownik,8 386,6 343,"43,88",2 581
+2011,120705,limanowski,Gmina Kamienica,7 776,5 663,"42,43",2 251
+2011,120706,limanowski,Gmina Laskowa,7 858,5 674,"59,41",3 213
+2011,120707,limanowski,Gmina Limanowa,24 325,17 893,"52,43",8 754
+2011,120708,limanowski,Gmina Łukowica,9 700,7 063,"50,39",3 297
+2011,120709,limanowski,Gmina Mszana Dolna,17 158,12 610,"46,66",5 536
+2011,120710,limanowski,Gmina Niedźwiedź,7 160,5 145,"40,04",1 916
+2011,120711,limanowski,Gmina Słopnice,6 336,4 362,"49,13",2 006
+2011,120712,limanowski,Gmina Tymbark,6 451,4 777,"52,27",2 374
+2011,120801,miechowski,Gmina Charsznica,7 684,6 284,"36,65",2 178
+2011,120802,miechowski,Gmina Gołcza,6 261,5 143,"39,96",1 948
+2011,120803,miechowski,Gmina Kozłów,4 904,4 040,"32,80",1 198
+2011,120804,miechowski,Gmina Książ Wielki,5 388,4 409,"40,55",1 709
+2011,120805,miechowski,Gmina Miechów,19 800,16 172,"44,45",6 886
+2011,120806,miechowski,Gmina Racławice,2 515,2 060,"34,42",679
+2011,120807,miechowski,Gmina Słaboszów,3 841,3 122,"34,05",997
+2011,120901,myślenicki,Gmina Dobczyce,14 473,11 218,"48,95",5 253
+2011,120902,myślenicki,Gmina Lubień,9 691,7 300,"47,68",3 304
+2011,120903,myślenicki,Gmina Myślenice,42 113,32 938,"52,33",16 557
+2011,120904,myślenicki,Gmina Pcim,10 759,8 189,"49,74",3 808
+2011,120905,myślenicki,Gmina Raciechowice,6 138,4 833,"40,97",1 800
+2011,120906,myślenicki,Gmina Siepraw,8 192,6 312,"44,68",2 701
+2011,120907,myślenicki,Gmina Sułkowice,14 263,11 013,"42,87",4 315
+2011,120908,myślenicki,Gmina Tokarnia,8 572,6 386,"48,87",2 904
+2011,120909,myślenicki,Gmina Wiśniowa,7 050,5 403,"46,34",2 312
+2011,121001,nowosądecki,Miasto Grybów,6 258,4 878,"57,69",2 702
+2011,121002,nowosądecki,Gmina Chełmiec,26 566,19 679,"53,38",9 989
+2011,121003,nowosądecki,Gmina Gródek nad Dunajcem,9 268,6 751,"47,06",2 955
+2011,121004,nowosądecki,Gmina Grybów,24 251,17 611,"57,50",9 581
+2011,121005,nowosądecki,Gmina Kamionka Wielka,9 871,7 094,"53,78",3 590
+2011,121006,nowosądecki,Gmina Korzenna,14 084,10 354,"50,87",4 900
+2011,121007,nowosądecki,Gmina Krynica-Zdrój,17 265,14 740,"52,29",7 316
+2011,121008,nowosądecki,Gmina Łabowa,5 651,4 028,"45,18",1 666
+2011,121009,nowosądecki,Gmina Łącko,15 710,11 706,"48,68",5 236
+2011,121010,nowosądecki,Gmina Łososina Dolna,10 521,7 763,"54,41",4 049
+2011,121011,nowosądecki,Gmina Muszyna,11 749,9 118,"48,16",4 101
+2011,121012,nowosądecki,Gmina Nawojowa,8 153,5 905,"49,87",2 792
+2011,121013,nowosądecki,Gmina Piwniczna-Zdrój,10 711,8 344,"44,22",3 491
+2011,121014,nowosądecki,Gmina Podegrodzie,12 402,9 013,"48,76",4 126
+2011,121015,nowosądecki,Gmina Rytro,3 843,2 956,"49,90",1 333
+2011,121016,nowosądecki,Gmina Stary Sącz,23 270,17 564,"53,99",8 928
+2011,121101,nowotarski,Miasto Nowy Targ,33 279,26 619,"51,47",13 050
+2011,121102,nowotarski,Gmina Szczawnica,7 455,6 221,"46,66",2 706
+2011,121103,nowotarski,Gmina Czarny Dunajec,21 861,16 601,"34,26",5 250
+2011,121104,nowotarski,Gmina Czorsztyn,7 418,5 653,"43,98",2 298
+2011,121105,nowotarski,Gmina Jabłonka,18 051,13 314,"40,12",5 072
+2011,121106,nowotarski,Gmina Krościenko nad Dunajcem,6 699,5 241,"41,98",2 036
+2011,121107,nowotarski,Gmina Lipnica Wielka,5 958,4 334,"43,15",1 730
+2011,121108,nowotarski,Gmina Łapsze Niżne,9 086,6 999,"36,89",2 422
+2011,121109,nowotarski,Gmina Nowy Targ,23 250,17 463,"41,44",6 745
+2011,121110,nowotarski,Gmina Ochotnica Dolna,8 408,6 166,"44,37",2 566
+2011,121111,nowotarski,Gmina Raba Wyżna,14 338,10 872,"43,27",4 370
+2011,121112,nowotarski,Gmina Rabka-Zdrój,17 423,14 015,"50,90",6 778
+2011,121113,nowotarski,Gmina Spytkowice,4 338,3 175,"39,24",1 152
+2011,121114,nowotarski,Gmina Szaflary,10 478,7 926,"35,91",2 667
+2011,121201,olkuski,Miasto Bukowno,10 351,8 651,"47,21",3 884
+2011,121203,olkuski,Gmina Bolesław,7 785,6 567,"45,20",2 823
+2011,121204,olkuski,Gmina Klucze,15 040,12 503,"50,24",5 988
+2011,121205,olkuski,Gmina Olkusz,50 089,41 192,"52,75",20 938
+2011,121206,olkuski,Gmina Trzyciąż,7 141,5 693,"38,29",2 037
+2011,121207,olkuski,Gmina Wolbrom,23 418,18 930,"47,73",8 632
+2011,121301,oświęcimski,Miasto Oświęcim,39 650,33 026,"54,44",17 114
+2011,121302,oświęcimski,Gmina Brzeszcze,21 586,17 641,"53,91",9 060
+2011,121303,oświęcimski,Gmina Chełmek,12 973,10 442,"52,23",5 105
+2011,121304,oświęcimski,Gmina Kęty,33 847,27 251,"52,66",13 724
+2011,121305,oświęcimski,Gmina Osiek,8 058,6 354,"45,78",2 669
+2011,121306,oświęcimski,Gmina Oświęcim,17 792,14 187,"55,26",7 446
+2011,121307,oświęcimski,Gmina Polanka Wielka,4 290,3 385,"50,07",1 582
+2011,121308,oświęcimski,Gmina Przeciszów,6 815,5 439,"44,14",2 248
+2011,121309,oświęcimski,Gmina Zator,9 190,7 381,"47,04",3 274
+2011,121401,proszowicki,Gmina Koniusza,8 747,6 876,"36,91",2 375
+2011,121402,proszowicki,Gmina Koszyce,5 783,4 730,"33,70",1 480
+2011,121403,proszowicki,Gmina Nowe Brzesko,5 715,4 624,"41,22",1 775
+2011,121404,proszowicki,Gmina Pałecznica,3 676,2 885,"43,92",1 177
+2011,121405,proszowicki,Gmina Proszowice,16 395,13 368,"41,25",5 214
+2011,121406,proszowicki,Gmina Radziemice,3 454,2 767,"36,36",940
+2011,121501,suski,Miasto Jordanów,5 316,4 096,"51,37",1 979
+2011,121502,suski,Miasto Sucha Beskidzka,9 488,7 872,"50,22",3 744
+2011,121503,suski,Gmina Budzów,8 677,6 443,"40,14",2 383
+2011,121504,suski,Gmina Bystra-Sidzina,6 731,4 959,"39,10",1 772
+2011,121505,suski,Gmina Jordanów,10 828,8 116,"43,94",3 339
+2011,121506,suski,Gmina Maków Podhalański,16 241,12 866,"47,69",5 716
+2011,121507,suski,Gmina Stryszawa,11 872,9 414,"46,71",4 085
+2011,121508,suski,Gmina Zawoja,9 180,7 137,"46,71",3 044
+2011,121509,suski,Gmina Zembrzyce,5 666,4 488,"45,05",1 825
+2011,121601,tarnowski,Gmina Ciężkowice,11 326,8 702,"43,27",3 484
+2011,121602,tarnowski,Gmina Gromnik,8 754,6 651,"41,98",2 567
+2011,121603,tarnowski,Gmina Lisia Góra,14 418,10 845,"48,15",4 952
+2011,121604,tarnowski,Gmina Pleśna,11 888,9 128,"46,53",3 908
+2011,121605,tarnowski,Gmina Radłów,9 788,7 754,"41,55",2 982
+2011,121606,tarnowski,Gmina Ryglice,11 749,8 854,"45,00",3 597
+2011,121607,tarnowski,Gmina Rzepiennik Strzyżewski,6 974,5 281,"44,67",2 240
+2011,121608,tarnowski,Gmina Skrzyszów,13 654,10 422,"45,12",4 418
+2011,121609,tarnowski,Gmina Tarnów,24 290,18 741,"52,14",9 309
+2011,121610,tarnowski,Gmina Tuchów,18 147,14 025,"49,51",6 510
+2011,121611,tarnowski,Gmina Wierzchosławice,10 658,8 329,"51,04",4 001
+2011,121612,tarnowski,Gmina Wietrzychowice,4 163,3 284,"45,37",1 367
+2011,121613,tarnowski,Gmina Wojnicz,13 276,10 306,"46,36",4 512
+2011,121614,tarnowski,Gmina Zakliczyn,12 373,9 495,"43,18",3 740
+2011,121615,tarnowski,Gmina Żabno,19 015,14 890,"44,99",6 312
+2011,121616,tarnowski,Gmina Szerzyny,8 191,6 364,"40,92",2 425
+2011,121701,tatrzański,Miasto Zakopane,27 135,23 780,"55,55",12 782
+2011,121702,tatrzański,Gmina Biały Dunajec,7 049,5 445,"38,73",2 005
+2011,121703,tatrzański,Gmina Bukowina Tatrzańska,12 897,9 999,"45,19",4 331
+2011,121704,tatrzański,Gmina Kościelisko,8 320,6 462,"40,62",2 491
+2011,121705,tatrzański,Gmina Poronin,11 102,8 574,"40,55",3 282
+2011,121801,wadowicki,Gmina Andrychów,43 873,34 944,"52,24",17 326
+2011,121802,wadowicki,Gmina Brzeźnica,9 870,7 799,"41,12",2 993
+2011,121803,wadowicki,Gmina Kalwaria Zebrzydowska,19 632,15 557,"47,15",6 948
+2011,121804,wadowicki,Gmina Lanckorona,6 466,4 675,"40,24",1 757
+2011,121805,wadowicki,Gmina Mucharz,3 977,3 102,"47,16",1 379
+2011,121806,wadowicki,Gmina Spytkowice,10 079,7 920,"42,30",3 114
+2011,121807,wadowicki,Gmina Stryszów,6 784,5 366,"45,68",2 285
+2011,121808,wadowicki,Gmina Tomice,7 597,5 861,"44,04",2 357
+2011,121809,wadowicki,Gmina Wadowice,37 878,30 448,"50,91",14 800
+2011,121810,wadowicki,Gmina Wieprz,11 921,9 121,"47,58",4 092
+2011,121901,wielicki,Gmina Biskupice,9 022,7 106,"46,50",3 109
+2011,121902,wielicki,Gmina Gdów,16 916,12 944,"45,30",5 519
+2011,121903,wielicki,Gmina Kłaj,10 154,8 136,"50,00",3 821
+2011,121904,wielicki,Gmina Niepołomice,23 911,18 924,"52,33",9 375
+2011,121905,wielicki,Gmina Wieliczka,51 511,40 723,"51,84",20 297
+2011,126101,Kraków,Miasto Kraków,704 955,595 079,"60,12",351 166
+2011,126201,Nowy Sącz,Miasto Nowy Sącz,83 564,66 684,"57,02",36 838
+2011,126301,Tarnów,Miasto Tarnów,111 791,93 348,"53,52",48 507
+2011,140101,białobrzeski,Gmina Białobrzegi,10 429,8 338,"47,99",3 775
+2011,140102,białobrzeski,Gmina Promna,5 778,4 642,"41,66",1 836
+2011,140103,białobrzeski,Gmina Radzanów,3 986,3 007,"45,00",1 268
+2011,140104,białobrzeski,Gmina Stara Błotnica,5 356,4 040,"42,43",1 572
+2011,140105,białobrzeski,Gmina Stromiec,5 755,4 428,"36,22",1 468
+2011,140106,białobrzeski,Gmina Wyśmierzyce,2 949,2 425,"43,22",987
+2011,140201,ciechanowski,Miasto Ciechanów,45 284,36 976,"47,81",16 921
+2011,140202,ciechanowski,Gmina Ciechanów,6 585,5 141,"37,58",1 821
+2011,140203,ciechanowski,Gmina Glinojeck,8 178,6 423,"32,73",1 933
+2011,140204,ciechanowski,Gmina Gołymin-Ośrodek,4 100,3 209,"35,09",1 050
+2011,140205,ciechanowski,Gmina Grudusk,3 953,3 123,"40,79",1 172
+2011,140206,ciechanowski,Gmina Ojrzeń,4 405,3 481,"41,34",1 252
+2011,140207,ciechanowski,Gmina Opinogóra Górna,6 026,4 745,"36,69",1 638
+2011,140208,ciechanowski,Gmina Regimin,5 017,4 003,"38,32",1 422
+2011,140209,ciechanowski,Gmina Sońsk,7 923,6 360,"40,08",2 400
+2011,140301,garwoliński,Miasto Garwolin,16 961,13 203,"58,18",7 374
+2011,140302,garwoliński,Miasto Łaskarzew,4 943,4 043,"44,27",1 721
+2011,140303,garwoliński,Gmina Borowie,5 240,4 072,"44,30",1 713
+2011,140304,garwoliński,Gmina Garwolin,12 689,9 634,"48,87",4 496
+2011,140305,garwoliński,Gmina Górzno,6 367,4 894,"48,22",2 268
+2011,140306,garwoliński,Gmina Łaskarzew,5 460,4 228,"45,65",1 801
+2011,140307,garwoliński,Gmina Maciejowice,7 564,5 934,"44,29",2 438
+2011,140308,garwoliński,Gmina Miastków Kościelny,5 119,4 018,"45,37",1 703
+2011,140309,garwoliński,Gmina Parysów,4 171,3 218,"42,67",1 287
+2011,140310,garwoliński,Gmina Pilawa,10 698,8 377,"47,68",3 783
+2011,140311,garwoliński,Gmina Sobolew,8 398,6 503,"46,50",2 860
+2011,140312,garwoliński,Gmina Trojanów,7 770,6 102,"46,61",2 713
+2011,140313,garwoliński,Gmina Wilga,5 243,4 273,"45,26",1 830
+2011,140314,garwoliński,Gmina Żelechów,8 678,6 745,"45,92",2 845
+2011,140401,gostyniński,Miasto Gostynin,18 925,15 712,"48,38",7 287
+2011,140402,gostyniński,Gmina Gostynin,12 314,9 754,"37,58",3 384
+2011,140403,gostyniński,Gmina Pacyna,3 814,3 254,"42,62",1 304
+2011,140404,gostyniński,Gmina Sanniki,6 521,5 214,"40,58",2 010
+2011,140405,gostyniński,Gmina Szczawin Kośc.,5 189,4 206,"39,99",1 573
+2011,140501,grodziski,Miasto Milanówek,15 695,12 995,"61,93",7 854
+2011,140502,grodziski,Miasto Podkowa Leśna,3 756,3 219,"72,60",2 300
+2011,140503,grodziski,Gmina Baranów,4 936,3 939,"41,71",1 549
+2011,140504,grodziski,Gmina Grodzisk Mazowiecki,40 608,32 771,"56,36",17 868
+2011,140505,grodziski,Gmina Jaktorów,10 570,8 488,"51,86",4 229
+2011,140506,grodziski,Gmina Żabia Wola,7 110,5 721,"50,46",2 782
+2011,140601,grójecki,Gmina Belsk Duży,6 671,5 346,"46,18",2 381
+2011,140602,grójecki,Gmina Błędów,7 896,6 372,"42,78",2 604
+2011,140603,grójecki,Gmina Chynów,9 598,7 752,"43,42",3 175
+2011,140604,grójecki,Gmina Goszczyn,2 942,2 298,"45,95",1 023
+2011,140605,grójecki,Gmina Grójec,24 215,19 775,"48,80",9 244
+2011,140606,grójecki,Gmina Jasieniec,5 388,4 283,"39,86",1 602
+2011,140607,grójecki,Gmina Mogielnica,9 152,7 486,"42,03",2 937
+2011,140608,grójecki,Gmina Nowe Miasto nad Pilicą,8 414,7 151,"50,83",3 449
+2011,140609,grójecki,Gmina Pniewy,4 594,3 753,"41,57",1 493
+2011,140611,grójecki,Gmina Warka,19 063,15 191,"45,53",6 575
+2011,140701,kozienicki,Gmina Garbatka-Letnisko,5 236,4 823,"44,70",2 048
+2011,140702,kozienicki,Gmina Głowaczów,7 579,6 267,"42,92",2 554
+2011,140703,kozienicki,Gmina Gniewoszów,4 143,3 374,"38,97",1 252
+2011,140704,kozienicki,Gmina Grabów nad Pilicą,3 896,3 173,"41,57",1 240
+2011,140705,kozienicki,Gmina Kozienice,31 107,25 386,"48,08",11 735
+2011,140706,kozienicki,Gmina Magnuszew,6 775,5 608,"43,97",2 348
+2011,140707,kozienicki,Gmina Sieciechów,4 135,3 322,"38,17",1 214
+2011,140801,legionowski,Miasto Legionowo,51 382,41 157,"60,47",24 279
+2011,140802,legionowski,Gmina Jabłonna,15 341,12 154,"64,28",7 615
+2011,140803,legionowski,Gmina Nieporęt,12 246,10 123,"61,81",6 054
+2011,140804,legionowski,Gmina Serock,12 538,10 273,"51,53",5 072
+2011,140805,legionowski,Gmina Wieliszew,10 944,8 976,"55,18",4 730
+2011,140901,lipski,Gmina Chotcza,2 599,2 142,"31,75",637
+2011,140902,lipski,Gmina Ciepielów,5 982,4 728,"35,26",1 534
+2011,140903,lipski,Gmina Lipsko,11 893,9 892,"38,85",3 687
+2011,140904,lipski,Gmina Rzeczniów,4 705,3 846,"35,86",1 258
+2011,140905,lipski,Gmina Sienno,6 284,5 202,"36,62",1 780
+2011,140906,lipski,Gmina Solec nad Wisłą,5 469,4 608,"37,96",1 612
+2011,141001,łosicki,Gmina Huszlew,3 069,2 416,"44,99",1 029
+2011,141002,łosicki,Gmina Łosice,11 409,9 288,"45,92",4 088
+2011,141003,łosicki,Gmina Olszanka,3 207,2 520,"47,38",1 153
+2011,141004,łosicki,Gmina Platerów,5 232,4 175,"38,42",1 539
+2011,141005,łosicki,Gmina Sarnaki,5 164,4 250,"45,88",1 858
+2011,141006,łosicki,Gmina Stara Kornica,5 114,4 011,"38,24",1 464
+2011,141101,makowski,Miasto Maków Mazowiecki,10 112,8 162,"43,22",3 349
+2011,141102,makowski,Gmina Czerwonka,2 707,2 144,"37,59",744
+2011,141103,makowski,Gmina Karniewo,5 512,4 228,"41,04",1 635
+2011,141104,makowski,Gmina Krasnosielc,6 873,5 309,"39,95",1 941
+2011,141105,makowski,Gmina Młynarze,1 785,1 416,"47,39",641
+2011,141106,makowski,Gmina Płoniawy-Bramura,5 901,4 707,"38,88",1 692
+2011,141107,makowski,Gmina Różan,4 567,3 693,"40,97",1 419
+2011,141108,makowski,Gmina Rzewnie,2 762,2 198,"44,09",902
+2011,141109,makowski,Gmina Sypniewo,3 585,2 854,"44,71",1 204
+2011,141110,makowski,Gmina Szelków,3 850,3 026,"43,56",1 235
+2011,141201,miński,Miasto Mińsk Mazowiecki,38 326,30 453,"58,52",17 239
+2011,141204,miński,Gmina Cegłów,6 214,4 990,"48,90",2 306
+2011,141205,miński,Gmina Dębe Wielkie,8 987,7 063,"46,09",3 079
+2011,141206,miński,Gmina Dobre,5 989,4 817,"42,20",1 903
+2011,141207,miński,Gmina Halinów,13 692,10 816,"55,31",5 715
+2011,141208,miński,Gmina Jakubów,5 080,3 987,"43,09",1 592
+2011,141209,miński,Gmina Kałuszyn,5 991,4 753,"45,07",2 029
+2011,141210,miński,Gmina Latowicz,5 498,4 260,"37,42",1 467
+2011,141211,miński,Gmina Mińsk Mazowiecki,13 720,10 659,"48,55",4 892
+2011,141212,miński,Gmina Mrozy,8 669,7 158,"41,48",2 768
+2011,141213,miński,Gmina Siennica,7 136,5 713,"43,46",2 315
+2011,141214,miński,Gmina Stanisławów,6 450,5 131,"45,49",2 223
+2011,141215,miński,Miasto Sulejówek,18 685,15 244,"62,33",9 245
+2011,141301,mławski,Miasto Mława,30 312,24 520,"46,02",10 714
+2011,141302,mławski,Gmina Dzierzgowo,3 405,2 669,"31,10",767
+2011,141303,mławski,Gmina Lipowiec Kościelny,5 016,3 867,"31,96",1 135
+2011,141304,mławski,Gmina Radzanów,3 638,2 835,"38,62",978
+2011,141305,mławski,Gmina Strzegowo,7 980,6 383,"34,50",2 031
+2011,141306,mławski,Gmina Stupsk,5 078,4 086,"35,22",1 320
+2011,141307,mławski,Gmina Szreńsk,4 513,3 506,"38,53",1 266
+2011,141308,mławski,Gmina Szydłowo,4 757,3 750,"36,00",1 213
+2011,141309,mławski,Gmina Wieczfnia Kościelna,4 206,3 264,"35,78",1 065
+2011,141310,mławski,Gmina Wiśniewo,5 328,4 152,"34,95",1 327
+2011,141401,nowodworski,Miasto Nowy Dwór Mazowiecki,27 521,22 039,"52,62",11 112
+2011,141402,nowodworski,Gmina Czosnów,8 875,7 915,"53,58",4 022
+2011,141403,nowodworski,Gmina Leoncin,5 114,4 556,"43,74",1 872
+2011,141404,nowodworski,Gmina Nasielsk,19 629,15 668,"40,80",5 922
+2011,141405,nowodworski,Gmina Pomiechówek,8 710,7 221,"48,55",3 324
+2011,141406,nowodworski,Gmina Zakroczym,6 173,5 087,"39,22",1 891
+2011,141501,ostrołęcki,Gmina Baranowo,6 899,5 374,"38,18",1 927
+2011,141502,ostrołęcki,Gmina Czarnia,2 801,2 072,"34,85",678
+2011,141503,ostrołęcki,Gmina Czerwin,5 242,4 150,"41,08",1 620
+2011,141504,ostrołęcki,Gmina Goworowo,8 811,7 021,"35,19",2 217
+2011,141505,ostrołęcki,Gmina Kadzidło,11 462,8 625,"36,44",2 933
+2011,141506,ostrołęcki,Gmina Lelis,8 942,6 666,"43,40",2 660
+2011,141507,ostrołęcki,Gmina Łyse,8 533,6 429,"32,52",1 921
+2011,141508,ostrołęcki,Gmina Myszyniec,10 754,8 188,"37,34",2 845
+2011,141509,ostrołęcki,Gmina Olszewo-Borki,10 133,7 721,"45,11",3 286
+2011,141510,ostrołęcki,Gmina Rzekuń,9 647,7 923,"44,63",3 308
+2011,141511,ostrołęcki,Gmina Troszyn,5 036,3 963,"41,00",1 503
+2011,141601,ostrowski,Miasto Ostrów Mazowiecka,23 471,18 401,"46,07",8 214
+2011,141602,ostrowski,Gmina Andrzejewo,4 497,3 614,"46,51",1 615
+2011,141603,ostrowski,Gmina Boguty-Pianki,2 873,2 293,"50,63",1 115
+2011,141604,ostrowski,Gmina Brok,2 896,2 419,"45,10",1 048
+2011,141605,ostrowski,Gmina Małkinia Górna,12 363,9 855,"42,19",3 926
+2011,141606,ostrowski,Gmina Nur,3 134,2 573,"46,87",1 148
+2011,141607,ostrowski,Gmina Ostrów Mazowiecka,12 898,10 054,"40,80",3 891
+2011,141608,ostrowski,Gmina Stary Lubotyń,3 982,3 082,"39,71",1 145
+2011,141609,ostrowski,Gmina Szulborze Wielkie,1 852,1 506,"47,81",671
+2011,141610,ostrowski,Gmina Wąsewo,4 595,3 665,"41,17",1 422
+2011,141611,ostrowski,Gmina Zaręby Kościelne,3 865,3 050,"44,52",1 292
+2011,141701,otwocki,Miasto Józefów,18 503,14 991,"68,19",9 919
+2011,141702,otwocki,Miasto Otwock,43 164,35 677,"60,47",20 947
+2011,141703,otwocki,Gmina Celestynów,11 302,9 075,"58,13",5 007
+2011,141704,otwocki,Gmina Karczew,15 760,12 901,"56,58",6 980
+2011,141705,otwocki,Gmina Kołbiel,8 032,6 480,"47,69",2 940
+2011,141706,otwocki,Gmina Osieck,3 544,2 825,"48,11",1 249
+2011,141707,otwocki,Gmina Sobienie-Jeziory,6 279,5 126,"48,11",2 351
+2011,141708,otwocki,Gmina Wiązowna,10 530,8 591,"59,70",4 939
+2011,141801,piaseczyński,Gmina Góra Kalwaria,24 900,20 047,"50,28",9 491
+2011,141802,piaseczyński,Gmina Konstancin-Jeziorna,23 691,19 931,"60,67",11 681
+2011,141803,piaseczyński,Gmina Lesznowola,19 552,15 061,"66,70",9 846
+2011,141804,piaseczyński,Gmina Piaseczno,66 261,52 606,"64,57",33 299
+2011,141805,piaseczyński,Gmina Prażmów,9 290,7 460,"51,43",3 681
+2011,141806,piaseczyński,Gmina Tarczyn,10 586,8 638,"51,13",4 218
+2011,141901,płocki,Gmina Bielsk,9 028,7 116,"39,02",2 539
+2011,141902,płocki,Gmina Bodzanów,8 463,6 714,"37,24",2 337
+2011,141903,płocki,Gmina Brudzeń Duży,8 055,6 277,"36,20",2 163
+2011,141904,płocki,Gmina Bulkowo,5 897,4 663,"35,19",1 519
+2011,141905,płocki,Gmina Drobin,8 498,6 568,"34,12",2 025
+2011,141906,płocki,Gmina Gąbin,10 922,8 829,"43,45",3 568
+2011,141907,płocki,Gmina Łąck,5 192,4 139,"41,97",1 606
+2011,141908,płocki,Gmina Mała Wieś,6 263,5 024,"33,88",1 564
+2011,141909,płocki,Gmina Nowy Duninów,3 971,3 213,"39,00",1 112
+2011,141910,płocki,Gmina Radzanowo,7 896,6 202,"40,12",2 343
+2011,141911,płocki,Gmina Słubice,4 640,3 681,"38,79",1 351
+2011,141912,płocki,Gmina Słupno,6 451,5 061,"49,73",2 409
+2011,141913,płocki,Gmina Stara Biała,10 748,8 281,"44,81",3 515
+2011,141914,płocki,Gmina Staroźreby,7 601,5 903,"37,17",2 009
+2011,141915,płocki,Gmina Wyszogród,5 913,4 816,"38,83",1 740
+2011,142001,płoński,Miasto Płońsk,22 330,18 173,"47,60",8 254
+2011,142002,płoński,Miasto Raciąż,4 617,3 729,"41,35",1 441
+2011,142003,płoński,Gmina Baboszewo,8 209,6 344,"38,11",2 287
+2011,142004,płoński,Gmina Czerwińsk nad Wisłą,7 943,6 326,"30,70",1 824
+2011,142005,płoński,Gmina Dzierzążnia,3 923,3 134,"35,99",1 052
+2011,142006,płoński,Gmina Joniec,2 545,2 157,"38,76",784
+2011,142007,płoński,Gmina Naruszewo,6 669,5 271,"28,78",1 410
+2011,142008,płoński,Gmina Nowe Miasto,4 722,3 884,"38,34",1 357
+2011,142009,płoński,Gmina Płońsk,7 448,5 834,"35,21",1 944
+2011,142010,płoński,Gmina Raciąż,8 766,7 094,"33,72",2 212
+2011,142011,płoński,Gmina Sochocin,5 970,4 910,"37,96",1 734
+2011,142012,płoński,Gmina Załuski,5 700,4 502,"33,61",1 396
+2011,142101,pruszkowski,Miasto Piastów,22 320,18 440,"63,71",11 466
+2011,142102,pruszkowski,Miasto Pruszków,56 079,46 238,"60,47",27 290
+2011,142103,pruszkowski,Gmina Brwinów,22 671,18 708,"61,33",11 182
+2011,142104,pruszkowski,Gmina Michałowice,16 108,12 818,"71,02",8 881
+2011,142105,pruszkowski,Gmina Nadarzyn,10 862,8 750,"59,86",5 082
+2011,142106,pruszkowski,Gmina Raszyn,20 235,16 300,"62,24",9 736
+2011,142201,przasnyski,Miasto Przasnysz,17 268,13 857,"46,51",6 208
+2011,142202,przasnyski,Gmina Chorzele,10 540,8 109,"35,60",2 703
+2011,142203,przasnyski,Gmina Czernice Borowe,3 949,3 167,"38,74",1 133
+2011,142204,przasnyski,Gmina Jednorożec,7 438,5 632,"33,77",1 755
+2011,142205,przasnyski,Gmina Krasne,3 978,3 140,"34,08",994
+2011,142206,przasnyski,Gmina Krzynowłoga Mała,3 699,2 911,"43,90",1 210
+2011,142207,przasnyski,Gmina Przasnysz,7 541,5 774,"37,55",2 038
+2011,142301,przysuski,Gmina Borkowice,4 571,3 781,"38,53",1 353
+2011,142302,przysuski,Gmina Gielniów,4 799,3 943,"44,59",1 608
+2011,142303,przysuski,Gmina Klwów,3 594,2 906,"64,04",1 742
+2011,142304,przysuski,Gmina Odrzywół,4 123,3 348,"55,70",1 726
+2011,142305,przysuski,Gmina Potworów,4 397,3 381,"43,09",1 360
+2011,142306,przysuski,Gmina Przysucha,12 786,10 475,"46,89",4 702
+2011,142307,przysuski,Gmina Rusinów,4 551,3 598,"52,00",1 778
+2011,142308,przysuski,Gmina Wieniawa,5 599,4 426,"42,54",1 756
+2011,142401,pułtuski,Gmina Gzy,3 945,3 163,"40,75",1 210
+2011,142402,pułtuski,Gmina Obryte,4 897,3 907,"52,98",1 874
+2011,142403,pułtuski,Gmina Pokrzywnica,4 927,3 871,"39,29",1 405
+2011,142404,pułtuski,Gmina Pułtusk,23 670,19 094,"46,78",8 521
+2011,142405,pułtuski,Gmina Świercze,4 782,3 802,"35,88",1 274
+2011,142406,pułtuski,Gmina Winnica,4 139,3 254,"55,47",1 677
+2011,142407,pułtuski,Gmina Zatory,4 841,3 846,"46,13",1 619
+2011,142501,radomski,Miasto Pionki,19 857,16 466,"45,75",7 136
+2011,142502,radomski,Gmina Gózd,8 363,6 378,"43,74",2 635
+2011,142503,radomski,Gmina Iłża,15 663,12 778,"38,06",4 549
+2011,142504,radomski,Gmina Jastrzębia,6 733,5 165,"43,04",2 108
+2011,142505,radomski,Gmina Jedlińsk,13 943,10 519,"43,02",4 158
+2011,142506,radomski,Gmina Jedlnia-Letnisko,12 144,9 625,"47,72",4 350
+2011,142507,radomski,Gmina Kowala,11 386,8 630,"46,65",3 784
+2011,142508,radomski,Gmina Pionki,10 106,8 093,"38,30",2 905
+2011,142509,radomski,Gmina Przytyk,7 269,5 533,"45,49",2 322
+2011,142510,radomski,Gmina Skaryszew,14 012,10 683,"45,53",4 563
+2011,142511,radomski,Gmina Wierzbica,10 217,7 977,"38,60",2 850
+2011,142512,radomski,Gmina Wolanów,8 589,6 478,"44,50",2 699
+2011,142513,radomski,Gmina Zakrzew,11 974,9 088,"49,04",4 225
+2011,142601,siedlecki,Gmina Domanice,2 721,2 116,"44,90",881
+2011,142602,siedlecki,Gmina Korczew,2 992,2 473,"40,44",928
+2011,142603,siedlecki,Gmina Kotuń,8 594,6 778,"41,47",2 606
+2011,142604,siedlecki,Gmina Mokobody,5 199,4 109,"45,87",1 758
+2011,142605,siedlecki,Gmina Mordy,6 257,5 025,"42,87",2 042
+2011,142606,siedlecki,Gmina Paprotnia,2 797,2 201,"55,61",1 169
+2011,142607,siedlecki,Gmina Przesmyki,3 643,2 966,"42,99",1 183
+2011,142608,siedlecki,Gmina Siedlce,16 836,12 996,"45,83",5 679
+2011,142609,siedlecki,Gmina Skórzec,7 514,5 776,"47,49",2 591
+2011,142610,siedlecki,Gmina Suchożebry,4 760,3 780,"42,78",1 505
+2011,142611,siedlecki,Gmina Wiśniew,5 981,4 479,"51,15",2 161
+2011,142612,siedlecki,Gmina Wodynie,4 751,3 775,"41,96",1 489
+2011,142613,siedlecki,Gmina Zbuczyn,10 264,7 840,"48,86",3 669
+2011,142701,sierpecki,Miasto Sierpc,18 788,15 361,"45,41",6 672
+2011,142702,sierpecki,Gmina Gozdowo,6 109,4 753,"32,95",1 447
+2011,142703,sierpecki,Gmina Mochowo,6 188,4 847,"32,49",1 456
+2011,142704,sierpecki,Gmina Rościszewo,4 356,3 396,"39,19",1 244
+2011,142705,sierpecki,Gmina Sierpc,7 084,5 463,"34,72",1 780
+2011,142706,sierpecki,Gmina Szczutowo,4 490,3 563,"35,03",1 165
+2011,142707,sierpecki,Gmina Zawidz,7 035,5 496,"44,29",2 252
+2011,142801,sochaczewski,Miasto Sochaczew,36 963,30 239,"49,55",14 308
+2011,142802,sochaczewski,Gmina Brochów,4 303,3 482,"37,22",1 229
+2011,142803,sochaczewski,Gmina Iłów,6 280,4 979,"42,80",2 050
+2011,142804,sochaczewski,Gmina Młodzieszyn,5 610,4 433,"35,53",1 501
+2011,142805,sochaczewski,Gmina Nowa Sucha,6 281,5 020,"41,27",1 969
+2011,142806,sochaczewski,Gmina Rybno,3 483,2 741,"39,58",1 034
+2011,142807,sochaczewski,Gmina Sochaczew,9 690,7 552,"43,21",3 106
+2011,142808,sochaczewski,Gmina Teresin,11 102,8 815,"48,47",4 066
+2011,142901,sokołowski,Miasto Sokołów Podlaski,18 895,15 234,"54,00",7 903
+2011,142902,sokołowski,Gmina Bielany,3 874,3 081,"50,99",1 490
+2011,142903,sokołowski,Gmina Ceranów,2 472,2 037,"45,02",855
+2011,142904,sokołowski,Gmina Jabłonna Lacka,5 012,4 102,"48,29",1 877
+2011,142905,sokołowski,Gmina Kosów Lacki,6 811,5 451,"44,98",2 324
+2011,142906,sokołowski,Gmina Repki,5 821,4 785,"53,75",2 449
+2011,142907,sokołowski,Gmina Sabnie,4 043,3 291,"48,80",1 525
+2011,142908,sokołowski,Gmina Sokołów Podlaski,6 216,4 943,"47,76",2 228
+2011,142909,sokołowski,Gmina Sterdyń,4 543,3 744,"47,54",1 703
+2011,143001,szydłowiecki,Gmina Chlewiska,6 219,5 278,"34,77",1 673
+2011,143002,szydłowiecki,Gmina Jastrząb,5 240,4 097,"40,88",1 562
+2011,143003,szydłowiecki,Gmina Mirów,3 918,2 960,"34,32",921
+2011,143004,szydłowiecki,Gmina Orońsko,5 909,4 605,"41,00",1 740
+2011,143005,szydłowiecki,Gmina Szydłowiec,19 631,15 651,"44,25",6 611
+2011,143201,warszawski zachodni,Gmina Błonie,20 277,16 463,"52,46",8 354
+2011,143202,warszawski zachodni,Gmina Izabelin,9 599,7 941,"67,35",5 170
+2011,143203,warszawski zachodni,Gmina Kampinos,4 104,3 336,"45,35",1 402
+2011,143204,warszawski zachodni,Gmina Leszno,9 129,7 356,"50,57",3 550
+2011,143205,warszawski zachodni,Gmina Łomianki,22 583,17 957,"68,93",12 090
+2011,143206,warszawski zachodni,Gmina Ożarów Mazowiecki,20 497,16 920,"56,45",9 220
+2011,143207,warszawski zachodni,Gmina Stare Babice,15 879,12 869,"61,92",7 764
+2011,143301,węgrowski,Miasto Węgrów,12 922,10 402,"52,44",5 252
+2011,143302,węgrowski,Gmina Grębków,4 613,3 689,"36,11",1 280
+2011,143303,węgrowski,Gmina Korytnica,6 691,5 308,"43,31",2 089
+2011,143304,węgrowski,Gmina Liw,7 737,6 159,"45,66",2 633
+2011,143305,węgrowski,Gmina Łochów,17 987,14 257,"44,69",6 046
+2011,143306,węgrowski,Gmina Miedzna,4 198,3 480,"48,16",1 596
+2011,143307,węgrowski,Gmina Sadowne,6 220,4 971,"41,38",1 940
+2011,143308,węgrowski,Gmina Stoczek,5 291,4 230,"44,30",1 759
+2011,143309,węgrowski,Gmina Wierzbno,3 023,2 506,"39,55",937
+2011,143401,wołomiński,Miasto Kobyłka,19 314,15 189,"61,64",9 104
+2011,143402,wołomiński,Miasto Marki,25 804,19 791,"55,51",10 748
+2011,143403,wołomiński,Miasto Ząbki,26 972,21 265,"61,76",12 760
+2011,143404,wołomiński,Miasto Zielonka,16 833,13 474,"64,35",8 434
+2011,143405,wołomiński,Gmina Dąbrówka,7 410,5 771,"50,42",2 785
+2011,143406,wołomiński,Gmina Jadów,7 669,6 266,"40,62",2 359
+2011,143407,wołomiński,Gmina Klembów,9 146,7 145,"49,49",3 363
+2011,143408,wołomiński,Gmina Poświętne,5 980,4 682,"43,87",1 915
+2011,143409,wołomiński,Gmina Radzymin,22 038,17 157,"53,24",8 780
+2011,143410,wołomiński,Gmina Strachówka,2 925,2 463,"33,54",753
+2011,143411,wołomiński,Gmina Tłuszcz,19 172,14 937,"45,14",6 307
+2011,143412,wołomiński,Gmina Wołomin,50 056,40 098,"57,72",22 366
+2011,143501,wyszkowski,Gmina Brańszczyk,8 334,6 754,"43,35",2 734
+2011,143502,wyszkowski,Gmina Długosiodło,7 959,6 122,"42,16",2 309
+2011,143503,wyszkowski,Gmina Rząśnik,6 948,5 351,"46,16",2 274
+2011,143504,wyszkowski,Gmina Somianka,5 586,4 530,"45,67",1 901
+2011,143505,wyszkowski,Gmina Wyszków,38 725,30 497,"50,27",14 520
+2011,143506,wyszkowski,Gmina Zabrodzie,5 723,4 528,"41,43",1 731
+2011,143601,zwoleński,Gmina Kazanów,4 752,3 746,"40,15",1 405
+2011,143602,zwoleński,Gmina Policzna,5 992,4 871,"33,28",1 527
+2011,143603,zwoleński,Gmina Przyłęk,6 481,5 115,"33,65",1 599
+2011,143604,zwoleński,Gmina Tczów,4 941,3 799,"38,90",1 347
+2011,143605,zwoleński,Gmina Zwoleń,15 584,12 467,"45,42",5 384
+2011,143701,żuromiński,Gmina Bieżuń,5 391,4 269,"41,06",1 662
+2011,143702,żuromiński,Gmina Kuczbork-Osada,5 068,3 981,"37,80",1 372
+2011,143703,żuromiński,Gmina Lubowidz,7 396,5 845,"37,04",2 059
+2011,143704,żuromiński,Gmina Lutocin,4 765,3 700,"35,49",1 232
+2011,143705,żuromiński,Gmina Siemiątkowo,3 737,2 947,"30,44",827
+2011,143706,żuromiński,Gmina Żuromin,14 877,11 839,"42,63",4 798
+2011,143801,żyrardowski,Miasto Żyrardów,40 108,32 628,"53,09",16 520
+2011,143802,żyrardowski,Gmina Mszczonów,11 410,9 072,"43,60",3 770
+2011,143803,żyrardowski,Gmina Puszcza Mariańska,8 206,6 776,"41,41",2 670
+2011,143804,żyrardowski,Gmina Radziejowice,4 979,4 112,"50,27",1 965
+2011,143805,żyrardowski,Gmina Wiskitki,9 651,7 747,"42,67",3 060
+2011,146101,Ostrołęka,Miasto Ostrołęka,53 207,42 928,"51,11",21 108
+2011,146201,Płock,Miasto Płock,122 353,100 638,"52,38",50 777
+2011,146301,Radom,Miasto Radom,217 380,176 586,"53,85",92 169
+2011,146401,Siedlce,Miasto Siedlce,74 590,61 075,"55,26",32 717
+2011,146502,Warszawa,Dzielnica Bemowo,108 875,89 993,"70,98",62 914
+2011,146503,Warszawa,Dzielnica Białołęka,87 310,67 626,"69,18",45 893
+2011,146504,Warszawa,Dzielnica Bielany,127 435,107 342,"67,76",71 341
+2011,146505,Warszawa,Dzielnica Mokotów,209 528,180 871,"69,31",123 232
+2011,146506,Warszawa,Dzielnica Ochota,78 904,68 450,"68,00",45 631
+2011,146507,Warszawa,Dzielnica Praga-Południe,171 326,147 011,"66,94",96 493
+2011,146508,Warszawa,Dzielnica Praga-Północ,66 018,55 426,"57,62",30 991
+2011,146509,Warszawa,Dzielnica Rembertów,21 781,17 791,"65,83",11 488
+2011,146510,Warszawa,Dzielnica Śródmieście,113 845,100 891,"67,39",66 797
+2011,146511,Warszawa,Dzielnica Targówek,119 556,98 775,"62,92",60 707
+2011,146512,Warszawa,Dzielnica Ursus,49 754,39 665,"66,74",25 982
+2011,146513,Warszawa,Dzielnica Ursynów,135 815,112 693,"74,19",82 321
+2011,146514,Warszawa,Dzielnica Wawer,65 598,53 413,"68,19",35 844
+2011,146515,Warszawa,Dzielnica Wesoła,20 567,16 501,"71,35",11 529
+2011,146516,Warszawa,Dzielnica Wilanów,21 062,16 766,"76,81",12 720
+2011,146517,Warszawa,Dzielnica Włochy,35 699,29 485,"67,42",19 528
+2011,146518,Warszawa,Dzielnica Wola,129 106,111 952,"63,33",69 462
+2011,146519,Warszawa,Dzielnica Żoliborz,45 712,38 973,"70,98",27 208
+2011,160101,brzeski,Miasto Brzeg,36 384,30 446,"47,93",14 094
+2011,160102,brzeski,Gmina Skarbimierz,7 305,5 662,"45,55",2 407
+2011,160103,brzeski,Gmina Grodków,19 833,15 801,"36,80",5 425
+2011,160104,brzeski,Gmina Lewin Brzeski,13 411,10 650,"38,43",3 904
+2011,160105,brzeski,Gmina Lubsza,8 928,7 237,"40,13",2 701
+2011,160106,brzeski,Gmina Olszanka,5 012,3 997,"40,33",1 513
+2011,160201,głubczycki,Gmina Baborów,6 320,5 198,"31,86",1 550
+2011,160202,głubczycki,Gmina Branice,7 075,5 979,"35,98",1 980
+2011,160203,głubczycki,Gmina Głubczyce,23 313,19 112,"41,63",7 496
+2011,160204,głubczycki,Gmina Kietrz,11 355,9 233,"40,19",3 485
+2011,160301,kędzierzyńsko-kozielski,Miasto Kędzierzyn-Koźle,61 715,51 139,"46,80",22 556
+2011,160302,kędzierzyńsko-kozielski,Gmina Bierawa,7 487,6 301,"35,01",2 035
+2011,160303,kędzierzyńsko-kozielski,Gmina Cisek,5 857,4 852,"34,15",1 533
+2011,160304,kędzierzyńsko-kozielski,Gmina Pawłowiczki,7 970,6 576,"28,89",1 732
+2011,160305,kędzierzyńsko-kozielski,Gmina Polska Cerekiew,4 382,3 702,"35,39",1 154
+2011,160306,kędzierzyńsko-kozielski,Gmina Reńska Wieś,8 091,6 738,"32,09",2 016
+2011,160401,kluczborski,Gmina Byczyna,9 636,7 708,"36,65",2 601
+2011,160402,kluczborski,Gmina Kluczbork,36 721,30 911,"43,04",12 684
+2011,160403,kluczborski,Gmina Lasowice Wielkie,7 064,5 894,"29,66",1 631
+2011,160404,kluczborski,Gmina Wołczyn,14 080,11 279,"38,34",4 053
+2011,160501,krapkowicki,Gmina Gogolin,12 275,10 212,"32,20",3 021
+2011,160502,krapkowicki,Gmina Krapkowice,23 252,19 368,"38,51",7 087
+2011,160503,krapkowicki,Gmina Strzeleczki,7 521,6 239,"29,49",1 698
+2011,160504,krapkowicki,Gmina Walce,5 650,4 698,"29,74",1 275
+2011,160505,krapkowicki,Gmina Zdzieszowice,16 194,13 263,"36,32",4 310
+2011,160601,namysłowski,Gmina Domaszowice,3 796,3 023,"48,83",1 360
+2011,160602,namysłowski,Gmina Namysłów,25 538,20 938,"44,90",8 948
+2011,160603,namysłowski,Gmina Pokój,5 389,4 377,"33,93",1 371
+2011,160604,namysłowski,Gmina Świerczów,3 626,2 968,"43,03",1 189
+2011,160605,namysłowski,Gmina Wilków,4 660,3 649,"36,48",1 239
+2011,160701,nyski,Gmina Głuchołazy,25 295,21 197,"37,18",7 452
+2011,160702,nyski,Gmina Kamiennik,3 686,2 968,"33,69",930
+2011,160703,nyski,Gmina Korfantów,9 563,7 909,"28,60",2 036
+2011,160704,nyski,Gmina Łambinowice,7 724,6 284,"34,66",2 017
+2011,160705,nyski,Gmina Nysa,58 072,48 739,"44,91",20 918
+2011,160706,nyski,Gmina Otmuchów,14 119,11 531,"41,00",4 418
+2011,160707,nyski,Gmina Paczków,13 345,10 859,"38,54",3 899
+2011,160708,nyski,Gmina Pakosławice,3 752,3 078,"38,08",1 081
+2011,160709,nyski,Gmina Skoroszyce,6 465,5 112,"31,44",1 495
+2011,160801,oleski,Gmina Dobrodzień,9 993,8 230,"30,90",2 339
+2011,160802,oleski,Gmina Gorzów Śląski,7 444,6 112,"32,26",1 824
+2011,160803,oleski,Gmina Olesno,18 021,15 061,"37,57",5 349
+2011,160804,oleski,Gmina Praszka,14 070,11 626,"46,91",5 152
+2011,160805,oleski,Gmina Radłów,4 468,3 613,"27,29",923
+2011,160806,oleski,Gmina Rudniki,8 419,6 863,"38,83",2 467
+2011,160807,oleski,Gmina Zębowice,3 752,3 124,"29,64",857
+2011,160901,opolski,Gmina Chrząstowice,6 491,5 491,"38,21",1 951
+2011,160902,opolski,Gmina Dąbrowa,9 324,7 652,"40,53",2 869
+2011,160903,opolski,Gmina Dobrzeń Wielki,14 044,11 775,"39,40",4 366
+2011,160904,opolski,Gmina Komprachcice,10 623,9 011,"40,24",3 412
+2011,160905,opolski,Gmina Łubniany,9 291,7 723,"35,26",2 519
+2011,160906,opolski,Gmina Murów,5 550,4 676,"31,05",1 357
+2011,160907,opolski,Gmina Niemodlin,13 406,10 795,"38,83",3 969
+2011,160908,opolski,Gmina Ozimek,19 964,17 072,"34,59",5 491
+2011,160909,opolski,Gmina Popielów,8 163,6 791,"34,56",2 136
+2011,160910,opolski,Gmina Prószków,9 624,7 922,"38,98",2 832
+2011,160911,opolski,Gmina Tarnów Opolski,9 573,7 927,"36,31",2 684
+2011,160912,opolski,Gmina Tułowice,5 283,4 319,"40,70",1 601
+2011,160913,opolski,Gmina Turawa,9 425,7 900,"34,33",2 539
+2011,161001,prudnicki,Gmina Biała,10 906,9 023,"28,69",2 408
+2011,161002,prudnicki,Gmina Głogówek,13 629,11 188,"32,40",3 383
+2011,161003,prudnicki,Gmina Lubrza,4 453,3 592,"38,84",1 290
+2011,161004,prudnicki,Gmina Prudnik,28 198,23 119,"41,33",9 084
+2011,161101,strzelecki,Gmina Izbicko,5 348,4 413,"35,28",1 447
+2011,161102,strzelecki,Gmina Jemielnica,7 209,6 021,"30,31",1 657
+2011,161103,strzelecki,Gmina Kolonowskie,6 062,5 172,"31,26",1 489
+2011,161104,strzelecki,Gmina Leśnica,7 975,6 574,"35,47",2 160
+2011,161105,strzelecki,Gmina Strzelce Opolskie,31 000,27 183,"39,50",10 009
+2011,161106,strzelecki,Gmina Ujazd,6 310,5 091,"38,13",1 780
+2011,161107,strzelecki,Gmina Zawadzkie,11 948,10 090,"34,68",3 213
+2011,166101,Opole,Miasto Opole,115 364,97 615,"55,70",52 815
+2011,180103,bieszczadzki,Gmina Czarna,2 436,1 932,"34,58",622
+2011,180105,bieszczadzki,Gmina Lutowiska,2 211,1 856,"39,71",697
+2011,180108,bieszczadzki,Gmina Ustrzyki Dolne,18 057,14 263,"38,97",5 250
+2011,180201,brzozowski,Gmina Brzozów,27 052,21 076,"40,79",8 253
+2011,180202,brzozowski,Gmina Domaradz,6 215,4 829,"38,10",1 713
+2011,180203,brzozowski,Gmina Dydnia,8 399,6 540,"36,28",2 176
+2011,180204,brzozowski,Gmina Haczów,9 429,7 352,"39,84",2 793
+2011,180205,brzozowski,Gmina Jasienica Rosielna,7 690,5 838,"48,94",2 737
+2011,180206,brzozowski,Gmina Nozdrzec,8 666,6 874,"44,41",2 779
+2011,180301,dębicki,Miasto Dębica,47 021,38 583,"52,38",19 388
+2011,180302,dębicki,Gmina Brzostek,13 357,10 179,"41,31",3 873
+2011,180303,dębicki,Gmina Czarna,12 846,9 989,"46,48",4 388
+2011,180304,dębicki,Gmina Dębica,24 991,19 222,"47,07",8 510
+2011,180305,dębicki,Gmina Jodłowa,5 518,4 352,"37,94",1 516
+2011,180306,dębicki,Gmina Pilzno,17 937,13 849,"48,18",6 211
+2011,180307,dębicki,Gmina Żyraków,13 731,10 693,"46,29",4 632
+2011,180401,jarosławski,Miasto Jarosław,38 875,32 239,"49,43",15 333
+2011,180402,jarosławski,Miasto Radymno,5 560,4 445,"47,31",1 982
+2011,180403,jarosławski,Gmina Chłopice,5 714,4 498,"40,53",1 667
+2011,180404,jarosławski,Gmina Jarosław,13 154,10 222,"43,04",4 136
+2011,180405,jarosławski,Gmina Laszki,7 177,5 493,"44,68",2 286
+2011,180406,jarosławski,Gmina Pawłosiów,8 495,6 653,"46,79",2 968
+2011,180407,jarosławski,Gmina Pruchnik,9 935,7 566,"44,95",3 165
+2011,180408,jarosławski,Gmina Radymno,11 604,8 894,"43,46",3 583
+2011,180409,jarosławski,Gmina Rokietnica,4 475,3 446,"38,28",1 226
+2011,180410,jarosławski,Gmina Roźwienica,6 406,4 939,"41,73",1 905
+2011,180411,jarosławski,Gmina Wiązownica,11 635,8 878,"50,42",4 187
+2011,180501,jasielski,Miasto Jasło,37 067,30 410,"49,99",14 609
+2011,180502,jasielski,Gmina Brzyska,6 557,5 026,"41,15",1 875
+2011,180503,jasielski,Gmina Dębowiec,8 668,6 743,"44,62",2 804
+2011,180504,jasielski,Gmina Jasło,16 435,13 134,"47,78",5 870
+2011,180505,jasielski,Gmina Kołaczyce,9 093,7 049,"43,99",2 889
+2011,180506,jasielski,Gmina Krempna,2 060,1 639,"33,98",497
+2011,180507,jasielski,Gmina Nowy Żmigród,9 508,7 524,"48,17",3 431
+2011,180508,jasielski,Gmina Osiek Jasielski,5 417,4 200,"41,40",1 651
+2011,180509,jasielski,Gmina Skołyszyn,12 667,9 941,"42,99",4 029
+2011,180511,jasielski,Gmina Tarnowiec,9 449,7 401,"41,59",2 922
+2011,180601,kolbuszowski,Gmina Cmolas,8 164,6 201,"44,82",2 577
+2011,180602,kolbuszowski,Gmina Kolbuszowa,25 153,20 080,"48,40",9 271
+2011,180603,kolbuszowski,Gmina Majdan Królewski,10 110,7 739,"43,25",3 194
+2011,180604,kolbuszowski,Gmina Niwiska,6 020,4 581,"47,63",2 013
+2011,180605,kolbuszowski,Gmina Raniżów,7 244,5 624,"45,66",2 452
+2011,180606,kolbuszowski,Gmina Dzikowiec,6 611,5 121,"41,16",1 973
+2011,180701,krośnieński,Gmina Chorkówka,13 604,10 493,"41,67",4 159
+2011,180702,krośnieński,Gmina Dukla,14 901,11 711,"39,94",4 419
+2011,180703,krośnieński,Gmina Iwonicz-Zdrój,10 893,8 835,"44,99",3 836
+2011,180704,krośnieński,Gmina Jedlicze,15 594,12 373,"39,77",4 697
+2011,180705,krośnieński,Gmina Korczyna,11 140,8 793,"44,51",3 735
+2011,180706,krośnieński,Gmina Krościenko Wyżne,5 491,4 192,"44,61",1 819
+2011,180707,krośnieński,Gmina Miejsce Piastowe,13 614,10 754,"47,32",4 833
+2011,180708,krośnieński,Gmina Rymanów,15 944,13 005,"45,94",5 684
+2011,180709,krośnieński,Gmina Wojaszówka,9 226,7 318,"37,18",2 594
+2011,180710,krośnieński,Gmina Jaśliska,2 147,1 629,"36,96",561
+2011,180801,leżajski,Miasto Leżajsk,14 376,11 819,"50,95",5 815
+2011,180802,leżajski,Gmina Grodzisko Dolne,8 261,6 506,"50,22",3 112
+2011,180803,leżajski,Gmina Kuryłówka,5 861,4 582,"43,08",1 854
+2011,180804,leżajski,Gmina Leżajsk,20 301,15 515,"44,64",6 560
+2011,180805,leżajski,Gmina Nowa Sarzyna,21 990,16 868,"47,93",7 793
+2011,180901,lubaczowski,Miasto Lubaczów,13 087,10 312,"45,31",4 518
+2011,180902,lubaczowski,Gmina Cieszanów,7 840,6 084,"43,85",2 549
+2011,180903,lubaczowski,Gmina Horyniec-Zdrój,5 094,4 241,"41,50",1 678
+2011,180904,lubaczowski,Gmina Lubaczów,9 434,7 299,"39,46",2 726
+2011,180905,lubaczowski,Gmina Narol,8 659,6 767,"39,90",2 565
+2011,180906,lubaczowski,Gmina Oleszyce,6 729,5 285,"43,44",2 127
+2011,180907,lubaczowski,Gmina Stary Dzików,4 652,3 626,"35,93",1 198
+2011,180908,lubaczowski,Gmina Wielkie Oczy,3 970,3 078,"41,36",1 205
+2011,181001,łańcucki,Miasto Łańcut,17 953,14 559,"54,00",7 635
+2011,181002,łańcucki,Gmina Białobrzegi,8 412,6 461,"45,43",2 778
+2011,181003,łańcucki,Gmina Czarna,11 176,8 733,"53,35",4 488
+2011,181004,łańcucki,Gmina Łańcut,21 126,16 453,"50,51",8 013
+2011,181005,łańcucki,Gmina Markowa,6 683,5 175,"42,40",2 089
+2011,181006,łańcucki,Gmina Rakszawa,7 418,5 657,"49,58",2 683
+2011,181007,łańcucki,Gmina Żołynia,6 875,5 402,"46,52",2 392
+2011,181101,mielecki,Miasto Mielec,61 519,50 252,"51,53",25 005
+2011,181102,mielecki,Gmina Borowa,5 704,4 427,"47,91",1 967
+2011,181103,mielecki,Gmina Czermin,7 005,5 364,"37,90",1 890
+2011,181104,mielecki,Gmina Gawłuszowice,2 823,2 213,"46,18",925
+2011,181105,mielecki,Gmina Mielec,12 860,9 979,"46,00",4 360
+2011,181106,mielecki,Gmina Padew Narodowa,5 460,4 281,"48,42",1 952
+2011,181107,mielecki,Gmina Przecław,11 462,8 742,"43,78",3 613
+2011,181108,mielecki,Gmina Radomyśl Wielki,14 125,10 728,"41,01",4 129
+2011,181109,mielecki,Gmina Tuszów Narodowy,7 819,6 059,"53,49",3 010
+2011,181110,mielecki,Gmina Wadowice Górne,7 455,5 647,"41,05",2 204
+2011,181201,niżański,Gmina Harasiuki,6 433,5 055,"37,67",1 744
+2011,181202,niżański,Gmina Jarocin,5 499,4 366,"35,59",1 472
+2011,181203,niżański,Gmina Jeżowe,10 180,7 663,"46,99",3 441
+2011,181204,niżański,Gmina Krzeszów,4 354,3 492,"40,23",1 336
+2011,181205,niżański,Gmina Nisko,22 578,18 174,"43,62",7 518
+2011,181206,niżański,Gmina Rudnik nad Sanem,10 342,8 320,"39,34",3 085
+2011,181207,niżański,Gmina Ulanów,8 792,6 996,"37,95",2 472
+2011,181301,przemyski,Gmina Bircza,6 945,5 386,"40,75",1 998
+2011,181302,przemyski,Gmina Dubiecko,9 838,7 621,"35,32",2 500
+2011,181303,przemyski,Gmina Fredropol,5 639,4 437,"39,51",1 633
+2011,181304,przemyski,Gmina Krasiczyn,4 849,3 794,"44,54",1 577
+2011,181305,przemyski,Gmina Krzywcza,5 076,3 947,"36,81",1 325
+2011,181306,przemyski,Gmina Medyka,6 384,5 165,"43,99",2 153
+2011,181307,przemyski,Gmina Orły,8 741,6 721,"41,91",2 664
+2011,181308,przemyski,Gmina Przemyśl,9 822,7 804,"42,47",3 124
+2011,181309,przemyski,Gmina Stubno,4 162,3 199,"36,48",1 092
+2011,181310,przemyski,Gmina Żurawica,12 840,10 260,"46,76",4 498
+2011,181401,przeworski,Miasto Przeworsk,16 166,13 012,"50,20",6 329
+2011,181402,przeworski,Gmina Adamówka,4 309,3 296,"39,96",1 238
+2011,181403,przeworski,Gmina Gać,4 663,3 659,"40,26",1 363
+2011,181404,przeworski,Gmina Jawornik Polski,4 758,3 877,"36,81",1 283
+2011,181405,przeworski,Gmina Kańczuga,12 874,10 209,"36,62",3 478
+2011,181406,przeworski,Gmina Przeworsk,14 863,11 627,"49,10",5 399
+2011,181407,przeworski,Gmina Sieniawa,7 146,5 536,"46,57",2 428
+2011,181408,przeworski,Gmina Tryńcza,8 422,6 454,"41,12",2 502
+2011,181409,przeworski,Gmina Zarzecze,7 284,5 669,"45,28",2 407
+2011,181501,ropczycko-sędziszowski,Gmina Iwierzyce,7 584,5 870,"50,27",2 837
+2011,181502,ropczycko-sędziszowski,Gmina Ostrów,7 116,5 501,"37,88",1 957
+2011,181503,ropczycko-sędziszowski,Gmina Ropczyce,26 896,20 875,"50,35",9 953
+2011,181504,ropczycko-sędziszowski,Gmina Sędziszów Małopolski,23 485,18 378,"50,90",8 965
+2011,181505,ropczycko-sędziszowski,Gmina Wielopole Skrzyńskie,8 523,6 460,"43,22",2 653
+2011,181601,rzeszowski,Miasto Dynów,6 284,4 995,"46,13",2 207
+2011,181602,rzeszowski,Gmina Błażowa,10 777,8 528,"45,47",3 656
+2011,181603,rzeszowski,Gmina Boguchwała,18 903,15 018,"53,31",7 702
+2011,181604,rzeszowski,Gmina Chmielnik,6 580,5 108,"49,65",2 372
+2011,181605,rzeszowski,Gmina Dynów,7 240,5 646,"35,64",1 889
+2011,181606,rzeszowski,Gmina Głogów Małopolski,18 533,14 524,"51,95",7 186
+2011,181607,rzeszowski,Gmina Hyżne,6 966,5 402,"52,20",2 696
+2011,181608,rzeszowski,Gmina Kamień,7 123,5 416,"46,31",2 398
+2011,181609,rzeszowski,Gmina Krasne,10 254,8 032,"53,82",4 128
+2011,181610,rzeszowski,Gmina Lubenia,6 554,5 226,"48,43",2 400
+2011,181611,rzeszowski,Gmina Sokołów Małopolski,16 887,13 048,"50,28",6 221
+2011,181612,rzeszowski,Gmina Świlcza,15 774,12 429,"50,58",5 975
+2011,181613,rzeszowski,Gmina Trzebownisko,19 803,15 318,"52,46",7 712
+2011,181614,rzeszowski,Gmina Tyczyn,11 010,8 559,"49,80",4 062
+2011,181701,sanocki,Miasto Sanok,38 783,31 951,"46,52",14 384
+2011,181702,sanocki,Gmina Besko,4 431,3 400,"34,24",1 102
+2011,181703,sanocki,Gmina Bukowsko,5 558,4 250,"40,85",1 630
+2011,181704,sanocki,Gmina Komańcza,5 196,4 795,"30,78",1 408
+2011,181705,sanocki,Gmina Sanok,17 707,13 649,"38,85",4 991
+2011,181706,sanocki,Gmina Tyrawa Wołoska,2 017,1 536,"30,66",433
+2011,181707,sanocki,Gmina Zagórz,13 225,10 372,"38,68",3 786
+2011,181708,sanocki,Gmina Zarszyn,9 385,7 382,"39,47",2 773
+2011,181801,stalowowolski,Miasto Stalowa Wola,63 735,52 208,"48,00",24 140
+2011,181802,stalowowolski,Gmina Bojanów,7 496,5 699,"42,39",2 245
+2011,181803,stalowowolski,Gmina Pysznica,10 213,8 034,"42,26",3 233
+2011,181804,stalowowolski,Gmina Radomyśl nad Sanem,7 451,5 899,"37,90",2 106
+2011,181805,stalowowolski,Gmina Zaklików,8 796,7 051,"37,70",2 489
+2011,181806,stalowowolski,Gmina Zaleszany,10 988,8 730,"42,93",3 458
+2011,181901,strzyżowski,Gmina Czudec,11 830,9 269,"48,96",4 326
+2011,181902,strzyżowski,Gmina Frysztak,10 738,8 289,"40,58",3 189
+2011,181903,strzyżowski,Gmina Niebylec,10 813,8 498,"45,70",3 678
+2011,181904,strzyżowski,Gmina Strzyżów,20 899,16 854,"42,42",6 817
+2011,181905,strzyżowski,Gmina Wiśniowa,8 587,6 675,"40,30",2 553
+2011,182001,tarnobrzeski,Gmina Baranów Sandomierski,12 320,9 697,"47,76",4 374
+2011,182002,tarnobrzeski,Gmina Gorzyce,13 649,10 902,"40,02",4 134
+2011,182003,tarnobrzeski,Gmina Grębów,9 880,7 736,"40,59",2 896
+2011,182004,tarnobrzeski,Gmina Nowa Dęba,18 850,15 593,"43,28",6 425
+2011,182101,leski,Gmina Baligród,3 260,2 619,"41,70",1 033
+2011,182102,leski,Gmina Cisna,1 728,1 710,"58,48",958
+2011,182103,leski,Gmina Lesko,11 775,9 417,"41,21",3 620
+2011,182104,leski,Gmina Olszanica,5 121,4 634,"41,39",1 753
+2011,182105,leski,Gmina Solina,5 445,4 682,"44,04",1 947
+2011,186101,Krosno,Miasto Krosno,47 360,38 607,"50,08",18 919
+2011,186201,Przemyśl,Miasto Przemyśl,64 072,52 922,"49,67",25 364
+2011,186301,Rzeszów,Miasto Rzeszów,170 414,140 255,"58,56",80 202
+2011,186401,Tarnobrzeg,Miasto Tarnobrzeg,48 656,39 680,"48,86",18 754
+2011,200101,augustowski,Miasto Augustów,30 104,24 315,"47,38",11 030
+2011,200102,augustowski,Gmina Augustów,6 993,5 309,"36,90",1 862
+2011,200103,augustowski,Gmina Bargłów Kościelny,5 878,4 567,"30,90",1 339
+2011,200104,augustowski,Gmina Lipsk,5 784,4 628,"35,03",1 475
+2011,200105,augustowski,Gmina Nowinka,2 918,2 396,"43,36",1 006
+2011,200106,augustowski,Gmina Płaska,2 600,2 149,"36,99",752
+2011,200107,augustowski,Gmina Sztabin,5 535,4 370,"35,63",1 456
+2011,200201,białostocki,Gmina Choroszcz,13 783,11 641,"48,34",5 369
+2011,200202,białostocki,Gmina Czarna Białostocka,11 541,9 284,"43,32",3 867
+2011,200203,białostocki,Gmina Dobrzyniewo Duże,8 460,6 672,"44,83",2 830
+2011,200204,białostocki,Gmina Gródek,5 679,4 786,"39,47",1 815
+2011,200205,białostocki,Gmina Juchnowiec Kościelny,14 362,11 331,"52,18",5 722
+2011,200206,białostocki,Gmina Łapy,22 570,18 446,"49,15",8 715
+2011,200207,białostocki,Gmina Michałowo,7 087,6 089,"41,67",2 351
+2011,200208,białostocki,Gmina Poświętne,3 782,2 961,"45,02",1 263
+2011,200209,białostocki,Gmina Supraśl,13 489,10 798,"53,40",5 543
+2011,200210,białostocki,Gmina Suraż,2 076,1 630,"54,66",838
+2011,200211,białostocki,Gmina Turośń Kościelna,5 673,4 449,"52,64",2 231
+2011,200212,białostocki,Gmina Tykocin,6 580,5 317,"40,59",2 057
+2011,200213,białostocki,Gmina Wasilków,14 076,11 051,"50,99",5 427
+2011,200214,białostocki,Gmina Zabłudów,8 949,7 222,"42,36",2 893
+2011,200215,białostocki,Gmina Zawady,2 994,2 389,"39,47",904
+2011,200301,bielski,Miasto Bielsk Podlaski,27 070,21 948,"47,96",10 143
+2011,200302,bielski,Miasto Brańsk,3 966,3 162,"51,23",1 558
+2011,200303,bielski,Gmina Bielsk Podlaski,7 221,6 246,"37,58",2 260
+2011,200304,bielski,Gmina Boćki,4 755,3 947,"41,80",1 585
+2011,200305,bielski,Gmina Brańsk,6 545,5 130,"54,93",2 739
+2011,200306,bielski,Gmina Orla,3 145,2 723,"40,95",1 037
+2011,200307,bielski,Gmina Rudka,2 080,1 633,"46,05",701
+2011,200308,bielski,Gmina Wyszki,4 868,3 888,"48,23",1 801
+2011,200401,grajewski,Miasto Grajewo,22 172,17 762,"42,11",7 090
+2011,200402,grajewski,Gmina Grajewo,6 192,4 683,"35,02",1 533
+2011,200403,grajewski,Gmina Radziłów,5 258,4 156,"41,24",1 598
+2011,200404,grajewski,Gmina Rajgród,5 656,4 445,"35,41",1 440
+2011,200405,grajewski,Gmina Szczuczyn,6 603,5 207,"39,06",1 843
+2011,200406,grajewski,Gmina Wąsosz,4 075,3 123,"36,54",1 054
+2011,200501,hajnowski,Miasto Hajnówka,22 382,18 753,"47,91",8 601
+2011,200502,hajnowski,Gmina Białowieża,2 280,2 039,"48,06",943
+2011,200503,hajnowski,Gmina Czeremcha,3 594,3 042,"42,64",1 176
+2011,200504,hajnowski,Gmina Czyże,2 431,2 097,"38,77",779
+2011,200505,hajnowski,Gmina Dubicze Cerkiewne,1 807,1 606,"40,29",609
+2011,200506,hajnowski,Gmina Hajnówka,4 152,3 493,"42,43",1 424
+2011,200507,hajnowski,Gmina Kleszczele,2 841,2 422,"43,68",979
+2011,200508,hajnowski,Gmina Narew,3 907,3 376,"37,35",1 175
+2011,200509,hajnowski,Gmina Narewka,3 962,3 436,"40,42",1 337
+2011,200601,kolneński,Miasto Kolno,10 676,8 735,"40,06",3 290
+2011,200602,kolneński,Gmina Grabowo,3 835,2 913,"41,68",1 123
+2011,200603,kolneński,Gmina Kolno,9 126,6 859,"39,12",2 513
+2011,200604,kolneński,Gmina Mały Płock,5 151,4 058,"35,39",1 325
+2011,200605,kolneński,Gmina Stawiski,6 648,5 167,"36,04",1 741
+2011,200606,kolneński,Gmina Turośl,5 278,3 927,"39,27",1 422
+2011,200701,łomżyński,Gmina Jedwabne,5 709,4 567,"40,97",1 756
+2011,200702,łomżyński,Gmina Łomża,10 680,8 305,"44,17",3 472
+2011,200703,łomżyński,Gmina Miastkowo,4 379,3 352,"35,65",1 104
+2011,200704,łomżyński,Gmina Nowogród,4 175,3 246,"41,62",1 262
+2011,200705,łomżyński,Gmina Piątnica,10 691,8 293,"36,20",2 789
+2011,200706,łomżyński,Gmina Przytuły,2 294,1 801,"38,65",646
+2011,200707,łomżyński,Gmina Śniadowo,5 733,4 499,"45,34",1 938
+2011,200708,łomżyński,Gmina Wizna,4 418,3 505,"39,91",1 330
+2011,200709,łomżyński,Gmina Zbójna,4 496,3 552,"36,60",1 215
+2011,200801,moniecki,Gmina Goniądz,5 228,4 179,"37,95",1 495
+2011,200802,moniecki,Gmina Jasionówka,3 066,2 455,"37,88",857
+2011,200803,moniecki,Gmina Jaświły,5 570,4 475,"33,59",1 427
+2011,200804,moniecki,Gmina Knyszyn,4 945,3 969,"39,20",1 436
+2011,200805,moniecki,Gmina Krypno,4 141,3 246,"35,98",1 111
+2011,200806,moniecki,Gmina Mońki,15 603,12 665,"38,14",4 526
+2011,200807,moniecki,Gmina Trzcianne,4 781,3 786,"32,41",1 154
+2011,200901,sejneński,Miasto Sejny,5 768,4 631,"42,04",1 827
+2011,200902,sejneński,Gmina Giby,2 939,2 411,"37,62",879
+2011,200903,sejneński,Gmina Krasnopol,4 047,3 204,"34,89",1 051
+2011,200904,sejneński,Gmina Puńsk,4 444,3 552,"33,70",1 116
+2011,200905,sejneński,Gmina Sejny,4 216,3 404,"35,69",1 165
+2011,201001,siemiatycki,Miasto Siemiatycze,15 143,12 296,"45,63",5 364
+2011,201002,siemiatycki,Gmina Drohiczyn,6 970,5 529,"39,68",2 096
+2011,201003,siemiatycki,Gmina Dziadkowice,3 130,2 423,"41,27",941
+2011,201004,siemiatycki,Gmina Grodzisk,4 693,3 693,"42,59",1 518
+2011,201005,siemiatycki,Gmina Mielnik,2 614,2 350,"46,26",1 010
+2011,201006,siemiatycki,Gmina Milejczyce,2 219,1 812,"45,36",771
+2011,201007,siemiatycki,Gmina Nurzec-Stacja,4 520,3 719,"34,15",1 199
+2011,201008,siemiatycki,Gmina Perlejewo,3 188,2 503,"40,91",972
+2011,201009,siemiatycki,Gmina Siemiatycze,6 465,5 182,"35,64",1 768
+2011,201101,sokólski,Gmina Dąbrowa Białostocka,12 802,10 293,"41,76",4 126
+2011,201102,sokólski,Gmina Janów,4 523,3 587,"34,85",1 191
+2011,201103,sokólski,Gmina Korycin,3 472,2 712,"38,64",1 008
+2011,201104,sokólski,Gmina Krynki,3 354,2 797,"44,83",1 183
+2011,201105,sokólski,Gmina Kuźnica,4 373,3 502,"43,55",1 438
+2011,201106,sokólski,Gmina Nowy Dwór,3 001,2 447,"41,11",963
+2011,201107,sokólski,Gmina Sidra,3 817,3 107,"34,12",1 010
+2011,201108,sokólski,Gmina Sokółka,26 661,21 566,"41,54",8 535
+2011,201109,sokólski,Gmina Suchowola,7 480,5 965,"40,49",2 301
+2011,201110,sokólski,Gmina Szudziałowo,3 350,2 789,"37,93",987
+2011,201201,suwalski,Gmina Bakałarzewo,3 191,2 508,"37,04",875
+2011,201202,suwalski,Gmina Filipów,4 561,3 627,"32,62",1 108
+2011,201203,suwalski,Gmina Jeleniewo,3 199,2 479,"40,14",924
+2011,201204,suwalski,Gmina Przerośl,3 118,2 407,"34,07",774
+2011,201205,suwalski,Gmina Raczki,6 276,4 802,"40,75",1 825
+2011,201206,suwalski,Gmina Rutka-Tartak,2 601,1 999,"41,52",786
+2011,201207,suwalski,Gmina Suwałki,7 219,5 673,"41,30",2 211
+2011,201208,suwalski,Gmina Szypliszki,4 110,3 207,"36,33",1 094
+2011,201209,suwalski,Gmina Wiżajny,2 585,2 021,"41,76",794
+2011,201301,wysokomazowiecki,Miasto Wysokie Mazowieckie,9 580,7 657,"51,61",3 845
+2011,201302,wysokomazowiecki,Gmina Ciechanowiec,9 315,7 592,"41,82",3 063
+2011,201303,wysokomazowiecki,Gmina Czyżew,6 718,5 304,"49,92",2 484
+2011,201304,wysokomazowiecki,Gmina Klukowo,4 771,3 740,"50,70",1 792
+2011,201305,wysokomazowiecki,Gmina Kobylin-Borzymy,3 601,2 819,"45,87",1 249
+2011,201306,wysokomazowiecki,Gmina Kulesze Kościelne,3 339,2 662,"52,37",1 353
+2011,201307,wysokomazowiecki,Gmina Nowe Piekuty,4 170,3 236,"51,79",1 608
+2011,201308,wysokomazowiecki,Gmina Sokoły,6 024,4 882,"48,73",2 257
+2011,201309,wysokomazowiecki,Gmina Szepietowo,7 524,5 892,"48,22",2 732
+2011,201310,wysokomazowiecki,Gmina Wysokie Mazowieckie,5 446,4 266,"44,87",1 827
+2011,201401,zambrowski,Miasto Zambrów,22 678,18 300,"41,99",7 311
+2011,201402,zambrowski,Gmina Kołaki Kościelne,2 472,1 980,"53,28",1 015
+2011,201403,zambrowski,Gmina Rutki,6 046,4 922,"42,91",1 960
+2011,201404,zambrowski,Gmina Szumowo,5 043,3 969,"44,60",1 702
+2011,201405,zambrowski,Gmina Zambrów,8 929,7 720,"43,41",3 218
+2011,206101,Białystok,Miasto Białystok,277 799,228 579,"56,66",126 592
+2011,206201,Łomża,Miasto Łomża,61 337,49 431,"47,79",22 918
+2011,206301,Suwałki,Miasto Suwałki,68 295,54 037,"45,64",23 905
+2011,220101,bytowski,Gmina Borzytuchom,2 961,2 232,"41,76",833
+2011,220102,bytowski,Gmina Bytów,24 583,19 063,"48,06",8 746
+2011,220103,bytowski,Gmina Czarna Dąbrówka,5 839,4 465,"38,86",1 597
+2011,220104,bytowski,Gmina Kołczygłowy,4 329,3 293,"36,53",1 070
+2011,220105,bytowski,Gmina Lipnica,5 227,4 060,"44,43",1 685
+2011,220106,bytowski,Gmina Miastko,20 022,15 845,"38,09",5 750
+2011,220107,bytowski,Gmina Parchowo,3 676,2 677,"51,10",1 266
+2011,220108,bytowski,Gmina Studzienice,3 563,2 784,"46,52",1 236
+2011,220109,bytowski,Gmina Trzebielino,3 805,2 940,"35,99",982
+2011,220110,bytowski,Gmina Tuchomie,4 153,3 126,"36,31",1 042
+2011,220201,chojnicki,Miasto Chojnice,39 663,31 743,"51,87",15 708
+2011,220202,chojnicki,Gmina Brusy,14 040,10 386,"50,27",4 850
+2011,220203,chojnicki,Gmina Chojnice,17 489,13 088,"42,74",5 215
+2011,220204,chojnicki,Gmina Czersk,21 258,16 436,"43,20",6 681
+2011,220205,chojnicki,Gmina Konarzyny,2 322,1 708,"48,59",783
+2011,220301,człuchowski,Miasto Człuchów,14 328,11 761,"49,20",5 492
+2011,220302,człuchowski,Gmina Czarne,9 448,8 648,"46,83",3 658
+2011,220303,człuchowski,Gmina Człuchów,10 497,7 941,"32,19",2 372
+2011,220304,człuchowski,Gmina Debrzno,9 414,7 240,"36,15",2 370
+2011,220305,człuchowski,Gmina Koczała,3 653,2 896,"36,91",1 009
+2011,220306,człuchowski,Gmina Przechlewo,6 270,4 861,"40,05",1 811
+2011,220307,człuchowski,Gmina Rzeczenica,3 797,2 972,"34,76",929
+2011,220401,gdański,Miasto Pruszcz Gdański,26 367,20 859,"58,02",11 670
+2011,220402,gdański,Gmina Cedry Wielkie,6 527,4 978,"39,84",1 776
+2011,220403,gdański,Gmina Kolbudy,13 594,10 706,"56,58",5 805
+2011,220404,gdański,Gmina Pruszcz Gdański,20 670,16 035,"53,74",8 196
+2011,220405,gdański,Gmina Przywidz,5 518,4 249,"45,09",1 736
+2011,220406,gdański,Gmina Pszczółki,8 312,6 426,"45,38",2 738
+2011,220407,gdański,Gmina Suchy Dąb,4 075,3 150,"37,08",1 063
+2011,220408,gdański,Gmina Trąbki Wielkie,10 317,7 668,"37,70",2 606
+2011,220501,kartuski,Gmina Chmielno,7 168,5 204,"52,94",2 570
+2011,220502,kartuski,Gmina Kartuzy,31 582,24 238,"54,17",12 538
+2011,220503,kartuski,Gmina Przodkowo,7 785,5 596,"47,52",2 539
+2011,220504,kartuski,Gmina Sierakowice,17 968,12 773,"52,26",6 260
+2011,220505,kartuski,Gmina Somonino,9 771,7 083,"43,13",2 789
+2011,220506,kartuski,Gmina Stężyca,9 603,6 923,"50,72",3 292
+2011,220507,kartuski,Gmina Sulęczyno,5 121,3 870,"48,42",1 725
+2011,220508,kartuski,Gmina Żukowo,28 865,21 533,"54,01",11 127
+2011,220601,kościerski,Miasto Kościerzyna,23 107,18 445,"50,17",8 794
+2011,220602,kościerski,Gmina Dziemiany,4 224,3 284,"48,11",1 475
+2011,220603,kościerski,Gmina Karsin,6 163,4 635,"50,40",2 202
+2011,220604,kościerski,Gmina Kościerzyna,14 651,10 955,"45,82",4 755
+2011,220605,kościerski,Gmina Liniewo,4 682,3 633,"40,68",1 401
+2011,220606,kościerski,Gmina Lipusz,3 569,2 699,"51,54",1 334
+2011,220607,kościerski,Gmina Nowa Karczma,6 678,4 857,"41,77",1 881
+2011,220608,kościerski,Gmina Stara Kiszewa,6 641,5 149,"38,30",1 834
+2011,220701,kwidzyński,Miasto Kwidzyn,37 459,30 374,"48,39",13 884
+2011,220702,kwidzyński,Gmina Gardeja,8 636,6 430,"29,05",1 703
+2011,220703,kwidzyński,Gmina Kwidzyn,10 899,8 357,"36,42",2 833
+2011,220704,kwidzyński,Gmina Prabuty,13 391,10 547,"36,55",3 575
+2011,220705,kwidzyński,Gmina Ryjewo,5 745,4 417,"32,74",1 322
+2011,220706,kwidzyński,Gmina Sadlinki,5 828,4 398,"32,92",1 311
+2011,220801,lęborski,Miasto Lębork,34 880,27 644,"50,80",13 330
+2011,220802,lęborski,Miasto Łeba,3 867,3 341,"52,47",1 661
+2011,220803,lęborski,Gmina Cewice,7 225,5 383,"41,67",2 075
+2011,220804,lęborski,Gmina Nowa Wieś Lęborska,13 206,9 959,"42,67",3 947
+2011,220805,lęborski,Gmina Wicko,5 863,4 425,"33,81",1 395
+2011,220901,malborski,Miasto Malbork,38 345,31 186,"48,30",14 328
+2011,220903,malborski,Gmina Lichnowy,4 774,3 553,"33,94",1 093
+2011,220904,malborski,Gmina Malbork,4 496,3 433,"37,81",1 225
+2011,220906,malborski,Gmina Miłoradz,3 435,2 667,"36,90",896
+2011,220907,malborski,Gmina Nowy Staw,7 842,6 096,"37,12",2 052
+2011,220908,malborski,Gmina Stare Pole,4 733,3 619,"39,98",1 316
+2011,221001,nowodworski,Miasto Krynica Morska,1 310,1 175,"51,74",569
+2011,221002,nowodworski,Gmina Nowy Dwór Gdański,18 115,14 156,"38,32",5 116
+2011,221003,nowodworski,Gmina Ostaszewo,3 188,2 505,"38,92",884
+2011,221004,nowodworski,Gmina Stegna,9 988,8 045,"37,68",2 803
+2011,221005,nowodworski,Gmina Sztutowo,3 705,2 963,"42,86",1 151
+2011,221101,pucki,Miasto Hel,3 855,3 056,"50,36",1 456
+2011,221102,pucki,Miasto Jastarnia,3 976,3 271,"55,43",1 715
+2011,221103,pucki,Miasto Puck,11 308,9 107,"52,15",4 537
+2011,221104,pucki,Miasto Władysławowo,15 197,12 211,"54,56",6 359
+2011,221105,pucki,Gmina Kosakowo,9 921,7 799,"59,85",4 450
+2011,221106,pucki,Gmina Krokowa,10 532,7 948,"47,40",3 451
+2011,221107,pucki,Gmina Puck,23 818,17 598,"45,47",7 390
+2011,221201,słupski,Miasto Ustka,16 184,14 207,"52,00",7 054
+2011,221202,słupski,Gmina Damnica,6 266,4 799,"31,82",1 427
+2011,221203,słupski,Gmina Dębnica Kaszubska,9 711,7 468,"33,37",2 351
+2011,221204,słupski,Gmina Główczyce,9 641,7 360,"30,98",2 095
+2011,221205,słupski,Gmina Kępice,9 442,7 313,"36,44",2 429
+2011,221206,słupski,Gmina Kobylnica,10 497,8 228,"39,26",3 030
+2011,221207,słupski,Gmina Potęgowo,7 220,5 564,"30,81",1 560
+2011,221208,słupski,Gmina Słupsk,15 232,11 573,"40,21",4 394
+2011,221209,słupski,Gmina Smołdzino,3 466,2 766,"36,98",939
+2011,221210,słupski,Gmina Ustka,7 840,6 214,"41,66",2 465
+2011,221301,starogardzki,Miasto Czarna Woda,3 357,2 668,"47,38",1 197
+2011,221302,starogardzki,Miasto Skórcz,3 495,2 728,"45,31",1 144
+2011,221303,starogardzki,Miasto Starogard Gdański,46 959,38 233,"46,73",16 846
+2011,221304,starogardzki,Gmina Bobowo,3 052,2 255,"36,81",735
+2011,221305,starogardzki,Gmina Kaliska,5 249,4 034,"43,08",1 580
+2011,221306,starogardzki,Gmina Lubichowo,6 151,4 756,"40,41",1 806
+2011,221307,starogardzki,Gmina Osieczna,2 942,2 262,"41,73",850
+2011,221308,starogardzki,Gmina Osiek,2 478,2 113,"43,78",831
+2011,221309,starogardzki,Gmina Skarszewy,14 192,10 821,"39,79",3 992
+2011,221310,starogardzki,Gmina Skórcz,4 688,3 536,"37,70",1 222
+2011,221311,starogardzki,Gmina Smętowo Graniczne,5 397,4 173,"38,25",1 436
+2011,221312,starogardzki,Gmina Starogard Gdański,14 754,10 961,"45,66",4 678
+2011,221313,starogardzki,Gmina Zblewo,11 071,8 434,"41,68",3 214
+2011,221401,tczewski,Miasto Tczew,58 531,46 713,"50,38",22 418
+2011,221402,tczewski,Gmina Gniew,16 011,12 428,"36,22",4 138
+2011,221403,tczewski,Gmina Morzeszczyn,3 840,2 848,"32,65",837
+2011,221404,tczewski,Gmina Pelplin,16 548,12 751,"38,68",4 410
+2011,221405,tczewski,Gmina Subkowy,5 403,4 041,"36,70",1 349
+2011,221406,tczewski,Gmina Tczew,12 616,9 424,"42,70",3 743
+2011,221501,wejherowski,Miasto Reda,20 878,16 325,"56,63",8 838
+2011,221502,wejherowski,Miasto Rumia,45 198,36 105,"59,49",20 763
+2011,221503,wejherowski,Miasto Wejherowo,47 671,37 835,"54,40",19 671
+2011,221504,wejherowski,Gmina Choczewo,5 748,4 492,"39,85",1 624
+2011,221505,wejherowski,Gmina Gniewino,7 061,5 159,"39,97",1 848
+2011,221506,wejherowski,Gmina Linia,6 017,4 362,"44,54",1 788
+2011,221507,wejherowski,Gmina Luzino,14 084,10 048,"47,86",4 485
+2011,221508,wejherowski,Gmina Łęczyce,11 777,8 618,"42,24",3 349
+2011,221509,wejherowski,Gmina Szemud,14 967,10 846,"50,73",5 172
+2011,221510,wejherowski,Gmina Wejherowo,21 096,15 401,"50,02",7 247
+2011,221601,sztumski,Gmina Dzierzgoń,9 686,7 519,"34,74",2 297
+2011,221602,sztumski,Gmina Mikołajki Pomorskie,3 779,2 888,"26,45",693
+2011,221603,sztumski,Gmina Stary Dzierzgoń,4 310,3 290,"23,07",684
+2011,221604,sztumski,Gmina Stary Targ,6 571,5 045,"29,30",1 326
+2011,221605,sztumski,Gmina Sztum,18 176,15 511,"41,61",5 985
+2011,226101,Gdańsk,Miasto Gdańsk,432 680,360 163,"61,32",215 479
+2011,226201,Gdynia,Miasto Gdynia,237 171,195 826,"62,65",119 428
+2011,226301,Słupsk,Miasto Słupsk,92 692,76 100,"52,18",38 504
+2011,226401,Sopot,Miasto Sopot,36 689,32 245,"65,58",20 696
+2011,240101,będziński,Miasto Będzin,56 867,47 504,"50,10",22 923
+2011,240102,będziński,Miasto Czeladź,32 939,27 784,"52,33",13 848
+2011,240103,będziński,Miasto Wojkowice,9 062,8 795,"51,14",4 240
+2011,240104,będziński,Gmina Bobrowniki,11 515,9 627,"49,14",4 518
+2011,240105,będziński,Gmina Mierzęcice,7 353,6 067,"46,25",2 671
+2011,240106,będziński,Gmina Psary,11 411,9 606,"49,28",4 523
+2011,240107,będziński,Gmina Siewierz,12 124,10 129,"44,86",4 325
+2011,240108,będziński,Miasto Sławków,6 948,5 751,"48,37",2 618
+2011,240201,bielski,Miasto Szczyrk,5 679,4 743,"53,76",2 429
+2011,240202,bielski,Gmina Bestwina,10 873,8 715,"55,32",4 643
+2011,240203,bielski,Gmina Buczkowice,10 816,8 625,"54,85",4 471
+2011,240204,bielski,Gmina Czechowice-Dziedzice,43 390,34 948,"54,29",18 148
+2011,240205,bielski,Gmina Jasienica,22 082,17 326,"54,34",9 005
+2011,240206,bielski,Gmina Jaworze,6 603,5 398,"58,98",3 095
+2011,240207,bielski,Gmina Kozy,12 181,9 723,"57,27",5 331
+2011,240208,bielski,Gmina Porąbka,15 268,12 123,"51,25",5 903
+2011,240209,bielski,Gmina Wilamowice,16 109,12 629,"53,16",6 312
+2011,240210,bielski,Gmina Wilkowice,12 607,10 642,"57,13",5 827
+2011,240301,cieszyński,Miasto Cieszyn,34 058,28 838,"54,74",15 126
+2011,240302,cieszyński,Miasto Ustroń,15 534,13 985,"57,30",7 745
+2011,240303,cieszyński,Miasto Wisła,11 251,9 330,"53,39",4 803
+2011,240304,cieszyński,Gmina Brenna,10 664,8 519,"48,76",3 895
+2011,240305,cieszyński,Gmina Chybie,9 398,7 359,"46,70",3 247
+2011,240306,cieszyński,Gmina Dębowiec,5 603,4 421,"48,50",1 992
+2011,240307,cieszyński,Gmina Goleszów,12 593,10 198,"51,98",5 101
+2011,240308,cieszyński,Gmina Hażlach,10 260,7 977,"45,72",3 459
+2011,240309,cieszyński,Gmina Istebna,11 890,8 974,"48,95",4 097
+2011,240310,cieszyński,Gmina Skoczów,25 964,20 624,"50,59",9 888
+2011,240311,cieszyński,Gmina Strumień,12 456,9 834,"48,99",4 513
+2011,240312,cieszyński,Gmina Zebrzydowice,12 801,10 056,"50,85",4 851
+2011,240401,częstochowski,Gmina Blachownia,13 182,10 856,"47,71",4 866
+2011,240402,częstochowski,Gmina Dąbrowa Zielona,4 062,3 460,"39,34",1 241
+2011,240403,częstochowski,Gmina Janów,5 901,4 899,"43,07",1 974
+2011,240404,częstochowski,Gmina Kamienica Polska,5 522,4 580,"43,58",1 919
+2011,240405,częstochowski,Gmina Kłomnice,13 696,11 252,"43,49",4 580
+2011,240406,częstochowski,Gmina Koniecpol,10 286,8 445,"39,86",3 108
+2011,240407,częstochowski,Gmina Konopiska,10 572,8 604,"44,27",3 571
+2011,240408,częstochowski,Gmina Kruszyna,4 904,3 962,"37,66",1 419
+2011,240409,częstochowski,Gmina Lelów,5 116,4 228,"40,75",1 570
+2011,240410,częstochowski,Gmina Mstów,10 574,8 473,"43,41",3 495
+2011,240411,częstochowski,Gmina Mykanów,14 549,11 520,"49,53",5 319
+2011,240412,częstochowski,Gmina Olsztyn,7 764,6 226,"46,11",2 721
+2011,240413,częstochowski,Gmina Poczesna,12 729,10 401,"47,84",4 739
+2011,240414,częstochowski,Gmina Przyrów,3 939,3 276,"42,43",1 312
+2011,240415,częstochowski,Gmina Rędziny,9 821,8 061,"47,36",3 644
+2011,240416,częstochowski,Gmina Starcza,2 773,2 296,"42,33",897
+2011,240501,gliwicki,Miasto Knurów,38 531,30 981,"47,40",13 996
+2011,240502,gliwicki,Miasto Pyskowice,17 865,14 863,"42,51",5 972
+2011,240503,gliwicki,Gmina Gierałtowice,10 853,8 821,"53,35",4 424
+2011,240504,gliwicki,Gmina Pilchowice,10 744,8 826,"44,13",3 703
+2011,240505,gliwicki,Gmina Rudziniec,10 412,8 640,"38,99",3 138
+2011,240506,gliwicki,Gmina Sośnicowice,8 368,6 823,"39,98",2 590
+2011,240507,gliwicki,Gmina Toszek,9 424,8 085,"37,49",2 821
+2011,240508,gliwicki,Gmina Wielowieś,5 849,4 764,"34,05",1 500
+2011,240601,kłobucki,Gmina Kłobuck,20 652,16 925,"48,55",7 820
+2011,240602,kłobucki,Gmina Krzepice,9 488,7 794,"44,15",3 275
+2011,240603,kłobucki,Gmina Lipie,6 540,5 304,"41,35",2 064
+2011,240604,kłobucki,Gmina Miedźno,7 683,6 181,"44,23",2 568
+2011,240605,kłobucki,Gmina Opatów,6 892,5 523,"38,35",1 983
+2011,240606,kłobucki,Gmina Panki,5 107,4 106,"40,43",1 553
+2011,240607,kłobucki,Gmina Popów,6 116,5 074,"39,79",1 874
+2011,240608,kłobucki,Gmina Przystajń,6 036,4 850,"36,95",1 673
+2011,240609,kłobucki,Gmina Wręczyca Wielka,17 561,14 088,"42,26",5 510
+2011,240701,lubliniecki,Miasto Lubliniec,23 116,19 240,"49,18",8 946
+2011,240702,lubliniecki,Gmina Boronów,3 354,2 737,"42,75",1 096
+2011,240703,lubliniecki,Gmina Ciasna,7 843,6 791,"31,28",1 939
+2011,240704,lubliniecki,Gmina Herby,6 934,5 964,"45,76",2 524
+2011,240705,lubliniecki,Gmina Kochanowice,6 840,5 509,"36,76",1 907
+2011,240706,lubliniecki,Gmina Koszęcin,11 652,9 387,"44,92",3 928
+2011,240707,lubliniecki,Gmina Pawonków,6 621,5 303,"35,89",1 781
+2011,240708,lubliniecki,Gmina Woźniki,9 635,7 757,"43,96",3 201
+2011,240801,mikołowski,Miasto Łaziska Górne,21 420,17 587,"49,15",8 223
+2011,240802,mikołowski,Miasto Mikołów,38 815,31 829,"55,08",16 873
+2011,240803,mikołowski,Miasto Orzesze,19 298,15 521,"49,42",7 280
+2011,240804,mikołowski,Gmina Ornontowice,5 625,4 514,"52,81",2 284
+2011,240805,mikołowski,Gmina Wyry,7 089,5 571,"52,83",2 833
+2011,240901,myszkowski,Miasto Myszków,32 389,26 804,"44,14",11 200
+2011,240902,myszkowski,Gmina Koziegłowy,14 314,11 893,"39,17",4 393
+2011,240903,myszkowski,Gmina Niegowa,5 782,4 588,"40,34",1 734
+2011,240904,myszkowski,Gmina Poraj,10 765,8 932,"47,07",4 015
+2011,240905,myszkowski,Gmina Żarki,8 235,6 791,"40,08",2 591
+2011,241001,pszczyński,Gmina Goczałkowice-Zdrój,6 569,5 399,"52,47",2 684
+2011,241002,pszczyński,Gmina Kobiór,4 756,3 819,"52,50",1 940
+2011,241003,pszczyński,Gmina Miedźna,15 713,12 405,"47,82",5 633
+2011,241004,pszczyński,Gmina Pawłowice,17 711,13 770,"48,05",6 266
+2011,241005,pszczyński,Gmina Pszczyna,50 511,40 166,"51,96",19 974
+2011,241006,pszczyński,Gmina Suszec,11 490,8 786,"50,08",4 127
+2011,241101,raciborski,Miasto Racibórz,54 261,45 748,"44,89",19 484
+2011,241102,raciborski,Gmina Kornowac,4 904,3 903,"44,20",1 632
+2011,241103,raciborski,Gmina Krzanowice,5 829,4 842,"31,72",1 471
+2011,241104,raciborski,Gmina Krzyżanowice,11 397,9 333,"34,58",3 011
+2011,241105,raciborski,Gmina Kuźnia Raciborska,11 734,9 810,"35,27",3 249
+2011,241106,raciborski,Gmina Nędza,7 150,6 003,"36,05",2 033
+2011,241107,raciborski,Gmina Pietrowice Wielkie,6 860,5 691,"33,86",1 791
+2011,241108,raciborski,Gmina Rudnik,5 189,4 290,"34,83",1 400
+2011,241201,rybnicki,Gmina Czerwionka-Leszczyny,41 092,33 169,"44,30",13 857
+2011,241202,rybnicki,Gmina Gaszowice,9 119,7 279,"45,03",3 059
+2011,241203,rybnicki,Gmina Jejkowice,3 935,3 063,"47,44",1 351
+2011,241204,rybnicki,Gmina Lyski,9 405,7 584,"47,28",3 369
+2011,241205,rybnicki,Gmina Świerklany,11 579,9 107,"50,42",4 300
+2011,241301,tarnogórski,Miasto Kalety,8 657,7 273,"43,60",2 991
+2011,241302,tarnogórski,Miasto Miasteczko Śląskie,7 253,5 931,"41,97",2 322
+2011,241303,tarnogórski,Miasto Radzionków,16 794,13 779,"51,43",6 779
+2011,241304,tarnogórski,Miasto Tarnowskie Góry,59 178,49 989,"50,97",24 530
+2011,241305,tarnogórski,Gmina Krupski Młyn,3 286,2 750,"47,20",1 244
+2011,241306,tarnogórski,Gmina Ożarowice,5 525,4 479,"51,40",2 177
+2011,241307,tarnogórski,Gmina Świerklaniec,11 268,9 199,"45,68",4 027
+2011,241308,tarnogórski,Gmina Tworóg,7 869,6 478,"39,07",2 430
+2011,241309,tarnogórski,Gmina Zbrosławice,15 232,12 629,"37,03",4 424
+2011,241401,bieruńsko-lędziński,Miasto Bieruń,19 534,15 743,"50,08",7 500
+2011,241402,bieruńsko-lędziński,Miasto Imielin,8 198,6 606,"53,63",3 396
+2011,241403,bieruńsko-lędziński,Miasto Lędziny,16 156,12 981,"47,15",5 745
+2011,241404,bieruńsko-lędziński,Gmina Bojszowy,7 093,5 679,"57,14",3 127
+2011,241405,bieruńsko-lędziński,Gmina Chełm Śląski,5 864,4 732,"52,58",2 397
+2011,241501,wodzisławski,Miasto Pszów,14 036,11 458,"44,64",4 839
+2011,241502,wodzisławski,Miasto Radlin,17 710,14 233,"46,23",6 216
+2011,241503,wodzisławski,Miasto Rydułtowy,21 390,17 688,"46,71",7 847
+2011,241504,wodzisławski,Miasto Wodzisław Śląski,47 859,39 419,"49,44",18 669
+2011,241505,wodzisławski,Gmina Godów,13 085,10 520,"49,61",4 882
+2011,241506,wodzisławski,Gmina Gorzyce,20 276,16 173,"46,13",7 048
+2011,241507,wodzisławski,Gmina Lubomia,8 055,6 487,"37,54",2 283
+2011,241508,wodzisławski,Gmina Marklowice,5 427,4 240,"48,80",1 987
+2011,241509,wodzisławski,Gmina Mszana,7 308,5 751,"47,57",2 521
+2011,241601,zawierciański,Miasto Poręba,8 794,7 331,"47,78",3 340
+2011,241602,zawierciański,Miasto Zawiercie,51 744,43 319,"48,42",20 142
+2011,241603,zawierciański,Gmina Irządze,2 823,2 329,"34,82",761
+2011,241604,zawierciański,Gmina Kroczyce,6 263,5 103,"39,17",1 884
+2011,241605,zawierciański,Gmina Łazy,15 945,13 384,"46,32",5 863
+2011,241606,zawierciański,Gmina Ogrodzieniec,9 491,7 964,"45,58",3 497
+2011,241607,zawierciański,Gmina Pilica,8 932,7 408,"46,36",3 257
+2011,241608,zawierciański,Gmina Szczekociny,8 265,6 901,"44,66",2 891
+2011,241609,zawierciański,Gmina Włodowice,5 286,4 394,"39,24",1 627
+2011,241610,zawierciański,Gmina Żarnowiec,4 853,3 885,"44,09",1 640
+2011,241701,żywiecki,Miasto Żywiec,32 141,26 158,"53,25",13 379
+2011,241702,żywiecki,Gmina Czernichów,6 528,5 306,"57,52",2 853
+2011,241703,żywiecki,Gmina Gilowice,5 974,4 695,"53,84",2 388
+2011,241704,żywiecki,Gmina Jeleśnia,13 688,10 870,"47,48",4 820
+2011,241705,żywiecki,Gmina Koszarawa,2 457,1 999,"44,92",830
+2011,241706,żywiecki,Gmina Lipowa,10 158,7 921,"48,21",3 514
+2011,241707,żywiecki,Gmina Łękawica,4 377,3 463,"48,31",1 563
+2011,241708,żywiecki,Gmina Łodygowice,13 889,10 997,"53,99",5 608
+2011,241709,żywiecki,Gmina Milówka,10 119,8 001,"44,01",3 292
+2011,241710,żywiecki,Gmina Radziechowy-Wieprz,12 943,10 103,"47,73",4 542
+2011,241711,żywiecki,Gmina Rajcza,9 066,7 411,"41,44",2 806
+2011,241712,żywiecki,Gmina Ślemień,3 471,2 830,"59,12",1 537
+2011,241713,żywiecki,Gmina Świnna,8 073,6 370,"50,49",3 005
+2011,241714,żywiecki,Gmina Ujsoły,4 759,3 796,"42,28",1 478
+2011,241715,żywiecki,Gmina Węgierska Górka,15 054,11 824,"52,22",5 793
+2011,246101,Bielsko-Biała,Miasto Bielsko-Biała,169 339,139 887,"58,32",79 542
+2011,246201,Bytom,Miasto Bytom,164 619,135 743,"44,65",58 137
+2011,246301,Chorzów,Miasto Chorzów,107 532,88 185,"48,87",41 439
+2011,246401,Częstochowa,Miasto Częstochowa,229 609,193 215,"53,60",100 547
+2011,246501,Dąbrowa Górnicza,Miasto Dąbrowa Górnicza,122 839,102 930,"49,87",49 518
+2011,246601,Gliwice,Miasto Gliwice,180 122,149 804,"52,62",76 600
+2011,246701,Jastrzębie-Zdrój,Miasto Jastrzębie-Zdrój,90 040,73 514,"48,65",34 191
+2011,246801,Jaworzno,Miasto Jaworzno,92 885,76 671,"50,00",36 818
+2011,246901,Katowice,Miasto Katowice,294 977,249 350,"56,23",136 293
+2011,247001,Mysłowice,Miasto Mysłowice,72 950,60 072,"51,55",29 602
+2011,247101,Piekary Śląskie,Miasto Piekary Śląskie,56 511,46 882,"47,54",21 214
+2011,247201,Ruda Śląska,Miasto Ruda Śląska,139 885,114 165,"47,93",52 420
+2011,247301,Rybnik,Miasto Rybnik,136 694,111 753,"50,22",53 804
+2011,247401,Siemianowice Śląskie,Miasto Siemianowice Śląskie,68 212,56 564,"49,41",26 882
+2011,247501,Sosnowiec,Miasto Sosnowiec,210 904,178 756,"51,49",89 416
+2011,247601,Świętochłowice,Miasto Świętochłowice,51 837,42 258,"43,47",17 636
+2011,247701,Tychy,Miasto Tychy,126 222,104 407,"54,66",55 064
+2011,247801,Zabrze,Miasto Zabrze,173 860,144 254,"41,50",57 383
+2011,247901,Żory,Miasto Żory,60 415,48 230,"48,49",22 261
+2011,260101,buski,Gmina Busko-Zdrój,32 733,28 494,"45,79",12 464
+2011,260102,buski,Gmina Gnojno,4 686,3 755,"33,18",1 145
+2011,260103,buski,Gmina Nowy Korczyn,6 366,5 354,"38,96",1 961
+2011,260104,buski,Gmina Pacanów,7 989,6 454,"35,96",2 197
+2011,260105,buski,Gmina Solec-Zdrój,5 082,4 251,"44,04",1 771
+2011,260106,buski,Gmina Stopnica,7 947,6 495,"37,80",2 332
+2011,260107,buski,Gmina Tuczępy,3 828,3 062,"38,24",1 057
+2011,260108,buski,Gmina Wiślica,5 851,4 840,"34,19",1 547
+2011,260201,jędrzejowski,Gmina Imielno,4 543,3 665,"35,44",1 198
+2011,260202,jędrzejowski,Gmina Jędrzejów,29 242,23 750,"42,79",9 576
+2011,260203,jędrzejowski,Gmina Małogoszcz,11 933,9 363,"42,77",3 742
+2011,260204,jędrzejowski,Gmina Nagłowice,5 249,4 188,"32,62",1 254
+2011,260205,jędrzejowski,Gmina Oksa,4 761,3 879,"35,24",1 260
+2011,260206,jędrzejowski,Gmina Sędziszów,13 110,10 705,"39,84",4 030
+2011,260207,jędrzejowski,Gmina Słupia (Jędrzejowska),4 421,3 585,"34,64",1 156
+2011,260208,jędrzejowski,Gmina Sobków,8 439,6 769,"38,56",2 489
+2011,260209,jędrzejowski,Gmina Wodzisław,7 599,6 265,"37,21",2 177
+2011,260301,kazimierski,Gmina Bejsce,4 268,3 510,"30,80",991
+2011,260302,kazimierski,Gmina Czarnocin,4 424,3 403,"32,12",1 023
+2011,260303,kazimierski,Gmina Kazimierza Wielka,16 713,13 910,"33,74",4 442
+2011,260304,kazimierski,Gmina Opatowiec,3 622,3 117,"36,96",1 093
+2011,260305,kazimierski,Gmina Skalbmierz,6 930,5 586,"33,01",1 709
+2011,260401,kielecki,Gmina Bieliny,10 178,7 767,"37,71",2 748
+2011,260402,kielecki,Gmina Bodzentyn,11 801,9 438,"36,42",3 139
+2011,260403,kielecki,Gmina Chęciny,14 974,12 326,"43,21",4 985
+2011,260404,kielecki,Gmina Chmielnik,11 544,9 255,"43,88",3 781
+2011,260405,kielecki,Gmina Daleszyce,15 306,11 969,"40,45",4 502
+2011,260406,kielecki,Gmina Górno,13 566,10 399,"44,45",4 288
+2011,260407,kielecki,Gmina Łagów,7 104,5 642,"39,15",2 068
+2011,260408,kielecki,Gmina Łopuszno,9 145,7 200,"44,74",3 022
+2011,260409,kielecki,Gmina Masłów,10 193,8 020,"46,91",3 550
+2011,260410,kielecki,Gmina Miedziana Góra,10 658,8 413,"46,43",3 679
+2011,260411,kielecki,Gmina Mniów,9 446,7 326,"39,89",2 765
+2011,260412,kielecki,Gmina Morawica,14 519,11 393,"47,20",5 079
+2011,260413,kielecki,Gmina Nowa Słupia,11 081,8 296,"33,20",2 554
+2011,260414,kielecki,Gmina Piekoszów,15 815,12 390,"42,37",4 875
+2011,260415,kielecki,Gmina Pierzchnica,4 780,3 917,"41,00",1 467
+2011,260416,kielecki,Gmina Raków,5 957,4 894,"39,78",1 763
+2011,260417,kielecki,Gmina Sitkówka-Nowiny,7 307,5 659,"50,43",2 669
+2011,260418,kielecki,Gmina Strawczyn,10 159,7 823,"45,15",3 315
+2011,260419,kielecki,Gmina Zagnańsk,12 800,10 566,"49,52",4 935
+2011,260501,konecki,Gmina Fałków,4 938,3 996,"35,81",1 305
+2011,260502,konecki,Gmina Gowarczów,4 790,3 846,"35,10",1 240
+2011,260503,konecki,Gmina Końskie,37 296,30 662,"45,51",13 289
+2011,260504,konecki,Gmina Radoszyce,9 403,7 502,"38,83",2 660
+2011,260505,konecki,Gmina Ruda Maleniecka,3 306,2 791,"49,34",1 242
+2011,260506,konecki,Gmina Słupia (Konecka),3 578,2 850,"39,02",1 016
+2011,260507,konecki,Gmina Smyków,3 834,2 953,"39,15",1 077
+2011,260508,konecki,Gmina Stąporków,18 135,15 160,"35,83",5 082
+2011,260601,opatowski,Gmina Baćkowice,5 200,4 172,"36,60",1 443
+2011,260602,opatowski,Gmina Iwaniska,7 105,5 639,"40,45",2 063
+2011,260603,opatowski,Gmina Lipnik,5 793,4 706,"32,28",1 420
+2011,260604,opatowski,Gmina Opatów,12 484,10 312,"43,73",4 176
+2011,260605,opatowski,Gmina Ożarów,11 400,9 146,"38,61",3 261
+2011,260606,opatowski,Gmina Sadowie,4 208,3 444,"37,98",1 219
+2011,260607,opatowski,Gmina Tarłów,5 575,4 629,"35,30",1 515
+2011,260608,opatowski,Gmina Wojciechowice,4 371,3 552,"41,84",1 370
+2011,260701,ostrowiecki,Miasto Ostrowiec Świętokrzyski,72 801,60 649,"43,38",25 101
+2011,260702,ostrowiecki,Gmina Bałtów,3 855,3 131,"34,78",975
+2011,260703,ostrowiecki,Gmina Bodzechów,13 784,11 152,"38,48",4 025
+2011,260704,ostrowiecki,Gmina Ćmielów,7 820,6 420,"35,28",2 085
+2011,260705,ostrowiecki,Gmina Kunów,10 167,8 274,"34,14",2 599
+2011,260706,ostrowiecki,Gmina Waśniów,7 180,5 691,"33,63",1 749
+2011,260801,pińczowski,Gmina Działoszyce,5 435,4 553,"33,63",1 441
+2011,260802,pińczowski,Gmina Kije,4 542,3 727,"41,32",1 434
+2011,260803,pińczowski,Gmina Michałów,4 818,3 942,"34,88",1 300
+2011,260804,pińczowski,Gmina Pińczów,21 761,18 702,"43,74",7 697
+2011,260805,pińczowski,Gmina Złota,4 817,3 996,"35,51",1 336
+2011,260901,sandomierski,Miasto Sandomierz,24 839,20 680,"48,33",9 512
+2011,260902,sandomierski,Gmina Dwikozy,9 189,7 514,"35,55",2 516
+2011,260903,sandomierski,Gmina Klimontów,8 730,6 896,"33,99",2 164
+2011,260904,sandomierski,Gmina Koprzywnica,7 111,5 669,"42,69",2 209
+2011,260905,sandomierski,Gmina Łoniów,7 548,6 049,"39,15",2 190
+2011,260906,sandomierski,Gmina Obrazów,6 786,5 474,"37,01",1 881
+2011,260907,sandomierski,Gmina Samborzec,8 957,7 315,"38,97",2 705
+2011,260908,sandomierski,Gmina Wilczyce,3 914,3 171,"35,73",1 057
+2011,260909,sandomierski,Gmina Zawichost,4 677,3 808,"36,32",1 265
+2011,261001,skarżyski,Miasto Skarżysko-Kamienna,48 539,40 730,"48,62",18 908
+2011,261002,skarżyski,Gmina Bliżyn,8 595,7 082,"40,06",2 616
+2011,261003,skarżyski,Gmina Łączna,5 364,4 247,"38,57",1 504
+2011,261004,skarżyski,Gmina Skarżysko Kościelne,6 372,5 174,"43,56",2 087
+2011,261005,skarżyski,Gmina Suchedniów,10 780,8 953,"45,67",3 814
+2011,261101,starachowicki,Miasto Starachowice,52 504,43 790,"46,28",19 279
+2011,261102,starachowicki,Gmina Brody,11 068,8 878,"37,06",3 062
+2011,261103,starachowicki,Gmina Mirzec,8 536,6 841,"43,41",2 777
+2011,261104,starachowicki,Gmina Pawłów,15 484,12 033,"33,22",3 667
+2011,261105,starachowicki,Gmina Wąchock,7 104,5 931,"42,74",2 362
+2011,261201,staszowski,Gmina Bogoria,8 161,6 396,"37,18",2 197
+2011,261202,staszowski,Gmina Łubnice,4 379,3 539,"39,64",1 330
+2011,261203,staszowski,Gmina Oleśnica,4 045,3 278,"34,29",1 053
+2011,261204,staszowski,Gmina Osiek,7 998,6 354,"41,47",2 478
+2011,261205,staszowski,Gmina Połaniec,12 145,9 773,"43,27",4 013
+2011,261206,staszowski,Gmina Rytwiany,6 488,5 132,"37,96",1 805
+2011,261207,staszowski,Gmina Staszów,27 044,21 922,"42,97",8 892
+2011,261208,staszowski,Gmina Szydłów,4 915,4 048,"40,49",1 516
+2011,261301,włoszczowski,Gmina Kluczewsko,5 359,4 253,"41,55",1 670
+2011,261302,włoszczowski,Gmina Krasocin,10 987,8 605,"41,27",3 301
+2011,261303,włoszczowski,Gmina Moskorzew,2 895,2 399,"38,47",866
+2011,261304,włoszczowski,Gmina Radków,2 612,2 178,"32,23",669
+2011,261305,włoszczowski,Gmina Secemin,5 099,4 179,"35,06",1 379
+2011,261306,włoszczowski,Gmina Włoszczowa,20 366,16 533,"45,84",7 158
+2011,266101,Kielce,Miasto Kielce,199 162,164 434,"56,25",90 084
+2011,280101,bartoszycki,Miasto Bartoszyce,25 009,20 486,"47,37",9 177
+2011,280102,bartoszycki,Miasto Górowo Iławeckie,4 431,3 628,"45,67",1 519
+2011,280103,bartoszycki,Gmina Bartoszyce,11 201,8 751,"36,76",2 868
+2011,280104,bartoszycki,Gmina Bisztynek,6 970,5 505,"27,92",1 460
+2011,280105,bartoszycki,Gmina Górowo Iławeckie,7 331,6 987,"31,07",1 923
+2011,280106,bartoszycki,Gmina Sępopol,6 887,5 484,"29,61",1 457
+2011,280201,braniewski,Miasto Braniewo,17 389,14 140,"47,73",6 279
+2011,280202,braniewski,Gmina Braniewo,6 515,5 006,"33,74",1 532
+2011,280203,braniewski,Gmina Frombork,3 751,3 245,"41,08",1 252
+2011,280204,braniewski,Gmina Lelkowo,3 258,2 565,"32,51",731
+2011,280205,braniewski,Gmina Pieniężno,6 968,5 591,"33,55",1 752
+2011,280206,braniewski,Gmina Płoskinia,2 732,2 079,"35,79",657
+2011,280207,braniewski,Gmina Wilczęta,3 190,2 497,"33,72",748
+2011,280301,działdowski,Miasto Działdowo,21 576,17 475,"43,82",7 201
+2011,280302,działdowski,Gmina Działdowo,9 890,7 436,"29,90",1 975
+2011,280303,działdowski,Gmina Iłowo-Osada,7 424,5 679,"33,86",1 713
+2011,280304,działdowski,Gmina Lidzbark,14 887,11 669,"35,55",3 837
+2011,280305,działdowski,Gmina Płośnica,6 091,4 667,"32,72",1 382
+2011,280306,działdowski,Gmina Rybno,7 412,5 653,"40,14",2 026
+2011,280401,elbląski,Gmina Elbląg,7 102,5 451,"34,49",1 750
+2011,280402,elbląski,Gmina Godkowo,3 447,2 699,"28,42",689
+2011,280403,elbląski,Gmina Gronowo Elbląskie,5 130,3 933,"34,20",1 223
+2011,280404,elbląski,Gmina Markusy,4 218,3 130,"30,54",875
+2011,280405,elbląski,Gmina Milejewo,3 257,2 542,"36,43",856
+2011,280406,elbląski,Gmina Młynary,4 721,3 644,"37,10",1 222
+2011,280407,elbląski,Gmina Pasłęk,19 776,15 701,"38,16",5 614
+2011,280408,elbląski,Gmina Rychliki,4 151,3 245,"28,66",833
+2011,280409,elbląski,Gmina Tolkmicko,6 761,5 277,"36,86",1 759
+2011,280501,ełcki,Miasto Ełk,57 808,45 321,"43,83",18 804
+2011,280502,ełcki,Gmina Ełk,10 845,8 295,"32,33",2 436
+2011,280503,ełcki,Gmina Kalinowo,7 128,5 419,"27,75",1 328
+2011,280504,ełcki,Gmina Prostki,7 742,5 908,"27,76",1 471
+2011,280505,ełcki,Gmina Stare Juchy,4 025,3 142,"30,90",898
+2011,280601,giżycki,Miasto Giżycko,29 488,24 147,"48,67",11 244
+2011,280604,giżycki,Gmina Giżycko,8 162,6 384,"38,97",2 308
+2011,280605,giżycki,Gmina Kruklanki,3 219,2 544,"34,04",796
+2011,280606,giżycki,Gmina Miłki,3 991,3 104,"32,18",916
+2011,280608,giżycki,Gmina Ryn,6 006,4 844,"33,75",1 458
+2011,280610,giżycki,Gmina Wydminy,6 695,5 276,"36,94",1 812
+2011,280701,iławski,Miasto Iława,33 894,27 780,"49,28",12 871
+2011,280702,iławski,Miasto Lubawa,9 594,7 401,"47,28",3 180
+2011,280703,iławski,Gmina Iława,12 652,9 459,"35,82",3 091
+2011,280704,iławski,Gmina Kisielice,6 361,4 882,"32,00",1 429
+2011,280705,iławski,Gmina Lubawa,10 754,7 990,"40,09",2 885
+2011,280706,iławski,Gmina Susz,13 287,10 038,"31,81",2 867
+2011,280707,iławski,Gmina Zalewo,7 310,5 713,"28,97",1 498
+2011,280801,kętrzyński,Miasto Kętrzyn,28 246,23 275,"46,22",10 064
+2011,280802,kętrzyński,Gmina Barciany,6 962,5 473,"26,20",1 268
+2011,280803,kętrzyński,Gmina Kętrzyn,8 507,6 604,"30,92",1 891
+2011,280804,kętrzyński,Gmina Korsze,10 769,8 755,"29,41",2 358
+2011,280805,kętrzyński,Gmina Reszel,8 313,6 819,"35,15",2 199
+2011,280806,kętrzyński,Gmina Srokowo,4 297,3 408,"32,42",984
+2011,280901,lidzbarski,Miasto Lidzbark Warmiński,16 283,13 292,"48,78",6 136
+2011,280902,lidzbarski,Gmina Kiwity,3 497,2 831,"32,07",818
+2011,280903,lidzbarski,Gmina Lidzbark Warmiński,6 879,5 410,"31,42",1 560
+2011,280904,lidzbarski,Gmina Lubomino,3 753,2 897,"32,59",861
+2011,280905,lidzbarski,Gmina Orneta,12 677,10 135,"36,25",3 434
+2011,281001,mrągowski,Miasto Mrągowo,22 048,17 794,"48,29",8 149
+2011,281002,mrągowski,Gmina Mikołajki,8 490,6 882,"37,63",2 278
+2011,281003,mrągowski,Gmina Mrągowo,7 853,6 073,"35,07",1 990
+2011,281004,mrągowski,Gmina Piecki,8 044,6 284,"36,09",2 072
+2011,281005,mrągowski,Gmina Sorkwity,4 766,3 719,"34,66",1 186
+2011,281101,nidzicki,Gmina Janowiec Kościelny,3 460,2 698,"31,99",797
+2011,281102,nidzicki,Gmina Janowo,2 909,2 201,"32,99",666
+2011,281103,nidzicki,Gmina Kozłowo,6 376,4 823,"28,59",1 176
+2011,281104,nidzicki,Gmina Nidzica,21 696,17 227,"39,68",6 426
+2011,281201,nowomiejski,Miasto Nowe Miasto Lubawskie,11 274,8 771,"46,20",3 833
+2011,281202,nowomiejski,Gmina Biskupiec,9 914,7 600,"39,16",2 726
+2011,281203,nowomiejski,Gmina Grodziczno,6 601,4 912,"37,66",1 646
+2011,281204,nowomiejski,Gmina Kurzętnik,9 112,6 950,"37,42",2 322
+2011,281205,nowomiejski,Gmina Nowe Miasto Lubawskie,8 179,6 154,"37,98",2 128
+2011,281303,olecki,Gmina Kowale Oleckie,5 529,4 277,"27,12",1 064
+2011,281304,olecki,Gmina Olecko,21 832,17 266,"41,45",6 817
+2011,281305,olecki,Gmina Świętajno,4 119,3 240,"29,66",891
+2011,281306,olecki,Gmina Wieliczki,3 547,2 695,"34,29",844
+2011,281401,olsztyński,Gmina Barczewo,16 702,13 860,"42,11",5 431
+2011,281402,olsztyński,Gmina Biskupiec,19 286,15 457,"41,97",5 957
+2011,281403,olsztyński,Gmina Dobre Miasto,16 107,12 882,"40,11",4 792
+2011,281404,olsztyński,Gmina Dywity,10 394,8 062,"49,04",3 804
+2011,281405,olsztyński,Gmina Gietrzwałd,5 878,4 649,"45,90",2 021
+2011,281406,olsztyński,Gmina Jeziorany,8 092,6 341,"30,06",1 705
+2011,281407,olsztyński,Gmina Jonkowo,6 710,5 132,"44,97",2 138
+2011,281408,olsztyński,Gmina Kolno,3 498,2 773,"32,42",805
+2011,281409,olsztyński,Gmina Olsztynek,13 746,10 840,"36,70",3 699
+2011,281410,olsztyński,Gmina Purda,8 072,6 467,"40,87",2 441
+2011,281411,olsztyński,Gmina Stawiguda,6 641,5 400,"52,67",2 706
+2011,281412,olsztyński,Gmina Świątki,4 259,3 276,"30,01",899
+2011,281501,ostródzki,Miasto Ostróda,33 483,27 188,"49,61",12 781
+2011,281502,ostródzki,Gmina Dąbrówno,4 412,3 416,"31,94",965
+2011,281503,ostródzki,Gmina Grunwald,5 880,4 451,"30,04",1 184
+2011,281504,ostródzki,Gmina Łukta,4 487,3 492,"31,39",1 005
+2011,281505,ostródzki,Gmina Małdyty,6 524,5 134,"29,31",1 386
+2011,281506,ostródzki,Gmina Miłakowo,5 841,4 545,"30,43",1 299
+2011,281507,ostródzki,Gmina Miłomłyn,5 108,4 110,"34,65",1 280
+2011,281508,ostródzki,Gmina Morąg,24 875,19 770,"39,05",7 267
+2011,281509,ostródzki,Gmina Ostróda,15 947,12 101,"38,94",4 245
+2011,281601,piski,Gmina Biała Piska,12 506,9 535,"35,74",3 057
+2011,281602,piski,Gmina Orzysz,9 618,7 566,"40,21",2 811
+2011,281603,piski,Gmina Pisz,27 829,21 906,"41,08",8 363
+2011,281604,piski,Gmina Ruciane-Nida,8 562,6 960,"43,43",2 776
+2011,281701,szczycieński,Miasto Szczytno,24 965,20 560,"47,89",9 367
+2011,281702,szczycieński,Gmina Dźwierzuty,6 964,5 383,"32,01",1 545
+2011,281703,szczycieński,Gmina Jedwabno,3 736,2 996,"36,08",957
+2011,281704,szczycieński,Gmina Pasym,5 355,4 199,"35,27",1 350
+2011,281705,szczycieński,Gmina Rozogi,6 001,4 504,"30,93",1 271
+2011,281706,szczycieński,Gmina Szczytno,11 657,8 859,"34,41",2 820
+2011,281707,szczycieński,Gmina Świętajno,6 196,4 895,"35,02",1 568
+2011,281708,szczycieński,Gmina Wielbark,6 735,5 080,"29,55",1 334
+2011,281801,gołdapski,Gmina Banie Mazurskie,4 086,3 318,"29,78",901
+2011,281802,gołdapski,Gmina Dubeninki,3 243,2 575,"29,94",701
+2011,281803,gołdapski,Gmina Gołdap,20 460,16 291,"39,64",6 046
+2011,281901,węgorzewski,Gmina Budry,3 137,2 471,"29,26",661
+2011,281902,węgorzewski,Gmina Pozezdrze,3 495,2 827,"34,49",878
+2011,281903,węgorzewski,Gmina Węgorzewo,17 316,14 113,"37,97",5 043
+2011,286101,Elbląg,Miasto Elbląg,120 680,98 311,"49,41",46 653
+2011,286201,Olsztyn,Miasto Olsztyn,162 832,134 756,"57,74",75 594
+2011,300101,chodzieski,Miasto Chodzież,19 396,15 900,"53,34",7 995
+2011,300102,chodzieski,Gmina Budzyń,8 455,6 536,"41,66",2 498
+2011,300103,chodzieski,Gmina Chodzież,5 703,4 459,"45,48",1 908
+2011,300104,chodzieski,Gmina Margonin,6 338,4 886,"49,88",2 284
+2011,300105,chodzieski,Gmina Szamocin,7 560,5 756,"43,99",2 383
+2011,300201,czarnkowsko-trzcianecki,Miasto Czarnków,11 372,9 250,"53,79",4 685
+2011,300202,czarnkowsko-trzcianecki,Gmina Czarnków,11 025,8 552,"41,15",3 279
+2011,300203,czarnkowsko-trzcianecki,Gmina Drawsko,6 007,4 765,"38,93",1 705
+2011,300204,czarnkowsko-trzcianecki,Gmina Krzyż Wielkopolski,8 680,6 981,"39,31",2 567
+2011,300205,czarnkowsko-trzcianecki,Gmina Lubasz,7 302,5 602,"45,39",2 351
+2011,300206,czarnkowsko-trzcianecki,Gmina Połajewo,6 279,4 793,"40,89",1 751
+2011,300207,czarnkowsko-trzcianecki,Gmina Trzcianka,24 220,19 044,"46,98",8 464
+2011,300208,czarnkowsko-trzcianecki,Gmina Wieleń,12 705,10 144,"41,08",3 811
+2011,300301,gnieźnieński,Miasto Gniezno,68 698,56 414,"54,07",28 812
+2011,300302,gnieźnieński,Gmina Czerniejewo,7 128,6 218,"46,53",2 571
+2011,300303,gnieźnieński,Gmina Gniezno,9 899,7 497,"45,07",3 189
+2011,300304,gnieźnieński,Gmina Kiszkowo,5 389,4 273,"44,14",1 708
+2011,300305,gnieźnieński,Gmina Kłecko,7 674,5 959,"42,19",2 289
+2011,300306,gnieźnieński,Gmina Łubowo,5 912,4 542,"45,86",1 925
+2011,300307,gnieźnieński,Gmina Mieleszyn,4 088,3 077,"38,09",1 088
+2011,300308,gnieźnieński,Gmina Niechanowo,5 700,4 278,"46,35",1 857
+2011,300309,gnieźnieński,Gmina Trzemeszno,14 256,11 272,"38,84",4 035
+2011,300310,gnieźnieński,Gmina Witkowo,13 746,10 830,"49,37",4 943
+2011,300401,gostyński,Gmina Borek Wielkopolski,7 776,6 053,"37,39",2 057
+2011,300402,gostyński,Gmina Gostyń,27 884,22 517,"44,49",9 399
+2011,300403,gostyński,Gmina Krobia,13 065,10 312,"35,92",3 465
+2011,300404,gostyński,Gmina Pępowo,6 057,4 761,"41,94",1 860
+2011,300405,gostyński,Gmina Piaski,8 481,6 719,"41,33",2 535
+2011,300406,gostyński,Gmina Pogorzela,5 237,4 049,"36,82",1 377
+2011,300407,gostyński,Gmina Poniec,8 013,6 356,"32,76",1 868
+2011,300501,grodziski,Gmina Granowo,4 965,3 852,"41,67",1 462
+2011,300502,grodziski,Gmina Grodzisk Wielkopolski,18 992,14 951,"45,46",6 259
+2011,300503,grodziski,Gmina Kamieniec,6 555,5 079,"41,11",1 894
+2011,300504,grodziski,Gmina Rakoniewice,12 871,9 765,"38,95",3 503
+2011,300505,grodziski,Gmina Wielichowo,6 918,5 297,"41,33",1 992
+2011,300601,jarociński,Gmina Jaraczewo,8 382,6 524,"43,95",2 542
+2011,300602,jarociński,Gmina Jarocin,45 311,36 339,"46,37",15 784
+2011,300603,jarociński,Gmina Kotlin,7 250,5 638,"37,62",1 958
+2011,300604,jarociński,Gmina Żerków,10 630,8 255,"38,29",2 924
+2011,300701,kaliski,Gmina Blizanów,9 676,7 624,"40,01",2 868
+2011,300702,kaliski,Gmina Brzeziny,5 875,4 606,"38,12",1 661
+2011,300703,kaliski,Gmina Ceków-Kolonia,4 785,3 808,"36,82",1 287
+2011,300704,kaliski,Gmina Godziesze Wielkie,8 908,7 080,"41,98",2 793
+2011,300705,kaliski,Gmina Koźminek,7 596,5 972,"36,82",2 078
+2011,300706,kaliski,Gmina Lisków,5 385,4 275,"39,98",1 568
+2011,300707,kaliski,Gmina Mycielin,4 923,3 919,"35,98",1 266
+2011,300708,kaliski,Gmina Opatówek,10 670,8 449,"48,29",3 870
+2011,300709,kaliski,Gmina Stawiszyn,7 323,5 862,"39,83",2 162
+2011,300710,kaliski,Gmina Szczytniki,7 945,6 238,"38,89",2 246
+2011,300711,kaliski,Gmina Żelazków,9 263,7 402,"43,30",3 064
+2011,300801,kępiński,Gmina Baranów,7 782,6 054,"46,94",2 645
+2011,300802,kępiński,Gmina Bralin,6 022,4 542,"48,35",2 047
+2011,300803,kępiński,Gmina Kępno,24 581,19 730,"48,55",9 015
+2011,300804,kępiński,Gmina Łęka Opatowska,5 340,4 105,"43,51",1 595
+2011,300805,kępiński,Gmina Perzów,3 835,3 046,"37,69",1 058
+2011,300806,kępiński,Gmina Rychtal,3 979,3 163,"38,10",1 096
+2011,300807,kępiński,Gmina Trzcinica,4 877,3 811,"41,62",1 423
+2011,300901,kolski,Miasto Koło,23 179,18 827,"49,33",8 880
+2011,300902,kolski,Gmina Babiak,8 150,6 421,"39,98",2 332
+2011,300903,kolski,Gmina Chodów,3 470,2 829,"34,29",888
+2011,300904,kolski,Gmina Dąbie,6 718,5 580,"41,15",2 116
+2011,300905,kolski,Gmina Grzegorzew,5 703,4 497,"39,78",1 661
+2011,300906,kolski,Gmina Kłodawa,13 542,10 842,"39,99",4 036
+2011,300907,kolski,Gmina Koło,7 485,5 862,"42,46",2 295
+2011,300908,kolski,Gmina Kościelec,6 664,5 285,"37,37",1 817
+2011,300909,kolski,Gmina Olszówka,4 778,3 786,"35,21",1 176
+2011,300910,kolski,Gmina Osiek Mały,6 033,4 590,"38,13",1 636
+2011,300911,kolski,Gmina Przedecz,4 425,3 531,"36,39",1 152
+2011,301001,koniński,Gmina Golina,11 814,9 379,"41,56",3 592
+2011,301002,koniński,Gmina Grodziec,5 304,4 103,"34,58",1 287
+2011,301003,koniński,Gmina Kazimierz Biskupi,11 199,8 769,"43,89",3 582
+2011,301004,koniński,Gmina Kleczew,9 985,7 853,"42,42",2 956
+2011,301005,koniński,Gmina Kramsk,10 655,8 256,"40,79",3 126
+2011,301006,koniński,Gmina Krzymów,7 454,5 751,"42,15",2 234
+2011,301007,koniński,Gmina Rychwał,8 412,6 543,"40,46",2 419
+2011,301008,koniński,Gmina Rzgów,7 069,5 471,"39,76",2 011
+2011,301009,koniński,Gmina Skulsk,6 271,4 902,"30,84",1 386
+2011,301010,koniński,Gmina Sompolno,10 650,8 336,"37,76",2 880
+2011,301011,koniński,Gmina Stare Miasto,11 198,8 575,"47,41",3 723
+2011,301012,koniński,Gmina Ślesin,13 796,11 087,"39,93",4 078
+2011,301013,koniński,Gmina Wierzbinek,7 698,5 875,"33,38",1 738
+2011,301014,koniński,Gmina Wilczyn,6 468,4 968,"37,14",1 666
+2011,301101,kościański,Miasto Kościan,23 437,19 762,"52,39",9 847
+2011,301102,kościański,Gmina Czempiń,11 076,9 047,"43,37",3 602
+2011,301103,kościański,Gmina Kościan,15 487,12 125,"42,15",4 678
+2011,301104,kościański,Gmina Krzywiń,10 083,7 826,"41,52",2 953
+2011,301105,kościański,Gmina Śmigiel,17 724,13 947,"40,14",5 090
+2011,301201,krotoszyński,Miasto Sulmierzyce,2 876,2 216,"42,15",831
+2011,301202,krotoszyński,Gmina Kobylin,8 225,6 405,"39,75",2 335
+2011,301203,krotoszyński,Gmina Koźmin Wielkopolski,13 710,10 849,"41,34",4 127
+2011,301204,krotoszyński,Gmina Krotoszyn,40 318,32 230,"47,84",14 687
+2011,301205,krotoszyński,Gmina Rozdrażew,5 228,4 011,"41,39",1 512
+2011,301206,krotoszyński,Gmina Zduny,7 271,5 707,"41,97",2 266
+2011,301301,leszczyński,Gmina Krzemieniewo,8 473,6 674,"38,01",2 324
+2011,301302,leszczyński,Gmina Lipno,6 741,5 244,"44,81",2 165
+2011,301303,leszczyński,Gmina Osieczna,8 855,7 013,"40,82",2 675
+2011,301304,leszczyński,Gmina Rydzyna,8 428,6 520,"43,71",2 644
+2011,301305,leszczyński,Gmina Święciechowa,7 436,5 800,"39,98",2 148
+2011,301306,leszczyński,Gmina Wijewo,3 692,2 774,"43,33",1 116
+2011,301307,leszczyński,Gmina Włoszakowice,8 997,6 904,"44,31",2 786
+2011,301401,międzychodzki,Gmina Chrzypsko Wielkie,3 265,2 631,"39,57",951
+2011,301402,międzychodzki,Gmina Kwilcz,6 263,4 857,"40,66",1 768
+2011,301403,międzychodzki,Gmina Międzychód,18 455,14 682,"44,01",6 103
+2011,301404,międzychodzki,Gmina Sieraków,8 801,6 929,"42,40",2 695
+2011,301501,nowotomyski,Gmina Kuślin,5 542,4 253,"38,73",1 518
+2011,301502,nowotomyski,Gmina Lwówek,9 262,7 115,"40,37",2 645
+2011,301503,nowotomyski,Gmina Miedzichowo,3 737,2 984,"42,83",1 127
+2011,301504,nowotomyski,Gmina Nowy Tomyśl,24 993,19 693,"50,07",9 365
+2011,301505,nowotomyski,Gmina Opalenica,16 073,12 603,"47,77",5 655
+2011,301506,nowotomyski,Gmina Zbąszyń,13 527,10 607,"47,94",4 730
+2011,301601,obornicki,Gmina Oborniki,32 533,25 915,"50,07",12 168
+2011,301602,obornicki,Gmina Rogoźno,17 625,13 695,"44,37",5 640
+2011,301603,obornicki,Gmina Ryczywół,7 383,5 655,"41,31",2 117
+2011,301701,ostrowski,Miasto Ostrów Wielkopolski,72 123,59 880,"51,81",29 748
+2011,301702,ostrowski,Gmina Nowe Skalmierzyce,15 261,12 069,"40,97",4 618
+2011,301703,ostrowski,Gmina Odolanów,14 267,11 156,"44,06",4 479
+2011,301704,ostrowski,Gmina Ostrów Wielkopolski,18 573,14 577,"43,96",5 979
+2011,301705,ostrowski,Gmina Przygodzice,11 836,9 203,"46,66",3 993
+2011,301706,ostrowski,Gmina Raszków,11 728,9 069,"40,60",3 465
+2011,301707,ostrowski,Gmina Sieroszewice,9 748,7 566,"36,89",2 560
+2011,301708,ostrowski,Gmina Sośnie,6 632,5 123,"39,92",1 843
+2011,301801,ostrzeszowski,Gmina Czajków,2 585,2 009,"35,94",676
+2011,301802,ostrzeszowski,Gmina Doruchów,5 271,4 024,"39,41",1 447
+2011,301803,ostrzeszowski,Gmina Grabów nad Prosną,7 877,6 164,"44,65",2 571
+2011,301804,ostrzeszowski,Gmina Kobyla Góra,6 055,4 712,"42,36",1 852
+2011,301805,ostrzeszowski,Gmina Kraszewice,3 685,2 837,"39,76",1 017
+2011,301806,ostrzeszowski,Gmina Mikstat,6 189,4 913,"36,17",1 621
+2011,301807,ostrzeszowski,Gmina Ostrzeszów,23 726,18 821,"45,48",8 103
+2011,301901,pilski,Miasto Piła,72 839,58 966,"53,83",30 513
+2011,301902,pilski,Gmina Białośliwie,4 940,3 762,"44,02",1 529
+2011,301903,pilski,Gmina Kaczory,7 713,6 038,"50,71",2 805
+2011,301904,pilski,Gmina Łobżenica,9 980,7 610,"40,81",2 820
+2011,301905,pilski,Gmina Miasteczko Krajeńskie,3 282,2 545,"42,67",1 023
+2011,301906,pilski,Gmina Szydłowo,8 471,6 434,"42,18",2 504
+2011,301907,pilski,Gmina Ujście,8 129,6 406,"43,87",2 573
+2011,301908,pilski,Gmina Wyrzysk,14 315,11 089,"41,09",4 199
+2011,301909,pilski,Gmina Wysoka,6 911,5 293,"40,56",1 957
+2011,302001,pleszewski,Gmina Chocz,4 795,3 762,"42,11",1 442
+2011,302002,pleszewski,Gmina Czermin,4 931,3 832,"41,34",1 425
+2011,302003,pleszewski,Gmina Dobrzyca,8 420,6 552,"39,21",2 327
+2011,302004,pleszewski,Gmina Gizałki,4 716,3 624,"33,86",1 108
+2011,302005,pleszewski,Gmina Gołuchów,10 283,7 986,"45,20",3 380
+2011,302006,pleszewski,Gmina Pleszew,29 750,24 149,"43,67",10 008
+2011,302101,poznański,Miasto Luboń,28 601,22 566,"59,78",13 016
+2011,302102,poznański,Miasto Puszczykowo,9 257,7 968,"64,29",4 932
+2011,302103,poznański,Gmina Buk,12 059,9 458,"50,99",4 449
+2011,302104,poznański,Gmina Czerwonak,24 967,20 246,"56,67",10 985
+2011,302105,poznański,Gmina Dopiewo,18 148,13 957,"59,22",7 951
+2011,302106,poznański,Gmina Kleszczewo,6 126,4 628,"55,92",2 487
+2011,302107,poznański,Gmina Komorniki,19 619,14 932,"59,64",8 590
+2011,302108,poznański,Gmina Kostrzyn,16 900,13 227,"47,43",5 852
+2011,302109,poznański,Gmina Kórnik,20 511,15 883,"56,07",8 468
+2011,302110,poznański,Gmina Mosina,27 333,21 801,"54,78",11 268
+2011,302111,poznański,Gmina Murowana Goślina,16 171,12 823,"52,62",6 334
+2011,302112,poznański,Gmina Pobiedziska,17 808,14 094,"52,76",6 946
+2011,302113,poznański,Gmina Rokietnica,12 538,9 614,"55,72",5 167
+2011,302114,poznański,Gmina Stęszew,14 585,11 504,"46,24",4 909
+2011,302115,poznański,Gmina Suchy Las,14 450,11 007,"66,43",7 093
+2011,302116,poznański,Gmina Swarzędz,43 278,34 004,"58,63",19 103
+2011,302117,poznański,Gmina Tarnowo Podgórne,21 308,16 741,"62,10",10 038
+2011,302201,rawicki,Gmina Bojanowo,9 079,7 002,"37,15",2 342
+2011,302202,rawicki,Gmina Jutrosin,7 193,5 504,"35,61",1 729
+2011,302203,rawicki,Gmina Miejska Górka,9 520,7 425,"36,62",2 358
+2011,302204,rawicki,Gmina Pakosław,4 748,3 579,"40,43",1 299
+2011,302205,rawicki,Gmina Rawicz,29 765,24 519,"44,42",10 110
+2011,302301,słupecki,Miasto Słupca,14 161,11 611,"52,73",5 855
+2011,302302,słupecki,Gmina Lądek,5 791,4 637,"39,51",1 719
+2011,302303,słupecki,Gmina Orchowo,4 046,3 136,"40,21",1 133
+2011,302304,słupecki,Gmina Ostrowite,5 183,4 109,"37,65",1 408
+2011,302305,słupecki,Gmina Powidz,2 128,1 792,"49,11",821
+2011,302306,słupecki,Gmina Słupca,9 426,7 297,"38,59",2 622
+2011,302307,słupecki,Gmina Strzałkowo,10 058,7 820,"44,32",3 177
+2011,302308,słupecki,Gmina Zagórów,9 123,7 170,"35,68",2 322
+2011,302401,szamotulski,Miasto Obrzycko,2 347,1 869,"44,57",773
+2011,302402,szamotulski,Gmina Duszniki,8 521,6 654,"46,51",2 766
+2011,302403,szamotulski,Gmina Kaźmierz,7 609,6 048,"45,70",2 583
+2011,302404,szamotulski,Gmina Obrzycko,4 329,3 413,"34,40",1 148
+2011,302405,szamotulski,Gmina Ostroróg,4 956,3 855,"40,75",1 444
+2011,302406,szamotulski,Gmina Pniewy,12 319,9 707,"46,99",4 178
+2011,302407,szamotulski,Gmina Szamotuły,28 659,23 200,"48,90",10 723
+2011,302408,szamotulski,Gmina Wronki,18 619,16 350,"48,74",7 376
+2011,302501,średzki,Gmina Dominowo,2 929,2 274,"41,07",844
+2011,302502,średzki,Gmina Krzykosy,6 694,5 209,"40,07",1 911
+2011,302503,średzki,Gmina Nowe Miasto nad Wartą,9 140,7 121,"38,88",2 547
+2011,302504,średzki,Gmina Środa Wielkopolska,30 124,24 739,"50,13",11 527
+2011,302505,średzki,Gmina Zaniemyśl,6 460,5 140,"48,07",2 281
+2011,302601,śremski,Gmina Brodnica,4 912,3 840,"39,32",1 403
+2011,302602,śremski,Gmina Dolsk,5 887,4 579,"37,56",1 569
+2011,302603,śremski,Gmina Książ Wielkopolski,8 623,6 613,"38,02",2 265
+2011,302604,śremski,Gmina Śrem,40 722,32 190,"49,77",15 053
+2011,302701,turecki,Miasto Turek,28 940,23 808,"50,39",11 453
+2011,302702,turecki,Gmina Brudzew,6 109,4 787,"38,83",1 726
+2011,302703,turecki,Gmina Dobra,6 393,5 062,"38,90",1 794
+2011,302704,turecki,Gmina Kawęczyn,5 350,4 212,"38,91",1 535
+2011,302705,turecki,Gmina Malanów,6 539,5 008,"34,80",1 605
+2011,302706,turecki,Gmina Przykona,4 351,3 395,"41,06",1 303
+2011,302707,turecki,Gmina Tuliszków,10 608,8 307,"39,83",3 036
+2011,302708,turecki,Gmina Turek,8 559,6 490,"39,69",2 426
+2011,302709,turecki,Gmina Władysławów,8 180,6 312,"45,58",2 621
+2011,302801,wągrowiecki,Miasto Wągrowiec,24 777,19 969,"49,10",9 368
+2011,302802,wągrowiecki,Gmina Damasławek,5 664,4 419,"43,97",1 750
+2011,302803,wągrowiecki,Gmina Gołańcz,8 641,6 592,"38,88",2 338
+2011,302804,wągrowiecki,Gmina Mieścisko,6 123,4 686,"36,79",1 581
+2011,302805,wągrowiecki,Gmina Skoki,8 953,6 990,"40,62",2 648
+2011,302806,wągrowiecki,Gmina Wapno,3 144,2 464,"34,86",796
+2011,302807,wągrowiecki,Gmina Wągrowiec,11 742,8 889,"38,19",3 143
+2011,302901,wolsztyński,Gmina Przemęt,13 938,10 804,"39,10",3 886
+2011,302902,wolsztyński,Gmina Siedlec,12 438,9 467,"45,39",3 893
+2011,302903,wolsztyński,Gmina Wolsztyn,29 745,23 491,"50,02",10 922
+2011,303001,wrzesiński,Gmina Kołaczkowo,6 142,4 754,"41,14",1 851
+2011,303002,wrzesiński,Gmina Miłosław,10 441,8 324,"42,53",3 307
+2011,303003,wrzesiński,Gmina Nekla,7 053,5 552,"45,28",2 354
+2011,303004,wrzesiński,Gmina Pyzdry,7 326,5 763,"39,63",2 078
+2011,303005,wrzesiński,Gmina Września,44 612,35 617,"48,75",16 594
+2011,303101,złotowski,Miasto Złotów,18 546,15 132,"50,53",7 219
+2011,303102,złotowski,Gmina Jastrowie,11 870,9 197,"37,48",3 135
+2011,303103,złotowski,Gmina Krajenka,7 533,5 809,"44,43",2 375
+2011,303104,złotowski,Gmina Lipka,5 750,4 389,"39,37",1 593
+2011,303105,złotowski,Gmina Okonek,9 063,7 133,"34,78",2 265
+2011,303106,złotowski,Gmina Tarnówka,3 172,2 487,"37,68",837
+2011,303107,złotowski,Gmina Zakrzewo,4 950,3 841,"44,96",1 611
+2011,303108,złotowski,Gmina Złotów,9 403,7 194,"36,50",2 406
+2011,306101,Kalisz,Miasto Kalisz,102 644,84 285,"54,17",44 088
+2011,306201,Konin,Miasto Konin,77 158,63 744,"53,38",32 696
+2011,306301,Leszno,Miasto Leszno,62 890,50 865,"52,94",25 914
+2011,306401,Poznań,Miasto Poznań,513 703,432 413,"62,26",262 409
+2011,320101,białogardzki,Miasto Białogard,23 970,19 475,"45,64",8 360
+2011,320102,białogardzki,Gmina Białogard,7 975,6 206,"29,20",1 628
+2011,320103,białogardzki,Gmina Karlino,9 292,7 162,"35,63",2 317
+2011,320104,białogardzki,Gmina Tychowo,7 073,6 007,"38,11",2 065
+2011,320201,choszczeński,Gmina Bierzwnik,5 025,3 999,"31,38",1 140
+2011,320202,choszczeński,Gmina Choszczno,22 207,18 237,"39,82",6 821
+2011,320203,choszczeński,Gmina Drawno,5 371,4 387,"37,13",1 497
+2011,320204,choszczeński,Gmina Krzęcin,3 909,3 131,"26,99",786
+2011,320205,choszczeński,Gmina Pełczyce,8 140,6 395,"35,75",2 102
+2011,320206,choszczeński,Gmina Recz,5 732,4 525,"31,40",1 293
+2011,320301,drawski,Gmina Czaplinek,11 971,9 540,"37,17",3 347
+2011,320302,drawski,Gmina Drawsko Pomorskie,16 927,13 524,"42,01",5 244
+2011,320303,drawski,Gmina Kalisz Pomorski,7 421,5 866,"31,44",1 677
+2011,320304,drawski,Gmina Ostrowice,2 617,2 027,"30,83",549
+2011,320305,drawski,Gmina Wierzchowo,4 507,4 035,"38,81",1 318
+2011,320306,drawski,Gmina Złocieniec,15 568,12 546,"43,39",5 068
+2011,320402,goleniowski,Gmina Goleniów,34 056,28 078,"47,13",12 613
+2011,320403,goleniowski,Gmina Maszewo,8 489,6 623,"33,50",2 022
+2011,320404,goleniowski,Gmina Nowogard,25 206,20 259,"43,01",8 106
+2011,320405,goleniowski,Gmina Osina,2 933,2 245,"38,53",770
+2011,320406,goleniowski,Gmina Przybiernów,5 255,4 130,"33,24",1 292
+2011,320407,goleniowski,Gmina Stepnica,4 798,3 850,"35,06",1 245
+2011,320501,gryficki,Gmina Brojce,3 883,2 961,"30,56",808
+2011,320502,gryficki,Gmina Gryfice,23 763,19 217,"43,21",7 785
+2011,320503,gryficki,Gmina Karnice,4 286,3 344,"39,38",1 245
+2011,320504,gryficki,Gmina Płoty,9 392,7 511,"39,09",2 706
+2011,320507,gryficki,Gmina Rewal,3 716,3 202,"58,65",1 774
+2011,320508,gryficki,Gmina Trzebiatów,16 698,13 236,"39,32",4 843
+2011,320601,gryfiński,Gmina Banie,6 620,5 179,"33,19",1 523
+2011,320602,gryfiński,Gmina Cedynia,4 475,3 525,"28,57",911
+2011,320603,gryfiński,Gmina Chojna,14 017,11 113,"37,57",3 879
+2011,320604,gryfiński,Gmina Gryfino,31 314,25 183,"47,81",11 384
+2011,320605,gryfiński,Gmina Mieszkowice,7 582,5 934,"33,52",1 821
+2011,320606,gryfiński,Gmina Moryń,4 461,3 528,"34,35",1 092
+2011,320607,gryfiński,Gmina Stare Czarnowo,3 843,3 067,"39,84",1 088
+2011,320608,gryfiński,Gmina Trzcińsko-Zdrój,5 672,4 535,"32,81",1 358
+2011,320609,gryfiński,Gmina Widuchowa,5 583,4 329,"31,95",1 287
+2011,320701,kamieński,Gmina Dziwnów,3 981,3 684,"52,31",1 836
+2011,320702,kamieński,Gmina Golczewo,6 063,4 867,"38,05",1 719
+2011,320703,kamieński,Gmina Kamień Pomorski,14 556,12 319,"43,74",5 092
+2011,320704,kamieński,Gmina Międzyzdroje,6 508,5 547,"46,91",2 472
+2011,320705,kamieński,Gmina Świerzno,4 363,3 384,"32,74",1 034
+2011,320706,kamieński,Gmina Wolin,12 398,10 043,"41,67",3 856
+2011,320801,kołobrzeski,Miasto Kołobrzeg,44 989,39 142,"55,68",20 826
+2011,320802,kołobrzeski,Gmina Dygowo,5 536,4 342,"39,59",1 555
+2011,320803,kołobrzeski,Gmina Gościno,5 233,4 011,"36,08",1 324
+2011,320804,kołobrzeski,Gmina Kołobrzeg,9 832,8 020,"48,75",3 657
+2011,320805,kołobrzeski,Gmina Rymań,4 210,3 290,"35,62",1 063
+2011,320806,kołobrzeski,Gmina Siemyśl,3 637,2 802,"39,51",1 003
+2011,320807,kołobrzeski,Gmina Ustronie Morskie,3 582,3 078,"48,93",1 433
+2011,320901,koszaliński,Gmina Będzino,8 476,6 675,"38,94",2 336
+2011,320902,koszaliński,Gmina Biesiekierz,5 921,4 532,"49,10",2 083
+2011,320903,koszaliński,Gmina Bobolice,9 785,7 979,"35,66",2 580
+2011,320904,koszaliński,Gmina Manowo,6 501,5 148,"47,44",2 238
+2011,320905,koszaliński,Gmina Mielno,4 897,4 529,"52,75",2 248
+2011,320906,koszaliński,Gmina Polanów,9 141,7 135,"32,43",2 137
+2011,320907,koszaliński,Gmina Sianów,13 521,10 576,"38,98",3 742
+2011,320908,koszaliński,Gmina Świeszyno,6 409,4 998,"45,92",2 143
+2011,321001,myśliborski,Gmina Barlinek,19 523,15 635,"41,66",6 162
+2011,321002,myśliborski,Gmina Boleszkowice,2 968,2 343,"33,85",709
+2011,321003,myśliborski,Gmina Dębno,20 879,16 632,"40,72",6 394
+2011,321004,myśliborski,Gmina Myślibórz,20 534,16 646,"38,18",5 975
+2011,321005,myśliborski,Gmina Nowogródek Pomorski,3 419,2 639,"34,98",832
+2011,321101,policki,Gmina Dobra (Szczecińska),16 134,12 552,"63,02",7 641
+2011,321102,policki,Gmina Kołbaskowo,10 310,8 032,"49,13",3 781
+2011,321103,policki,Gmina Nowe Warpno,1 606,1 334,"48,20",593
+2011,321104,policki,Gmina Police,39 629,32 012,"48,66",14 804
+2011,321201,pyrzycki,Gmina Bielice,3 106,2 449,"35,81",780
+2011,321202,pyrzycki,Gmina Kozielice,2 662,2 102,"34,30",676
+2011,321203,pyrzycki,Gmina Lipiany,6 153,4 961,"37,09",1 723
+2011,321204,pyrzycki,Gmina Przelewice,5 404,4 279,"30,57",1 205
+2011,321205,pyrzycki,Gmina Pyrzyce,19 589,15 780,"42,20",6 164
+2011,321206,pyrzycki,Gmina Warnice,3 553,2 814,"36,89",953
+2011,321301,sławieński,Miasto Darłowo,14 027,11 599,"46,15",5 026
+2011,321302,sławieński,Miasto Sławno,12 853,10 398,"44,14",4 269
+2011,321303,sławieński,Gmina Darłowo,7 953,6 338,"39,38",2 286
+2011,321304,sławieński,Gmina Malechowo,6 694,5 199,"34,06",1 615
+2011,321305,sławieński,Gmina Postomino,7 152,5 565,"30,98",1 542
+2011,321306,sławieński,Gmina Sławno,8 970,6 823,"31,70",1 975
+2011,321401,stargardzki,Miasto Stargard Szczeciński,67 258,55 566,"50,67",26 754
+2011,321402,stargardzki,Gmina Chociwel,6 061,4 858,"37,16",1 650
+2011,321403,stargardzki,Gmina Dobrzany,5 144,4 062,"32,64",1 200
+2011,321404,stargardzki,Gmina Dolice,8 215,6 349,"33,50",1 960
+2011,321405,stargardzki,Gmina Ińsko,3 713,3 028,"33,95",934
+2011,321406,stargardzki,Gmina Kobylanka,4 359,3 531,"51,15",1 726
+2011,321408,stargardzki,Gmina Marianowo,3 161,2 505,"38,56",837
+2011,321409,stargardzki,Gmina Stara Dąbrowa,3 710,2 779,"29,00",740
+2011,321410,stargardzki,Gmina Stargard Szczeciński,12 187,9 446,"36,29",3 061
+2011,321411,stargardzki,Gmina Suchań,4 324,3 472,"31,57",976
+2011,321501,szczecinecki,Miasto Szczecinek,39 830,32 414,"49,03",15 143
+2011,321502,szczecinecki,Gmina Barwice,9 019,7 057,"29,86",1 900
+2011,321503,szczecinecki,Gmina Biały Bór,5 311,4 205,"35,51",1 335
+2011,321504,szczecinecki,Gmina Borne Sulinowo,9 455,7 631,"38,76",2 781
+2011,321505,szczecinecki,Gmina Grzmiąca,5 272,4 083,"30,76",1 134
+2011,321506,szczecinecki,Gmina Szczecinek,9 474,7 218,"32,61",2 149
+2011,321601,świdwiński,Miasto Świdwin,15 743,12 586,"43,06",5 103
+2011,321602,świdwiński,Gmina Brzeżno,2 922,2 282,"33,70",699
+2011,321603,świdwiński,Gmina Połczyn-Zdrój,16 099,13 276,"42,94",5 225
+2011,321604,świdwiński,Gmina Rąbino,4 000,3 105,"34,78",985
+2011,321605,świdwiński,Gmina Sławoborze,4 199,3 339,"30,61",886
+2011,321606,świdwiński,Gmina Świdwin,6 273,4 898,"32,28",1 436
+2011,321701,wałecki,Miasto Wałcz,25 827,20 988,"50,72",10 108
+2011,321702,wałecki,Gmina Człopa,5 211,4 062,"35,01",1 285
+2011,321703,wałecki,Gmina Mirosławiec,5 644,4 370,"37,46",1 475
+2011,321704,wałecki,Gmina Tuczno,5 072,4 043,"33,04",1 203
+2011,321705,wałecki,Gmina Wałcz,12 696,9 792,"36,31",3 336
+2011,321801,łobeski,Gmina Dobra,4 464,3 537,"30,17",946
+2011,321802,łobeski,Gmina Łobez,14 295,11 522,"40,32",4 380
+2011,321803,łobeski,Gmina Radowo Małe,3 865,3 074,"30,77",858
+2011,321804,łobeski,Gmina Resko,8 292,6 566,"36,40",2 183
+2011,321805,łobeski,Gmina Węgorzyno,7 312,5 809,"33,43",1 757
+2011,326101,Koszalin,Miasto Koszalin,103 869,86 854,"55,21",46 557
+2011,326201,Szczecin,Miasto Szczecin,380 024,316 217,"55,37",170 339
+2011,326301,Świnoujście,Miasto Świnoujście,39 402,33 819,"50,90",16 766
